@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Produced non-financial assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.12"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.11</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Fixed assets by type of asset</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.111"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.112"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.113"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.114"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.115"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.116"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.117"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.111">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.111</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dwellings</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.112">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.112</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other buildings and structures</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1121"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1122"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1123"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1121">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1121</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Buildings other than dwellings</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1122">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1122</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other structures</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11221"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11222"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11221">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.11221</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Roads and bridges</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11222">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.11222</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other infrastructure and structures</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1123">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1123</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Land improvements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.113">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.113</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Machinery and equipment</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1131"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1132"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1139"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1131">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1131</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Transport equipment</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.113"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1132">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1132</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">ICT equipment</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11321"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11322"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.113"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11321">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.11321</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Computer hardware</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1132"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11322">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.11322</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Telecommunication equipment</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1132"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1139">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1139</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other machinery and equipment</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.113"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.114">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.114</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Weapons systems</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.115">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.115</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Cultivated biological resources</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1151"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1152"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1151">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1151</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Animal resources yielding repeat products</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.115"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1152">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1152</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Tree, crop and plant resources yielding repeat products</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.115"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.116">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.116</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Costs of ownership transfer on non-produced assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.117">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.117</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Intellectual property products</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1171"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1172"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1173"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1174"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1179"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1171">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1171</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Research and development</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.117"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1172">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1172</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mineral exploration and evaluation</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.117"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1173">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1173</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Computer software and databases</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11731"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11732"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.117"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11731">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.11731</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Computer software</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1173"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.11732">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.11732</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Databases</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1173"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1174">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1174</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Entertainment, literary or artistic originals</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.117"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1179">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1179</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other intellectual property products</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.117"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.12">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.12</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Inventories by type of inventory</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.121"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.122"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.123"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.124"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.125"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.121">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.121</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Materials and supplies</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.122">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.122</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Work-in-progress</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1221"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1222"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1221">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1221</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Work-in-progress on cultivated biological assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1222">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.1222</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other work-in-progress</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.123">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.123</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Finished goods</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.124">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.124</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Military inventories</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.125">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.125</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Goods for resale</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.13">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.13</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Valuables</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.131"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.132"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.133"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.131">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.131</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Precious metals and stones</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.132">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.132</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Antiques and other art objects</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.133">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.133</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other valuables</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.2</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-produced non-financial assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.21"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.22"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.23"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.21">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.21</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Natural resources</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.211"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.212"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.213"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.214"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.215"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.211">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.211</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Land</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2111"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2112"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2113"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2119"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2111">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.2111</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Land underlying buildings and structures</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2112">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.2112</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Land under cultivation</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2113">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.2113</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Recreational land and associated surface water</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2119">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.2119</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other land and associated surface water</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.212">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.212</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mineral and energy reserves</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.213">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.213</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-cultivated biological resources</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.214">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.214</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Water resources</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.215">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.215</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other natural resources</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2151"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2159"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2151">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.2151</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Radio spectra</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.215"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2159">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.2159</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.215"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.22">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.22</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Contracts, leases and licences</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.221"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.222"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.223"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.224"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.221">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.221</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Marketable operating leases</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.222">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.222</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Permits to use natural resources</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.223">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.223</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Permits to undertake specific activities</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.224">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.224</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Entitlement to future goods and services on an exclusive basis</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.23">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">AN.23</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Purchases less sales of goodwill and marketing assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_non-financial_assets/AN.2"/>
+</rdf:Description>
+
+</rdf:RDF>

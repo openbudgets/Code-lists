@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.1g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.1g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Value added, gross/Gross domestic product</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.2g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.2g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Operating surplus, gross</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.3g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.3g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mixed income, gross</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.4g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.4g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Entrepreneurial income, gross</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.5g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.5g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Balance of primary incomes, gross/National income, gross</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.6g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.6g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Disposable income, gross</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.7g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.7g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Adjusted disposable income, gross</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.8g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.8g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Saving, gross</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.9</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net lending (+)/net borrowing (–)</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9N"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9F"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.90"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_balancing_items_and_net_worth"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9N">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.9N</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net lending (+)/net borrowing (–) of the non-financial accounts</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9F">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.9F</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net lending (+)/net borrowing (–) of the financial accounts</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.10">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.10</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Changes in net worth</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.101"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.102"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.103"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.101">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.101</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Changes in net worth due to saving and capital transfers (7)  (8)</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.10"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.102">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.102</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Changes in net worth due to other changes in volume of assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.10"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.103">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.103</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Changes in net worth due to nominal holding gains and losses</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.1031"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.1032"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.10"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.1031">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.1031</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Changes in net worth due to neutral holding gains and losses</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.103"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.1032">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.1032</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Changes in net worth due to real holding gains and losses</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.103"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.11">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.11</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">External balance of goods and services</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.12">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.12</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Current external balance</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.90">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">B.90</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net worth</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/B.9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_balancing_items_and_net_worth/BF.90">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">BF.90</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Financial net worth</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+</rdf:RDF>
