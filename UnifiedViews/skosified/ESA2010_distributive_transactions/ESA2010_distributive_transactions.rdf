@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.1</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Compensation of employees</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.11"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.11">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.11</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Wages and salaries</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.12">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.12</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ social contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.121"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.122"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.121">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.121</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ actual social contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1211"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1212"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1211">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.1211</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ actual pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.121"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1212">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.1212</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ actual non-pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.121"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.122">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.122</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ imputed social contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1221"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1222"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.12"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1221">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.1221</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ imputed pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.1222">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.1222</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ imputed non-pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.2">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.2</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Taxes on production and imports</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.21"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.29"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.21">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.21</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Taxes on products</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.211"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.212"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.214"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.211">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.211</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Value added type taxes (VAT)</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.212">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.212</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Taxes and duties on imports excluding VAT</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.2121"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.2122"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.2121">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.2121</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Import duties</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.2122">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.2122</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Taxes on imports excluding VAT and duties</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.214">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.214</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Taxes on products except VAT and import taxes</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.21"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.29">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.29</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other taxes on production</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.3">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.3</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Subsidies</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.31"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.39"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.31">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.31</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Subsidies on products</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.311"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.319"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.311">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.311</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Import subsidies</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.31"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.319">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.319</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other subsidies on products</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.31"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.39">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.39</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other subsidies on production</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.4</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Property income</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.41"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.42"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.43"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.44"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.45"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.41">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.41</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Interest</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.42">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.42</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Distributed income of corporations</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.421"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.422"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.421">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.421</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dividends</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.422">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.422</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Withdrawals from income of quasi-corporations</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.43">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.43</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Reinvested earnings on foreign direct investment</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.44">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.44</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other investment income</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.441"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.442"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.443"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.441">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.441</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment income attributable to insurance policy holders</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.442">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.442</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment income payable on pension entitlements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.443">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.443</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment income attributable to collective investment fund shareholders</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4431"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4432"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.44"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4431">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.4431</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dividends attributable to collective investment fund shareholders</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.443"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4432">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.4432</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Retained earnings attributable to collective investment fund shareholders</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.443"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.45">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.45</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Rent</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.5">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.5</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Current taxes on income, wealth, etc.</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.51"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.59"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.51">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.51</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Taxes on income</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.59">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.59</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other current taxes</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social contributions and benefits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.61"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.62"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.63"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.61">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.61</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net social contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.611"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.612"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.613"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.614"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.611">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.611</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ actual social contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6111"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6112"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6111">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6111</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ actual pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.611"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6112">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6112</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ actual non-pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.611"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.612">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.612</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ imputed social contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6121"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6122"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6121">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6121</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ imputed pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.612"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6122">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6122</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employers’ imputed non-pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.612"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.613">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.613</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Households’ actual social contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6131"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6132"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6131">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6131</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Households’ actual pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.613"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6132">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6132</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Households’ actual non-pension contributions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.613"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.614">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.614</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Households’ social contribution supplements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6141"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6142"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6141">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6141</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Households’ pension contribution supplements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.614"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6142">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6142</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Households’ non-pension contribution supplements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.614"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.61SC">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.61SC</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social insurance scheme service charges (–) </prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.62">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.62</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social benefits other than social transfers in kind</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.621"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.622"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.623"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.621">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.621</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social security benefits in cash</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6211"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6212"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.62"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6211">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6211</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social security pension benefits in cash</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.621"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6212">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6212</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social security non-pension benefits in cash</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.621"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.622">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.622</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other social insurance benefits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6221"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6222"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.62"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6221">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6221</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other social insurance pension benefits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.622"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6222">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.6222</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other social insurance non-pension benefits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.622"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.623">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.623</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social assistance benefits in cash</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.62"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.63">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.63</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social transfers in kind</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.631"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.632"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.631">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.631</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social transfers in kind — non-market production</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.63"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.632">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.632</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Social transfers in kind — purchased market production</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.63"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.7">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.7</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other current transfers</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.71"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.72"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.73"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.74"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.75"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.76"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.71">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.71</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net non-life insurance premiums</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.711"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.712"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.711">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.711</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net non-life direct insurance premiums</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.712">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.712</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net non-life reinsurance premiums</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.72">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.72</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-life insurance claims</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.721"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.722"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.721">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.721</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-life direct insurance claims</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.722">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.722</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-life reinsurance claims</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.73">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.73</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Current transfers within general government</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.74">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.74</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Current international cooperation</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.75">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.75</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Miscellaneous current transfers</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.751"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.752"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.759"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.751">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.751</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Current transfers to NPISHs</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.75"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.752">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.752</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Current transfers between households</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.75"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.759">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.759</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other miscellaneous current transfers</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.75"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.76">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.76</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">VAT- and GNI-based EU own resources</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.8">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.8</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Adjustment for the change in pension entitlements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.9">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.9</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital transfers</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_distributive_transactions"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.9r"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.9p"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.9r">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.9r</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital transfers, receivable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.91r">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.91r</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital taxes, receivable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.92r">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.92r</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment grants, receivable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.99r">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.99r</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other capital transfers, receivable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.9p">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.9p</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital transfers, payable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.9"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.91p">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.91p</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital taxes, payable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.92p">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.92p</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment grants, payable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_distributive_transactions/D.99p">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">D.99p</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other capital transfers, payable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+</rdf:RDF>

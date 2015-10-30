@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.1">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.1</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Output</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_transactions_in_products"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.11"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.12"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.13"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.11">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.11</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Market output</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.119"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.119">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.119</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Financial intermediation services indirectly measured (FISIM)</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.11"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.12">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.12</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Output for own final use</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.13">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.13</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-market output</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.2">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.2</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Intermediate consumption</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_transactions_in_products"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.3">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.3</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Final consumption expenditure</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_transactions_in_products"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.31"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.32"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.31">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.31</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Individual consumption expenditure</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.32">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.32</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Collective consumption expenditure</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.4">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.4</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Actual final consumption</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_transactions_in_products"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.41"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.42"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.41">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.41</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Actual individual consumption</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.42">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.42</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Actual collective consumption</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.5</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Gross capital formation/P.5n net capital formation</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_transactions_in_products"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.52"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.53"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51g">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.51g</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Gross fixed capital formation</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.511">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.511</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Acquisitions less disposals of fixed assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5111"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5112"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5113"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5111">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.5111</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Acquisitions of new fixed assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.511"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5112">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.5112</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Acquisitions of existing fixed assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.511"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5113">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.5113</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Disposals of existing fixed assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.511"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.512">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.512</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Costs of ownership transfer on non-produced assets</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51c">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.51c</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Consumption of fixed capital (–)</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51c1"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51c2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51c1">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.51c1</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Consumption of fixed capital on gross operating surplus (–)</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51c2">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.51c2</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Consumption of fixed capital on gross mixed income (–)</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.51n">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.51n</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Net fixed capital formation</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.52">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.52</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Changes in inventories</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.53">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.53</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Acquisitions less disposals of valuables</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.6">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.6</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Exports of goods and services</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_transactions_in_products"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.61"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.62"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.61">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.61</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Exports of goods</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.62">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.62</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Exports of services</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.7">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.7</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Imports of goods and services</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_transactions_in_products"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.71"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.71">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.71</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Imports of goods</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.72">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">P.72</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Imports of services</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_transactions_in_products/P.7"/>
+</rdf:Description>
+
+</rdf:RDF>

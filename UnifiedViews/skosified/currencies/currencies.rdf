@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://www.example.com/resource/Afghani">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Afghani</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">971</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/AFGHANISTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Euro">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Euro</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">978</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ÅLAND ISLANDS"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ANDORRA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/AUSTRIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BELGIUM"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CYPRUS"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ESTONIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/EUROPEAN UNION"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FINLAND"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FRANCE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FRENCH GUIANA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FRENCH SOUTHERN TERRITORIES (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GERMANY"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GREECE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GUADELOUPE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/HOLY SEE (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/IRELAND"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ITALY"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LATVIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LITHUANIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LUXEMBOURG"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MALTA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MARTINIQUE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MAYOTTE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MONACO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MONTENEGRO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NETHERLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PORTUGAL"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/RÉUNION"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAINT BARTHÉLEMY"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAINT MARTIN (FRENCH PART)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAINT PIERRE AND MIQUELON"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAN MARINO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SLOVAKIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SLOVENIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SPAIN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Lek">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lek</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">008</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ALBANIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Algerian Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Algerian Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">012</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ALGERIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/US Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">US Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">840</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/AMERICAN SAMOA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BONAIRE, SINT EUSTATIUS AND SABA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BRITISH INDIAN OCEAN TERRITORY (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ECUADOR"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/EL SALVADOR"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GUAM"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/HAITI"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MARSHALL ISLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MICRONESIA (FEDERATED STATES OF)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NORTHERN MARIANA ISLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PALAU"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PANAMA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PUERTO RICO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TIMOR-LESTE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TURKS AND CAICOS ISLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UNITED STATES MINOR OUTLYING ISLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UNITED STATES OF AMERICA (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/VIRGIN ISLANDS (BRITISH)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/VIRGIN ISLANDS (U.S.)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kwanza">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kwanza</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">973</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ANGOLA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/East Caribbean Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">East Caribbean Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">951</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ANGUILLA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ANTIGUA AND BARBUDA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/DOMINICA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GRENADA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MONTSERRAT"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAINT KITTS AND NEVIS"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAINT LUCIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAINT VINCENT AND THE GRENADINES"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/No universal currency">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">No universal currency</label>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ANTARCTICA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PALESTINE, STATE OF"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Argentine Peso">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Argentine Peso</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">032</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ARGENTINA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Armenian Dram">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Armenian Dram</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">051</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ARMENIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Aruban Florin">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Aruban Florin</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">533</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ARUBA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Australian Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Australian Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">036</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/AUSTRALIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CHRISTMAS ISLAND"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/COCOS (KEELING) ISLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/HEARD ISLAND AND McDONALD ISLANDS"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/KIRIBATI"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NAURU"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NORFOLK ISLAND"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TUVALU"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Azerbaijanian Manat">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Azerbaijanian Manat</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">944</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/AZERBAIJAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bahamian Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bahamian Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">044</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BAHAMAS (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bahraini Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bahraini Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">048</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BAHRAIN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Taka">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Taka</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">050</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BANGLADESH"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Barbados Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Barbados Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">052</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BARBADOS"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Belarussian Ruble">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Belarussian Ruble</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">974</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BELARUS"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Belize Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Belize Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">084</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BELIZE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/CFA Franc BCEAO">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">CFA Franc BCEAO</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">952</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BENIN"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BURKINA FASO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CÔTE D'IVOIRE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GUINEA-BISSAU"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MALI"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NIGER (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SENEGAL"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TOGO"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bermudian Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bermudian Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">060</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BERMUDA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Ngultrum">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ngultrum</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">064</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BHUTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Indian Rupee">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Indian Rupee</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">356</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BHUTAN"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/INDIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Boliviano">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Boliviano</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">068</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BOLIVIA (PLURINATIONAL STATE OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Mvdol">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mvdol</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">984</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BOLIVIA (PLURINATIONAL STATE OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Convertible Mark">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Convertible Mark</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">977</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BOSNIA AND HERZEGOVINA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Pula">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pula</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">072</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BOTSWANA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Norwegian Krone">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Norwegian Krone</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">578</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BOUVET ISLAND"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NORWAY"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SVALBARD AND JAN MAYEN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Brazilian Real">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Brazilian Real</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">986</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BRAZIL"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Brunei Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Brunei Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">096</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BRUNEI DARUSSALAM"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bulgarian Lev">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bulgarian Lev</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">975</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BULGARIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Burundi Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Burundi Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">108</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/BURUNDI"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Cabo Verde Escudo">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cabo Verde Escudo</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">132</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CABO VERDE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Riel">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Riel</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">116</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CAMBODIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/CFA Franc BEAC">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">CFA Franc BEAC</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">950</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CAMEROON"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CENTRAL AFRICAN REPUBLIC (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CHAD"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CONGO (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/EQUATORIAL GUINEA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GABON"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Canadian Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Canadian Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">124</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CANADA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Cayman Islands Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cayman Islands Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">136</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CAYMAN ISLANDS (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Unidad de Fomento">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Unidad de Fomento</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">990</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CHILE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Chilean Peso">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Chilean Peso</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">152</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CHILE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Yuan Renminbi">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Yuan Renminbi</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">156</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CHINA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Colombian Peso">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Colombian Peso</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/COLOMBIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Unidad de Valor Real">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Unidad de Valor Real</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">970</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/COLOMBIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Comoro Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Comoro Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">174</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/COMOROS (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Congolese Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Congolese Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">976</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CONGO (THE DEMOCRATIC REPUBLIC OF THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/New Zealand Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">New Zealand Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">554</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/COOK ISLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NEW ZEALAND"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NIUE"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PITCAIRN"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TOKELAU"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Costa Rican Colon">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Costa Rican Colon</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">188</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/COSTA RICA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kuna">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kuna</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">191</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CROATIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Peso Convertible">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Peso Convertible</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">931</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CUBA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Cuban Peso">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cuban Peso</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">192</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CUBA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Netherlands Antillean Guilder">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Netherlands Antillean Guilder</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">532</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CURAÇAO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SINT MAARTEN (DUTCH PART)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Czech Koruna">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Czech Koruna</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">203</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/CZECH REPUBLIC (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Danish Krone">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Danish Krone</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">208</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/DENMARK"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FAROE ISLANDS (THE)"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GREENLAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Djibouti Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Djibouti Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">262</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/DJIBOUTI"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Dominican Peso">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dominican Peso</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">214</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/DOMINICAN REPUBLIC (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Egyptian Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Egyptian Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">818</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/EGYPT"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/El Salvador Colon">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">El Salvador Colon</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">222</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/EL SALVADOR"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Nakfa">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Nakfa</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">232</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ERITREA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Ethiopian Birr">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ethiopian Birr</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">230</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ETHIOPIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Falkland Islands Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Falkland Islands Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">238</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FALKLAND ISLANDS (THE) [MALVINAS]"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Fiji Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Fiji Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">242</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FIJI"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/CFP Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">CFP Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">953</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/FRENCH POLYNESIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NEW CALEDONIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/WALLIS AND FUTUNA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Dalasi">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dalasi</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">270</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GAMBIA (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Lari">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lari</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">981</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GEORGIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Ghana Cedi">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ghana Cedi</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">936</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GHANA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Gibraltar Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Gibraltar Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">292</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GIBRALTAR"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Quetzal">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Quetzal</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">320</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GUATEMALA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Pound Sterling">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pound Sterling</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">826</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GUERNSEY"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ISLE OF MAN"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/JERSEY"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Guinea Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Guinea Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">324</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GUINEA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Guyana Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Guyana Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">328</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/GUYANA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Gourde">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Gourde</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">332</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/HAITI"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Lempira">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lempira</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">340</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/HONDURAS"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Hong Kong Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Hong Kong Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">344</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/HONG KONG"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Forint">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Forint</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">348</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/HUNGARY"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Iceland Krona">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Iceland Krona</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">352</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ICELAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Rupiah">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rupiah</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">360</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/INDONESIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/SDR (Special Drawing Right)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">SDR (Special Drawing Right)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">960</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/INTERNATIONAL MONETARY FUND (IMF) "/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Iranian Rial">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Iranian Rial</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">364</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/IRAN (ISLAMIC REPUBLIC OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Iraqi Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Iraqi Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">368</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/IRAQ"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/New Israeli Sheqel">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">New Israeli Sheqel</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">376</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ISRAEL"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Jamaican Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Jamaican Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">388</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/JAMAICA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Yen">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Yen</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">392</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/JAPAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Jordanian Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Jordanian Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">400</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/JORDAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Tenge">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tenge</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">398</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/KAZAKHSTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kenyan Shilling">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kenyan Shilling</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">404</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/KENYA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/North Korean Won">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">North Korean Won</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">408</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Won">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Won</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">410</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/KOREA (THE REPUBLIC OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kuwaiti Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kuwaiti Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">414</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/KUWAIT"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Som">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Som</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">417</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/KYRGYZSTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kip">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kip</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">418</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Lebanese Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lebanese Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">422</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LEBANON"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Loti">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Loti</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">426</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LESOTHO"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Rand">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rand</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">710</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LESOTHO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NAMIBIA"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SOUTH AFRICA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Liberian Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Liberian Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">430</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LIBERIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Libyan Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Libyan Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">434</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LIBYA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Swiss Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Swiss Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">756</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/LIECHTENSTEIN"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SWITZERLAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Pataca">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pataca</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">446</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MACAO"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Denar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Denar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">807</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Malagasy Ariary">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Malagasy Ariary</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">969</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MADAGASCAR"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kwacha">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kwacha</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">454</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MALAWI"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Malaysian Ringgit">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Malaysian Ringgit</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">458</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MALAYSIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Rufiyaa">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rufiyaa</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">462</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MALDIVES"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Ouguiya">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ouguiya</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">478</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MAURITANIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Mauritius Rupee">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mauritius Rupee</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">480</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MAURITIUS"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/ADB Unit of Account">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">ADB Unit of Account</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">965</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Mexican Peso">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mexican Peso</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">484</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MEXICO"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Mexican Unidad de Inversion (UDI)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mexican Unidad de Inversion (UDI)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">979</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MEXICO"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Moldovan Leu">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Moldovan Leu</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">498</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MOLDOVA (THE REPUBLIC OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Tugrik">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tugrik</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">496</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MONGOLIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Moroccan Dirham">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Moroccan Dirham</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">504</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MOROCCO"/>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/WESTERN SAHARA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Mozambique Metical">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mozambique Metical</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">943</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MOZAMBIQUE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kyat">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kyat</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">104</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/MYANMAR"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Namibia Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Namibia Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">516</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NAMIBIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Nepalese Rupee">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Nepalese Rupee</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">524</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NEPAL"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Cordoba Oro">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cordoba Oro</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">558</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NICARAGUA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Naira">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Naira</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">566</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/NIGERIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Rial Omani">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rial Omani</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">512</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/OMAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Pakistan Rupee">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pakistan Rupee</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">586</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PAKISTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Balboa">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Balboa</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">590</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PANAMA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Kina">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kina</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">598</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PAPUA NEW GUINEA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Guarani">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Guarani</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">600</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PARAGUAY"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Nuevo Sol">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Nuevo Sol</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">604</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PERU"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Philippine Peso">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Philippine Peso</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">608</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/PHILIPPINES (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Zloty">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Zloty</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">985</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/POLAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Qatari Rial">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Qatari Rial</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">634</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/QATAR"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Romanian Leu">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Romanian Leu</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">946</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ROMANIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Russian Ruble">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Russian Ruble</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">643</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/RUSSIAN FEDERATION (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Rwanda Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rwanda Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">646</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/RWANDA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Saint Helena Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Saint Helena Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">654</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Tala">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tala</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">882</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAMOA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Dobra">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dobra</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">678</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAO TOME AND PRINCIPE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Saudi Riyal">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Saudi Riyal</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">682</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SAUDI ARABIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Serbian Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Serbian Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">941</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SERBIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Seychelles Rupee">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Seychelles Rupee</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">690</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SEYCHELLES"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Leone">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Leone</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">694</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SIERRA LEONE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Singapore Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Singapore Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">702</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SINGAPORE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Sucre">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Sucre</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">994</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS &quot;SUCRE&quot;"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Solomon Islands Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Solomon Islands Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">090</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SOLOMON ISLANDS"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Somali Shilling">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Somali Shilling</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">706</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SOMALIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/South Sudanese Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">South Sudanese Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">728</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SOUTH SUDAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Sri Lanka Rupee">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Sri Lanka Rupee</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">144</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SRI LANKA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Sudanese Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Sudanese Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">938</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SUDAN (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Surinam Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Surinam Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">968</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SURINAME"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Lilangeni">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lilangeni</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">748</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SWAZILAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Swedish Krona">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Swedish Krona</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">752</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SWEDEN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/WIR Euro">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">WIR Euro</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">947</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SWITZERLAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/WIR Franc">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">WIR Franc</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">948</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SWITZERLAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Syrian Pound">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Syrian Pound</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">760</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/SYRIAN ARAB REPUBLIC"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/New Taiwan Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">New Taiwan Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">901</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TAIWAN (PROVINCE OF CHINA)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Somoni">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Somoni</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">972</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TAJIKISTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Tanzanian Shilling">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tanzanian Shilling</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">834</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TANZANIA, UNITED REPUBLIC OF"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Baht">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Baht</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">764</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/THAILAND"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Pa’anga">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pa’anga</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">776</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TONGA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Trinidad and Tobago Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Trinidad and Tobago Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">780</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TRINIDAD AND TOBAGO"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Tunisian Dinar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tunisian Dinar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">788</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TUNISIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Turkish Lira">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Turkish Lira</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">949</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TURKEY"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Turkmenistan New Manat">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Turkmenistan New Manat</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">934</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/TURKMENISTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Uganda Shilling">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Uganda Shilling</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">800</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UGANDA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Hryvnia">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Hryvnia</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">980</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UKRAINE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/UAE Dirham">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">UAE Dirham</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">784</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UNITED ARAB EMIRATES (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/US Dollar (Next day)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">US Dollar (Next day)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">997</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UNITED STATES OF AMERICA (THE)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Uruguay Peso en Unidades Indexadas (URUIURUI)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Uruguay Peso en Unidades Indexadas (URUIURUI)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">940</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/URUGUAY"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Peso Uruguayo">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Peso Uruguayo</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">858</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/URUGUAY"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Uzbekistan Sum">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Uzbekistan Sum</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">860</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/UZBEKISTAN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Vatu">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Vatu</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">548</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/VANUATU"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bolivar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bolivar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">937</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/VENEZUELA (BOLIVARIAN REPUBLIC OF)"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Dong">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dong</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">704</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/VIET NAM"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Yemeni Rial">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Yemeni Rial</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">886</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/YEMEN"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Zambian Kwacha">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Zambian Kwacha</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">967</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZAMBIA"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Zimbabwe Dollar">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Zimbabwe Dollar</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">932</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZIMBABWE"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bond Markets Unit European Composite Unit (EURCO)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Composite Unit (EURCO)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">955</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ01_Bond Markets Unit European_EURCO"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bond Markets Unit European Monetary Unit (E.M.U.-6)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Monetary Unit (E.M.U.-6)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">956</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ02_Bond Markets Unit European_EMU-6"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bond Markets Unit European Unit of Account 9 (E.U.A.-9)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">957</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ03_Bond Markets Unit European_EUA-9"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Bond Markets Unit European Unit of Account 17 (E.U.A.-17)">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">958</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ04_Bond Markets Unit European_EUA-17"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Codes specifically reserved for testing purposes">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Codes specifically reserved for testing purposes</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">963</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ06_Testing_Code"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/The codes assigned for transactions where no currency is involved">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">The codes assigned for transactions where no currency is involved</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">999</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ07_No_Currency"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Gold">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Gold</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">959</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ08_Gold"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Palladium">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Palladium</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">964</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ09_Palladium"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Platinum">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Platinum</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">962</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ10_Platinum"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.example.com/resource/Silver">
+	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Silver</label>
+	<numeric_code xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">961</numeric_code>
+	<minor_unit xmlns="http://www.example.com/ontology/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
+	<isCurrencyOf xmlns="http://www.example.com/ontology/property/" rdf:resource="http://www.example.com/resource/country/ZZ11_Silver"/>
+	<rdf:type rdf:resource="http://www.example.com/ontology/Classes/currency"/>
+</rdf:Description>
+
+</rdf:RDF>

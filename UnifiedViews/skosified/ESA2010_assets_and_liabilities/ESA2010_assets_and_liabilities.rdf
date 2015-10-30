@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.1">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.1</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Monetary gold and SDRs</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.11"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.12"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.11">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.11</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Monetary gold</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.12">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.12</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">SDRs</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.2">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.2</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Currency and deposits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.21"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.22"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.29"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.21">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.21</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Currency</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.22">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.22</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Transferable deposits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.221"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.229"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.221">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.221</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Inter-bank positions</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.229">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.229</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other transferable deposits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.22"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.29">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.29</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other deposits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.3">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.3</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Debt securities</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.31"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.32"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.31">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.31</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Short-term debt securities</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.32">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.32</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Long-term debt securities</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.4">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.4</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Loans</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.41"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.42"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.41">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.41</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Short-term loans</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.42">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.42</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Long-term loans</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.5">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.5</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Equity and investment fund shares/units</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.51"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.52"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.51">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.51</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Equity</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.511"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.512"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.519"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.511">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.511</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Listed shares</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.51"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.512">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.512</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Unlisted shares</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.51"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.519">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.519</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other equity</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.51"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.52">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.52</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment fund shares/units</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.521"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.522"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.521">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.521</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Money Market Fund shares/units</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.52"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.522">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.522</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-MMF investment fund shares/units</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.52"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.6">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.6</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Insurance, pension and standardised guarantee schemes</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.61"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.62"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.63"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.64"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.65"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.66"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.61">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.61</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Non-life insurance technical reserves</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.62">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.62</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Life insurance and annuity entitlements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.63">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.63</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Pension entitlements</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.64">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.64</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Claims of pension funds on pension managers</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.65">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.65</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Entitlements to non-pension benefits</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.66">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.66</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Provisions for calls under standardised guarantees</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.7">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.7</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Financial derivatives and employee stock options</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.71"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.72"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.71">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.71</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Financial derivatives</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.711"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.712"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.711">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.711</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Options</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.712">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.712</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Forwards</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.72">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.72</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Employee stock options</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.8">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.8</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other accounts receivable/payable</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.81"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.89"/>
+	<TopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/ESA2010_assets_and_liabilities"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.81">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.81</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Trade credits and advances</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.89">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">F.89</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other accounts receivable/payable, excluding trade credits and advances</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/ESA2010_assets_and_liabilities/F.8"/>
+</rdf:Description>
+
+</rdf:RDF>
