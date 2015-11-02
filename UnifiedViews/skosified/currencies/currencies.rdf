@@ -2,7 +2,7 @@
 <rdf:RDF
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Afghani">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Afghani">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Afghani</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">971</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -10,7 +10,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Euro">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Euro">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Euro</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">978</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -52,7 +52,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Lek">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Lek">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lek</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">008</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -60,7 +60,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Algerian Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Algerian Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Algerian Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">012</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -68,7 +68,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/US Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/US Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">US Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">840</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -94,7 +94,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kwanza">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kwanza">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kwanza</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">973</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -102,7 +102,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/East Caribbean Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/East Caribbean Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">East Caribbean Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">951</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -117,7 +117,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/No universal currency">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/No universal currency">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">No universal currency</label>
 	<isCurrencyOf xmlns="http://data.openbudgets.eu/ontology/property/" rdf:resource="http://data.openbudgets.eu/resource/country/ANTARCTICA"/>
 	<isCurrencyOf xmlns="http://data.openbudgets.eu/ontology/property/" rdf:resource="http://data.openbudgets.eu/resource/country/PALESTINE, STATE OF"/>
@@ -125,7 +125,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Argentine Peso">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Argentine Peso">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Argentine Peso</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">032</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -133,7 +133,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Armenian Dram">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Armenian Dram">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Armenian Dram</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">051</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -141,7 +141,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Aruban Florin">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Aruban Florin">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Aruban Florin</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">533</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -149,7 +149,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Australian Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Australian Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Australian Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">036</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -164,7 +164,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Azerbaijanian Manat">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Azerbaijanian Manat">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Azerbaijanian Manat</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">944</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -172,7 +172,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bahamian Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bahamian Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bahamian Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">044</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -180,7 +180,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bahraini Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bahraini Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bahraini Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">048</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
@@ -188,7 +188,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Taka">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Taka">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Taka</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">050</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -196,7 +196,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Barbados Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Barbados Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Barbados Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">052</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -204,7 +204,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Belarussian Ruble">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Belarussian Ruble">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Belarussian Ruble</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">974</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -212,7 +212,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Belize Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Belize Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Belize Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">084</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -220,7 +220,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/CFA Franc BCEAO">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CFA Franc BCEAO">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">CFA Franc BCEAO</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">952</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -235,7 +235,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bermudian Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bermudian Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bermudian Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">060</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -243,7 +243,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Ngultrum">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Ngultrum">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ngultrum</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">064</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -251,7 +251,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Indian Rupee">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Indian Rupee">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Indian Rupee</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">356</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -260,7 +260,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Boliviano">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Boliviano">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Boliviano</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">068</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -268,7 +268,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Mvdol">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Mvdol">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mvdol</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">984</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -276,7 +276,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Convertible Mark">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Convertible Mark">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Convertible Mark</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">977</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -284,7 +284,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Pula">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Pula">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pula</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">072</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -292,7 +292,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Norwegian Krone">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Norwegian Krone">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Norwegian Krone</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">578</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -302,7 +302,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Brazilian Real">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Brazilian Real">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Brazilian Real</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">986</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -310,7 +310,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Brunei Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Brunei Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Brunei Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">096</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -318,7 +318,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bulgarian Lev">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bulgarian Lev">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bulgarian Lev</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">975</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -326,7 +326,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Burundi Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Burundi Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Burundi Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">108</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -334,7 +334,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Cabo Verde Escudo">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Cabo Verde Escudo">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cabo Verde Escudo</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">132</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -342,7 +342,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Riel">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Riel">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Riel</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">116</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -350,7 +350,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/CFA Franc BEAC">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CFA Franc BEAC">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">CFA Franc BEAC</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">950</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -363,7 +363,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Canadian Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Canadian Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Canadian Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">124</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -371,7 +371,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Cayman Islands Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Cayman Islands Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cayman Islands Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">136</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -379,7 +379,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Unidad de Fomento">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Unidad de Fomento">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Unidad de Fomento</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">990</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</minor_unit>
@@ -387,7 +387,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Chilean Peso">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Chilean Peso">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Chilean Peso</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">152</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -395,7 +395,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Yuan Renminbi">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Yuan Renminbi">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Yuan Renminbi</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">156</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -403,7 +403,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Colombian Peso">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Colombian Peso">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Colombian Peso</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">170</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -411,7 +411,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Unidad de Valor Real">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Unidad de Valor Real">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Unidad de Valor Real</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">970</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -419,7 +419,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Comoro Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Comoro Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Comoro Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">174</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -427,7 +427,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Congolese Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Congolese Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Congolese Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">976</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -435,7 +435,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/New Zealand Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/New Zealand Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">New Zealand Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">554</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -447,7 +447,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Costa Rican Colon">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Costa Rican Colon">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Costa Rican Colon</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">188</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -455,7 +455,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kuna">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kuna">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kuna</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">191</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -463,7 +463,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Peso Convertible">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Peso Convertible">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Peso Convertible</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">931</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -471,7 +471,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Cuban Peso">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Cuban Peso">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cuban Peso</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">192</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -479,7 +479,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Netherlands Antillean Guilder">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Netherlands Antillean Guilder">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Netherlands Antillean Guilder</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">532</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -488,7 +488,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Czech Koruna">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Czech Koruna">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Czech Koruna</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">203</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -496,7 +496,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Danish Krone">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Danish Krone">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Danish Krone</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">208</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -506,7 +506,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Djibouti Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Djibouti Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Djibouti Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">262</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -514,7 +514,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Dominican Peso">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Dominican Peso">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dominican Peso</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">214</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -522,7 +522,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Egyptian Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Egyptian Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Egyptian Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">818</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -530,7 +530,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/El Salvador Colon">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/El Salvador Colon">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">El Salvador Colon</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">222</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -538,7 +538,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Nakfa">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Nakfa">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Nakfa</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">232</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -546,7 +546,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Ethiopian Birr">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Ethiopian Birr">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ethiopian Birr</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">230</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -554,7 +554,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Falkland Islands Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Falkland Islands Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Falkland Islands Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">238</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -562,7 +562,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Fiji Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Fiji Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Fiji Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">242</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -570,7 +570,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/CFP Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CFP Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">CFP Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">953</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -580,7 +580,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Dalasi">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Dalasi">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dalasi</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">270</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -588,7 +588,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Lari">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Lari">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lari</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">981</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -596,7 +596,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Ghana Cedi">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Ghana Cedi">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ghana Cedi</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">936</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -604,7 +604,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Gibraltar Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Gibraltar Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Gibraltar Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">292</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -612,7 +612,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Quetzal">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Quetzal">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Quetzal</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">320</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -620,7 +620,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Pound Sterling">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Pound Sterling">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pound Sterling</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">826</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -631,7 +631,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Guinea Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Guinea Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Guinea Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">324</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -639,7 +639,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Guyana Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Guyana Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Guyana Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">328</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -647,7 +647,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Gourde">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Gourde">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Gourde</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">332</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -655,7 +655,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Lempira">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Lempira">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lempira</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">340</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -663,7 +663,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Hong Kong Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Hong Kong Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Hong Kong Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">344</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -671,7 +671,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Forint">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Forint">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Forint</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">348</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -679,7 +679,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Iceland Krona">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Iceland Krona">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Iceland Krona</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">352</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -687,7 +687,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Rupiah">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Rupiah">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rupiah</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">360</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -695,7 +695,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/SDR (Special Drawing Right)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SDR (Special Drawing Right)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">SDR (Special Drawing Right)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">960</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -703,7 +703,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Iranian Rial">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Iranian Rial">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Iranian Rial</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">364</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -711,7 +711,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Iraqi Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Iraqi Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Iraqi Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">368</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
@@ -719,7 +719,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/New Israeli Sheqel">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/New Israeli Sheqel">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">New Israeli Sheqel</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">376</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -727,7 +727,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Jamaican Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Jamaican Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Jamaican Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">388</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -735,7 +735,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Yen">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Yen">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Yen</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">392</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -743,7 +743,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Jordanian Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Jordanian Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Jordanian Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">400</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
@@ -751,7 +751,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Tenge">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Tenge">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tenge</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">398</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -759,7 +759,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kenyan Shilling">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kenyan Shilling">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kenyan Shilling</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">404</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -767,7 +767,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/North Korean Won">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/North Korean Won">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">North Korean Won</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">408</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -775,7 +775,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Won">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Won">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Won</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">410</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -783,7 +783,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kuwaiti Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kuwaiti Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kuwaiti Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">414</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
@@ -791,7 +791,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Som">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Som">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Som</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">417</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -799,7 +799,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kip">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kip">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kip</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">418</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -807,7 +807,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Lebanese Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Lebanese Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lebanese Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">422</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -815,7 +815,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Loti">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Loti">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Loti</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">426</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -823,7 +823,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Rand">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Rand">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rand</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">710</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -833,7 +833,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Liberian Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Liberian Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Liberian Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">430</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -841,7 +841,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Libyan Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Libyan Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Libyan Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">434</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
@@ -849,7 +849,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Swiss Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Swiss Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Swiss Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">756</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -858,7 +858,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Pataca">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Pataca">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pataca</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">446</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -866,7 +866,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Denar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Denar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Denar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">807</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -874,7 +874,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Malagasy Ariary">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Malagasy Ariary">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Malagasy Ariary</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">969</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -882,7 +882,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kwacha">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kwacha">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kwacha</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">454</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -890,7 +890,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Malaysian Ringgit">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Malaysian Ringgit">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Malaysian Ringgit</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">458</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -898,7 +898,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Rufiyaa">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Rufiyaa">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rufiyaa</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">462</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -906,7 +906,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Ouguiya">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Ouguiya">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Ouguiya</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">478</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -914,7 +914,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Mauritius Rupee">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Mauritius Rupee">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mauritius Rupee</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">480</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -922,7 +922,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/ADB Unit of Account">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ADB Unit of Account">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">ADB Unit of Account</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">965</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -930,7 +930,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Mexican Peso">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Mexican Peso">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mexican Peso</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">484</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -938,7 +938,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Mexican Unidad de Inversion (UDI)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Mexican Unidad de Inversion (UDI)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mexican Unidad de Inversion (UDI)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">979</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -946,7 +946,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Moldovan Leu">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Moldovan Leu">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Moldovan Leu</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">498</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -954,7 +954,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Tugrik">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Tugrik">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tugrik</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">496</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -962,7 +962,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Moroccan Dirham">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Moroccan Dirham">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Moroccan Dirham</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">504</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -971,7 +971,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Mozambique Metical">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Mozambique Metical">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Mozambique Metical</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">943</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -979,7 +979,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kyat">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kyat">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kyat</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">104</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -987,7 +987,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Namibia Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Namibia Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Namibia Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">516</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -995,7 +995,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Nepalese Rupee">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Nepalese Rupee">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Nepalese Rupee</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">524</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1003,7 +1003,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Cordoba Oro">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Cordoba Oro">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Cordoba Oro</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">558</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1011,7 +1011,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Naira">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Naira">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Naira</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">566</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1019,7 +1019,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Rial Omani">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Rial Omani">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rial Omani</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">512</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
@@ -1027,7 +1027,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Pakistan Rupee">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Pakistan Rupee">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pakistan Rupee</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">586</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1035,7 +1035,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Balboa">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Balboa">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Balboa</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">590</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1043,7 +1043,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Kina">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Kina">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Kina</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">598</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1051,7 +1051,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Guarani">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Guarani">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Guarani</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">600</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -1059,7 +1059,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Nuevo Sol">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Nuevo Sol">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Nuevo Sol</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">604</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1067,7 +1067,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Philippine Peso">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Philippine Peso">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Philippine Peso</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">608</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1075,7 +1075,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Zloty">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Zloty">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Zloty</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">985</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1083,7 +1083,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Qatari Rial">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Qatari Rial">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Qatari Rial</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">634</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1091,7 +1091,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Romanian Leu">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Romanian Leu">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Romanian Leu</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">946</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1099,7 +1099,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Russian Ruble">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Russian Ruble">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Russian Ruble</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">643</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1107,7 +1107,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Rwanda Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Rwanda Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Rwanda Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">646</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -1115,7 +1115,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Saint Helena Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Saint Helena Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Saint Helena Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">654</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1123,7 +1123,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Tala">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Tala">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tala</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">882</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1131,7 +1131,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Dobra">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Dobra">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dobra</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">678</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1139,7 +1139,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Saudi Riyal">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Saudi Riyal">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Saudi Riyal</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">682</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1147,7 +1147,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Serbian Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Serbian Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Serbian Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">941</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1155,7 +1155,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Seychelles Rupee">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Seychelles Rupee">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Seychelles Rupee</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">690</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1163,7 +1163,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Leone">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Leone">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Leone</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">694</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1171,7 +1171,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Singapore Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Singapore Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Singapore Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">702</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1179,7 +1179,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Sucre">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Sucre">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Sucre</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">994</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1187,7 +1187,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Solomon Islands Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Solomon Islands Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Solomon Islands Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">090</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1195,7 +1195,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Somali Shilling">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Somali Shilling">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Somali Shilling</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">706</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1203,7 +1203,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/South Sudanese Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/South Sudanese Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">South Sudanese Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">728</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1211,7 +1211,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Sri Lanka Rupee">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Sri Lanka Rupee">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Sri Lanka Rupee</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">144</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1219,7 +1219,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Sudanese Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Sudanese Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Sudanese Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">938</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1227,7 +1227,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Surinam Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Surinam Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Surinam Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">968</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1235,7 +1235,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Lilangeni">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Lilangeni">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Lilangeni</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">748</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1243,7 +1243,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Swedish Krona">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Swedish Krona">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Swedish Krona</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">752</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1251,7 +1251,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/WIR Euro">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/WIR Euro">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">WIR Euro</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">947</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1259,7 +1259,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/WIR Franc">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/WIR Franc">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">WIR Franc</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">948</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1267,7 +1267,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Syrian Pound">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Syrian Pound">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Syrian Pound</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">760</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1275,7 +1275,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/New Taiwan Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/New Taiwan Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">New Taiwan Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">901</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1283,7 +1283,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Somoni">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Somoni">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Somoni</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">972</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1291,7 +1291,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Tanzanian Shilling">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Tanzanian Shilling">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tanzanian Shilling</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">834</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1299,7 +1299,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Baht">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Baht">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Baht</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">764</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1307,7 +1307,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Pa’anga">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Pa’anga">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Pa’anga</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">776</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1315,7 +1315,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Trinidad and Tobago Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Trinidad and Tobago Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Trinidad and Tobago Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">780</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1323,7 +1323,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Tunisian Dinar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Tunisian Dinar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Tunisian Dinar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">788</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</minor_unit>
@@ -1331,7 +1331,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Turkish Lira">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Turkish Lira">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Turkish Lira</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">949</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1339,7 +1339,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Turkmenistan New Manat">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Turkmenistan New Manat">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Turkmenistan New Manat</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">934</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1347,7 +1347,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Uganda Shilling">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Uganda Shilling">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Uganda Shilling</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">800</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -1355,7 +1355,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Hryvnia">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Hryvnia">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Hryvnia</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">980</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1363,7 +1363,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/UAE Dirham">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UAE Dirham">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">UAE Dirham</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">784</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1371,7 +1371,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/US Dollar (Next day)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/US Dollar (Next day)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">US Dollar (Next day)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">997</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1379,7 +1379,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Uruguay Peso en Unidades Indexadas (URUIURUI)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Uruguay Peso en Unidades Indexadas (URUIURUI)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Uruguay Peso en Unidades Indexadas (URUIURUI)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">940</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -1387,7 +1387,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Peso Uruguayo">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Peso Uruguayo">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Peso Uruguayo</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">858</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1395,7 +1395,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Uzbekistan Sum">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Uzbekistan Sum">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Uzbekistan Sum</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">860</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1403,7 +1403,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Vatu">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Vatu">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Vatu</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">548</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -1411,7 +1411,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bolivar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bolivar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bolivar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">937</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1419,7 +1419,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Dong">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Dong">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Dong</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">704</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</minor_unit>
@@ -1427,7 +1427,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Yemeni Rial">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Yemeni Rial">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Yemeni Rial</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">886</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1435,7 +1435,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Zambian Kwacha">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Zambian Kwacha">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Zambian Kwacha</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">967</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1443,7 +1443,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Zimbabwe Dollar">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Zimbabwe Dollar">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Zimbabwe Dollar</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">932</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</minor_unit>
@@ -1451,7 +1451,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bond Markets Unit European Composite Unit (EURCO)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bond Markets Unit European Composite Unit (EURCO)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Composite Unit (EURCO)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">955</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1459,7 +1459,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bond Markets Unit European Monetary Unit (E.M.U.-6)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bond Markets Unit European Monetary Unit (E.M.U.-6)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Monetary Unit (E.M.U.-6)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">956</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1467,7 +1467,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bond Markets Unit European Unit of Account 9 (E.U.A.-9)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bond Markets Unit European Unit of Account 9 (E.U.A.-9)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">957</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1475,7 +1475,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Bond Markets Unit European Unit of Account 17 (E.U.A.-17)">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Bond Markets Unit European Unit of Account 17 (E.U.A.-17)">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">958</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1483,7 +1483,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Codes specifically reserved for testing purposes">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Codes specifically reserved for testing purposes">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Codes specifically reserved for testing purposes</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">963</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1491,7 +1491,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/The codes assigned for transactions where no currency is involved">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/The codes assigned for transactions where no currency is involved">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">The codes assigned for transactions where no currency is involved</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">999</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1499,7 +1499,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Gold">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Gold">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Gold</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">959</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1507,7 +1507,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Palladium">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Palladium">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Palladium</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">964</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1515,7 +1515,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Platinum">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Platinum">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Platinum</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">962</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
@@ -1523,7 +1523,7 @@
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/currency"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/Silver">
+<rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/Silver">
 	<label xmlns="http://www.w3.org/2000/01/rdf-schema#" xml:lang="en">Silver</label>
 	<numeric_code xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">961</numeric_code>
 	<minor_unit xmlns="http://data.openbudgets.eu/property/" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">N.A.</minor_unit>
