@@ -1,0 +1,321 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1> <http://www.w3.org/2004/02/skos/core#notation> "AN.1" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Produced non-financial assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.12> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.13> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> <http://www.w3.org/2004/02/skos/core#notation> "AN.11" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Fixed assets by type of asset"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.111> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.112> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.113> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.114> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.115> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.116> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.117> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.111> <http://www.w3.org/2004/02/skos/core#notation> "AN.111" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dwellings"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.112> <http://www.w3.org/2004/02/skos/core#notation> "AN.112" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other buildings and structures"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1121> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1122> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1123> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1121> <http://www.w3.org/2004/02/skos/core#notation> "AN.1121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Buildings other than dwellings"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.112> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1122> <http://www.w3.org/2004/02/skos/core#notation> "AN.1122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other structures"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11221> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11222> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.112> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11221> <http://www.w3.org/2004/02/skos/core#notation> "AN.11221" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Roads and bridges"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1122> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11222> <http://www.w3.org/2004/02/skos/core#notation> "AN.11222" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other infrastructure and structures"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1122> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1123> <http://www.w3.org/2004/02/skos/core#notation> "AN.1123" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Land improvements"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.112> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.113> <http://www.w3.org/2004/02/skos/core#notation> "AN.113" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Machinery and equipment"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1131> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1132> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1139> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1131> <http://www.w3.org/2004/02/skos/core#notation> "AN.1131" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Transport equipment"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.113> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1132> <http://www.w3.org/2004/02/skos/core#notation> "AN.1132" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "ICT equipment"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11321> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11322> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.113> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11321> <http://www.w3.org/2004/02/skos/core#notation> "AN.11321" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Computer hardware"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1132> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11322> <http://www.w3.org/2004/02/skos/core#notation> "AN.11322" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Telecommunication equipment"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1132> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1139> <http://www.w3.org/2004/02/skos/core#notation> "AN.1139" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other machinery and equipment"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.113> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.114> <http://www.w3.org/2004/02/skos/core#notation> "AN.114" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Weapons systems"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.115> <http://www.w3.org/2004/02/skos/core#notation> "AN.115" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Cultivated biological resources"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1151> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1152> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1151> <http://www.w3.org/2004/02/skos/core#notation> "AN.1151" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Animal resources yielding repeat products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.115> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1152> <http://www.w3.org/2004/02/skos/core#notation> "AN.1152" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tree, crop and plant resources yielding repeat products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.115> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.116> <http://www.w3.org/2004/02/skos/core#notation> "AN.116" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Costs of ownership transfer on non-produced assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.117> <http://www.w3.org/2004/02/skos/core#notation> "AN.117" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Intellectual property products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1171> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1172> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1173> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1174> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1179> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1171> <http://www.w3.org/2004/02/skos/core#notation> "AN.1171" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Research and development"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.117> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1172> <http://www.w3.org/2004/02/skos/core#notation> "AN.1172" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Mineral exploration and evaluation"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.117> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1173> <http://www.w3.org/2004/02/skos/core#notation> "AN.1173" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Computer software and databases"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11731> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11732> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.117> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11731> <http://www.w3.org/2004/02/skos/core#notation> "AN.11731" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Computer software"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1173> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.11732> <http://www.w3.org/2004/02/skos/core#notation> "AN.11732" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Databases"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1173> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1174> <http://www.w3.org/2004/02/skos/core#notation> "AN.1174" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Entertainment, literary or artistic originals"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.117> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1179> <http://www.w3.org/2004/02/skos/core#notation> "AN.1179" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other intellectual property products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.117> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.12> <http://www.w3.org/2004/02/skos/core#notation> "AN.12" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Inventories by type of inventory"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.121> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.122> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.123> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.124> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.125> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.121> <http://www.w3.org/2004/02/skos/core#notation> "AN.121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Materials and supplies"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.122> <http://www.w3.org/2004/02/skos/core#notation> "AN.122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Work-in-progress"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1221> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1222> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1221> <http://www.w3.org/2004/02/skos/core#notation> "AN.1221" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Work-in-progress on cultivated biological assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.122> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1222> <http://www.w3.org/2004/02/skos/core#notation> "AN.1222" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other work-in-progress"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.122> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.123> <http://www.w3.org/2004/02/skos/core#notation> "AN.123" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Finished goods"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.124> <http://www.w3.org/2004/02/skos/core#notation> "AN.124" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Military inventories"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.125> <http://www.w3.org/2004/02/skos/core#notation> "AN.125" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Goods for resale"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.13> <http://www.w3.org/2004/02/skos/core#notation> "AN.13" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Valuables"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.131> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.132> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.133> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.131> <http://www.w3.org/2004/02/skos/core#notation> "AN.131" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Precious metals and stones"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.13> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.132> <http://www.w3.org/2004/02/skos/core#notation> "AN.132" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Antiques and other art objects"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.13> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.133> <http://www.w3.org/2004/02/skos/core#notation> "AN.133" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other valuables"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.13> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2> <http://www.w3.org/2004/02/skos/core#notation> "AN.2" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-produced non-financial assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.21> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.22> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.23> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.21> <http://www.w3.org/2004/02/skos/core#notation> "AN.21" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Natural resources"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.211> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.212> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.213> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.214> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.215> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.211> <http://www.w3.org/2004/02/skos/core#notation> "AN.211" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Land"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2111> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2112> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2113> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2119> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2111> <http://www.w3.org/2004/02/skos/core#notation> "AN.2111" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Land underlying buildings and structures"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.211> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2112> <http://www.w3.org/2004/02/skos/core#notation> "AN.2112" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Land under cultivation"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.211> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2113> <http://www.w3.org/2004/02/skos/core#notation> "AN.2113" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Recreational land and associated surface water"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.211> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2119> <http://www.w3.org/2004/02/skos/core#notation> "AN.2119" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other land and associated surface water"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.211> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.212> <http://www.w3.org/2004/02/skos/core#notation> "AN.212" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Mineral and energy reserves"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.213> <http://www.w3.org/2004/02/skos/core#notation> "AN.213" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-cultivated biological resources"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.214> <http://www.w3.org/2004/02/skos/core#notation> "AN.214" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Water resources"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.215> <http://www.w3.org/2004/02/skos/core#notation> "AN.215" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other natural resources"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2151> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2159> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2151> <http://www.w3.org/2004/02/skos/core#notation> "AN.2151" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Radio spectra"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.215> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2159> <http://www.w3.org/2004/02/skos/core#notation> "AN.2159" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.215> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.22> <http://www.w3.org/2004/02/skos/core#notation> "AN.22" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Contracts, leases and licences"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.221> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.222> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.223> , <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.224> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.221> <http://www.w3.org/2004/02/skos/core#notation> "AN.221" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Marketable operating leases"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.222> <http://www.w3.org/2004/02/skos/core#notation> "AN.222" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Permits to use natural resources"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.223> <http://www.w3.org/2004/02/skos/core#notation> "AN.223" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Permits to undertake specific activities"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.224> <http://www.w3.org/2004/02/skos/core#notation> "AN.224" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Entitlement to future goods and services on an exclusive basis"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.23> <http://www.w3.org/2004/02/skos/core#notation> "AN.23" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Purchases less sales of goodwill and marketing assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets> <http://www.w3.org/2004/02/skos/core#prefLabel> "Non Financial Assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .

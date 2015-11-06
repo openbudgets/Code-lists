@@ -1,0 +1,471 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1> <http://www.w3.org/2004/02/skos/core#notation> "D.1" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Compensation of employees"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.11> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.11> <http://www.w3.org/2004/02/skos/core#notation> "D.11" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Wages and salaries"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.12> <http://www.w3.org/2004/02/skos/core#notation> "D.12" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ social contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.121> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.122> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.121> <http://www.w3.org/2004/02/skos/core#notation> "D.121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ actual social contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1211> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1212> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1211> <http://www.w3.org/2004/02/skos/core#notation> "D.1211" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ actual pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.121> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1212> <http://www.w3.org/2004/02/skos/core#notation> "D.1212" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ actual non-pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.121> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.122> <http://www.w3.org/2004/02/skos/core#notation> "D.122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ imputed social contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1221> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1222> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1221> <http://www.w3.org/2004/02/skos/core#notation> "D.1221" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ imputed pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.122> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.1222> <http://www.w3.org/2004/02/skos/core#notation> "D.1222" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ imputed non-pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.122> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.2> <http://www.w3.org/2004/02/skos/core#notation> "D.2" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Taxes on production and imports"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.21> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.29> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.21> <http://www.w3.org/2004/02/skos/core#notation> "D.21" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Taxes on products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.211> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.212> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.214> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.211> <http://www.w3.org/2004/02/skos/core#notation> "D.211" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Value added type taxes (VAT)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.212> <http://www.w3.org/2004/02/skos/core#notation> "D.212" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Taxes and duties on imports excluding VAT"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.2121> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.2122> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.2121> <http://www.w3.org/2004/02/skos/core#notation> "D.2121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Import duties"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.212> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.2122> <http://www.w3.org/2004/02/skos/core#notation> "D.2122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Taxes on imports excluding VAT and duties"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.212> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.214> <http://www.w3.org/2004/02/skos/core#notation> "D.214" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Taxes on products except VAT and import taxes"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.29> <http://www.w3.org/2004/02/skos/core#notation> "D.29" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other taxes on production"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.3> <http://www.w3.org/2004/02/skos/core#notation> "D.3" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Subsidies"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.31> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.39> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.31> <http://www.w3.org/2004/02/skos/core#notation> "D.31" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Subsidies on products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.311> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.319> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.3> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.311> <http://www.w3.org/2004/02/skos/core#notation> "D.311" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Import subsidies"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.31> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.319> <http://www.w3.org/2004/02/skos/core#notation> "D.319" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other subsidies on products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.31> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.39> <http://www.w3.org/2004/02/skos/core#notation> "D.39" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other subsidies on production"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.3> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4> <http://www.w3.org/2004/02/skos/core#notation> "D.4" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Property income"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.41> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.42> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.43> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.44> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.45> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.41> <http://www.w3.org/2004/02/skos/core#notation> "D.41" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Interest"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.42> <http://www.w3.org/2004/02/skos/core#notation> "D.42" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Distributed income of corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.421> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.422> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.421> <http://www.w3.org/2004/02/skos/core#notation> "D.421" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dividends"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.42> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.422> <http://www.w3.org/2004/02/skos/core#notation> "D.422" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Withdrawals from income of quasi-corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.42> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.43> <http://www.w3.org/2004/02/skos/core#notation> "D.43" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Reinvested earnings on foreign direct investment"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.44> <http://www.w3.org/2004/02/skos/core#notation> "D.44" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other investment income"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.441> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.442> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.443> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.441> <http://www.w3.org/2004/02/skos/core#notation> "D.441" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment income attributable to insurance policy holders"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.44> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.442> <http://www.w3.org/2004/02/skos/core#notation> "D.442" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment income payable on pension entitlements"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.44> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.443> <http://www.w3.org/2004/02/skos/core#notation> "D.443" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment income attributable to collective investment fund shareholders"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4431> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4432> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.44> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4431> <http://www.w3.org/2004/02/skos/core#notation> "D.4431" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Dividends attributable to collective investment fund shareholders"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.443> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4432> <http://www.w3.org/2004/02/skos/core#notation> "D.4432" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Retained earnings attributable to collective investment fund shareholders"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.443> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.45> <http://www.w3.org/2004/02/skos/core#notation> "D.45" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Rent"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.5> <http://www.w3.org/2004/02/skos/core#notation> "D.5" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Current taxes on income, wealth, etc."@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.51> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.59> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.51> <http://www.w3.org/2004/02/skos/core#notation> "D.51" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Taxes on income"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.5> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.59> <http://www.w3.org/2004/02/skos/core#notation> "D.59" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other current taxes"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.5> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6> <http://www.w3.org/2004/02/skos/core#notation> "D.6" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social contributions and benefits"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.61> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.62> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.63> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.61> <http://www.w3.org/2004/02/skos/core#notation> "D.61" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net social contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.611> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.612> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.613> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.614> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.611> <http://www.w3.org/2004/02/skos/core#notation> "D.611" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ actual social contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6111> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6112> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.61> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6111> <http://www.w3.org/2004/02/skos/core#notation> "D.6111" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ actual pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.611> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6112> <http://www.w3.org/2004/02/skos/core#notation> "D.6112" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ actual non-pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.611> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.612> <http://www.w3.org/2004/02/skos/core#notation> "D.612" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ imputed social contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6121> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6122> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.61> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6121> <http://www.w3.org/2004/02/skos/core#notation> "D.6121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ imputed pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.612> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6122> <http://www.w3.org/2004/02/skos/core#notation> "D.6122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers’ imputed non-pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.612> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.613> <http://www.w3.org/2004/02/skos/core#notation> "D.613" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Households’ actual social contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6131> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6132> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.61> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6131> <http://www.w3.org/2004/02/skos/core#notation> "D.6131" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Households’ actual pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.613> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6132> <http://www.w3.org/2004/02/skos/core#notation> "D.6132" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Households’ actual non-pension contributions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.613> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.614> <http://www.w3.org/2004/02/skos/core#notation> "D.614" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Households’ social contribution supplements"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6141> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6142> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.61> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6141> <http://www.w3.org/2004/02/skos/core#notation> "D.6141" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Households’ pension contribution supplements"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.614> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6142> <http://www.w3.org/2004/02/skos/core#notation> "D.6142" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Households’ non-pension contribution supplements"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.614> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.61SC> <http://www.w3.org/2004/02/skos/core#notation> "D.61SC" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social insurance scheme service charges (–) "@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.62> <http://www.w3.org/2004/02/skos/core#notation> "D.62" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social benefits other than social transfers in kind"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.621> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.622> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.623> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.621> <http://www.w3.org/2004/02/skos/core#notation> "D.621" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social security benefits in cash"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6211> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6212> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.62> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6211> <http://www.w3.org/2004/02/skos/core#notation> "D.6211" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social security pension benefits in cash"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.621> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6212> <http://www.w3.org/2004/02/skos/core#notation> "D.6212" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social security non-pension benefits in cash"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.621> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.622> <http://www.w3.org/2004/02/skos/core#notation> "D.622" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other social insurance benefits"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6221> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6222> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.62> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6221> <http://www.w3.org/2004/02/skos/core#notation> "D.6221" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other social insurance pension benefits"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.622> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6222> <http://www.w3.org/2004/02/skos/core#notation> "D.6222" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other social insurance non-pension benefits"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.622> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.623> <http://www.w3.org/2004/02/skos/core#notation> "D.623" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social assistance benefits in cash"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.62> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.63> <http://www.w3.org/2004/02/skos/core#notation> "D.63" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social transfers in kind"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.631> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.632> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.6> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.631> <http://www.w3.org/2004/02/skos/core#notation> "D.631" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social transfers in kind — non-market production"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.63> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.632> <http://www.w3.org/2004/02/skos/core#notation> "D.632" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social transfers in kind — purchased market production"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.63> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.7> <http://www.w3.org/2004/02/skos/core#notation> "D.7" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other current transfers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.71> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.72> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.73> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.74> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.75> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.76> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.71> <http://www.w3.org/2004/02/skos/core#notation> "D.71" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net non-life insurance premiums"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.711> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.712> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.711> <http://www.w3.org/2004/02/skos/core#notation> "D.711" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net non-life direct insurance premiums"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.71> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.712> <http://www.w3.org/2004/02/skos/core#notation> "D.712" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net non-life reinsurance premiums"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.71> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.72> <http://www.w3.org/2004/02/skos/core#notation> "D.72" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-life insurance claims"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.721> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.722> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.721> <http://www.w3.org/2004/02/skos/core#notation> "D.721" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-life direct insurance claims"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.72> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.722> <http://www.w3.org/2004/02/skos/core#notation> "D.722" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-life reinsurance claims"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.72> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.73> <http://www.w3.org/2004/02/skos/core#notation> "D.73" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Current transfers within general government"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.74> <http://www.w3.org/2004/02/skos/core#notation> "D.74" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Current international cooperation"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.75> <http://www.w3.org/2004/02/skos/core#notation> "D.75" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Miscellaneous current transfers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.751> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.752> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.759> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.751> <http://www.w3.org/2004/02/skos/core#notation> "D.751" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Current transfers to NPISHs"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.75> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.752> <http://www.w3.org/2004/02/skos/core#notation> "D.752" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Current transfers between households"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.75> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.759> <http://www.w3.org/2004/02/skos/core#notation> "D.759" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other miscellaneous current transfers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.75> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.76> <http://www.w3.org/2004/02/skos/core#notation> "D.76" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "VAT- and GNI-based EU own resources"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.8> <http://www.w3.org/2004/02/skos/core#notation> "D.8" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Adjustment for the change in pension entitlements"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9> <http://www.w3.org/2004/02/skos/core#notation> "D.9" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital transfers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r> <http://www.w3.org/2004/02/skos/core#notation> "D.9r" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital transfers, receivable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91r> <http://www.w3.org/2004/02/skos/core#notation> "D.91r" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital taxes, receivable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92r> <http://www.w3.org/2004/02/skos/core#notation> "D.92r" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment grants, receivable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99r> <http://www.w3.org/2004/02/skos/core#notation> "D.99r" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other capital transfers, receivable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p> <http://www.w3.org/2004/02/skos/core#notation> "D.9p" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital transfers, payable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91p> <http://www.w3.org/2004/02/skos/core#notation> "D.91p" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital taxes, payable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92p> <http://www.w3.org/2004/02/skos/core#notation> "D.92p" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment grants, payable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99p> <http://www.w3.org/2004/02/skos/core#notation> "D.99p" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other capital transfers, payable"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Distributive transactions "@en ;
+	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .

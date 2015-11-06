@@ -1,0 +1,465 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1> <http://www.w3.org/2004/02/skos/core#notation> "S.1" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Total economy"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.14> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.15> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11> <http://www.w3.org/2004/02/skos/core#notation> "S.11" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11001> <http://www.w3.org/2004/02/skos/core#notation> "S.11001" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Public non-financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110010> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110011> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110010> <http://www.w3.org/2004/02/skos/core#notation> "S.110010" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Public non-financial corporations, enterprises"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11001> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110011> <http://www.w3.org/2004/02/skos/core#notation> "S.110011" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Public sector foundations and associations, market producers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11001> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11002> <http://www.w3.org/2004/02/skos/core#notation> "S.11002" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "National private non-financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110020> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110022> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110020> <http://www.w3.org/2004/02/skos/core#notation> "S.110020" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "National private non-financial corporations, enterprises"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11002> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110022> <http://www.w3.org/2004/02/skos/core#notation> "S.110022" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "National private non-profit institutions serving national private non-financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11002> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11003> <http://www.w3.org/2004/02/skos/core#notation> "S.11003" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Foreign controlled non-financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110030> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110031> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110030> <http://www.w3.org/2004/02/skos/core#notation> "S.110030" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Foreign controlled non-financial corporations, enterprises"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11003> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.110031> <http://www.w3.org/2004/02/skos/core#notation> "S.110031" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Foreign controlled non-profit institutions serving private non-financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.11003> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> <http://www.w3.org/2004/02/skos/core#notation> "S.12" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.121> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.122> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.123> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.124> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.125> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.126> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.127> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.128> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.129> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.121> <http://www.w3.org/2004/02/skos/core#notation> "S.121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Central bank (public)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.122> <http://www.w3.org/2004/02/skos/core#notation> "S.122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Deposit-taking corporations except the central bank"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12201> <http://www.w3.org/2004/02/skos/core#notation> "S.12201" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Deposit-taking corporations except the central bank, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12202> <http://www.w3.org/2004/02/skos/core#notation> "S.12202" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Deposit-taking corporations except the central bank, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12203> <http://www.w3.org/2004/02/skos/core#notation> "S.12203" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Deposit-taking corporations except the central bank, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.123> <http://www.w3.org/2004/02/skos/core#notation> "S.123" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Money market funds"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12301> <http://www.w3.org/2004/02/skos/core#notation> "S.12301" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Money market funds, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12302> <http://www.w3.org/2004/02/skos/core#notation> "S.12302" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Money market funds, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12303> <http://www.w3.org/2004/02/skos/core#notation> "S.12303" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Money market funds, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.124> <http://www.w3.org/2004/02/skos/core#notation> "S.124" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-MMF investment funds"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12401> <http://www.w3.org/2004/02/skos/core#notation> "S.12401" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-MMF investment funds, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12402> <http://www.w3.org/2004/02/skos/core#notation> "S.12402" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-MMF investment funds, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12403> <http://www.w3.org/2004/02/skos/core#notation> "S.12403" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-MMF investment funds, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.125> <http://www.w3.org/2004/02/skos/core#notation> "S.125" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other financial intermediaries, except insurance corporations and pension funds"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12501> <http://www.w3.org/2004/02/skos/core#notation> "S.12501" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other financial intermediaries, except insurance corporations and pension funds, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12502> <http://www.w3.org/2004/02/skos/core#notation> "S.12502" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other financial intermediaries, except insurance corporations and pension funds, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12503> <http://www.w3.org/2004/02/skos/core#notation> "S.12503" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other financial intermediaries, except insurance corporations and pension funds, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.126> <http://www.w3.org/2004/02/skos/core#notation> "S.126" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial auxiliaries"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12601> <http://www.w3.org/2004/02/skos/core#notation> "S.12601" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial auxiliaries, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12602> <http://www.w3.org/2004/02/skos/core#notation> "S.12602" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial auxiliaries, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12603> <http://www.w3.org/2004/02/skos/core#notation> "S.12603" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial auxiliaries, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.127> <http://www.w3.org/2004/02/skos/core#notation> "S.127" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Captive financial institutions and money lenders"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12701> <http://www.w3.org/2004/02/skos/core#notation> "S.12701" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Captive financial institutions and money lenders, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12702> <http://www.w3.org/2004/02/skos/core#notation> "S.12702" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Captive financial institutions and money lenders, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12703> <http://www.w3.org/2004/02/skos/core#notation> "S.12703" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Captive financial institutions and money lenders, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.128> <http://www.w3.org/2004/02/skos/core#notation> "S.128" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Insurance corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12801> <http://www.w3.org/2004/02/skos/core#notation> "S.12801" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Insurance corporations, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12802> <http://www.w3.org/2004/02/skos/core#notation> "S.12802" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Insurance corporations, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12803> <http://www.w3.org/2004/02/skos/core#notation> "S.12803" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Insurance corporations, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.129> <http://www.w3.org/2004/02/skos/core#notation> "S.129" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pension funds"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12901> <http://www.w3.org/2004/02/skos/core#notation> "S.12901" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pension funds, public"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12902> <http://www.w3.org/2004/02/skos/core#notation> "S.12902" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pension funds, national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.12903> <http://www.w3.org/2004/02/skos/core#notation> "S.12903" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pension funds, foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13> <http://www.w3.org/2004/02/skos/core#notation> "S.13" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "General government"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1311> <http://www.w3.org/2004/02/skos/core#notation> "S.1311" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Central government (excluding social security funds)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13111> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13112> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13113> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13114> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13115> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13111> <http://www.w3.org/2004/02/skos/core#notation> "S.13111" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "State budgetary units"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1311> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13112> <http://www.w3.org/2004/02/skos/core#notation> "S.13112" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Public-legal units"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1311> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13113> <http://www.w3.org/2004/02/skos/core#notation> "S.13113" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "State foundations (except hospitals)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1311> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13114> <http://www.w3.org/2004/02/skos/core#notation> "S.13114" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "State foundations, hospitals"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1311> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13115> <http://www.w3.org/2004/02/skos/core#notation> "S.13115" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "State enterprises"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1311> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1312> <http://www.w3.org/2004/02/skos/core#notation> "S.1312" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "State government (excluding social security funds)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1313> <http://www.w3.org/2004/02/skos/core#notation> "S.1313" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Local government (excluding social security funds)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13131> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13132> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13133> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13134> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13131> <http://www.w3.org/2004/02/skos/core#notation> "S.13131" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Local governments"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1313> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13132> <http://www.w3.org/2004/02/skos/core#notation> "S.13132" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Local government foundations (except hospitals)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1313> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13133> <http://www.w3.org/2004/02/skos/core#notation> "S.13133" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Local government hospitals"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1313> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13134> <http://www.w3.org/2004/02/skos/core#notation> "S.13134" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Local government enterprises"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1313> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1314> <http://www.w3.org/2004/02/skos/core#notation> "S.1314" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Social security funds"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13141> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13142> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13141> <http://www.w3.org/2004/02/skos/core#notation> "S.13141" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Health Insurance Fund"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1314> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13142> <http://www.w3.org/2004/02/skos/core#notation> "S.13142" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Unemployment Insurance Fund"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1314> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.14> <http://www.w3.org/2004/02/skos/core#notation> "S.14" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Households"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.141> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.142> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.143> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.144> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.141> <http://www.w3.org/2004/02/skos/core#notation> "S.141" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.14> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.142> <http://www.w3.org/2004/02/skos/core#notation> "S.142" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Own-account workers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.14> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.143> <http://www.w3.org/2004/02/skos/core#notation> "S.143" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employees"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.14> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.144> <http://www.w3.org/2004/02/skos/core#notation> "S.144" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Recipients of property and transfer income"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1441> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1442> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1443> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.14> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1441> <http://www.w3.org/2004/02/skos/core#notation> "S.1441" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Recipients of property income"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.144> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1442> <http://www.w3.org/2004/02/skos/core#notation> "S.1442" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Recipients of pensions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.144> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1443> <http://www.w3.org/2004/02/skos/core#notation> "S.1443" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Recipients of other transfers"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.144> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.15> <http://www.w3.org/2004/02/skos/core#notation> "S.15" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nonprofit institutions serving households"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.15002> <http://www.w3.org/2004/02/skos/core#notation> "S.15002" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nonprofit institutions serving households , national private"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.15003> <http://www.w3.org/2004/02/skos/core#notation> "S.15003" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nonprofit institutions serving households , foreign controlled"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2> <http://www.w3.org/2004/02/skos/core#notation> "S.2" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Rest of the world"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21> <http://www.w3.org/2004/02/skos/core#notation> "S.21" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States and institutions and bodies of the European Union"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.211> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.212> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.211> <http://www.w3.org/2004/02/skos/core#notation> "S.211" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States of the European Union"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2111> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2112> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2111> <http://www.w3.org/2004/02/skos/core#notation> "S.2111" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States of the euro area"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21111> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21112> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21113> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21114> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.211> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21111> <http://www.w3.org/2004/02/skos/core#notation> "S.21111" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States of the euro area, nonfinancial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2111> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21112> <http://www.w3.org/2004/02/skos/core#notation> "S.21112" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States of the euro area, financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2111> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21113> <http://www.w3.org/2004/02/skos/core#notation> "S.21113" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States of the euro area, general government"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2111> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21114> <http://www.w3.org/2004/02/skos/core#notation> "S.21114" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States of the euro area, households"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2111> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2112> <http://www.w3.org/2004/02/skos/core#notation> "S.2112" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States outside the euro area"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21121> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21122> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21123> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21124> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.211> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21121> <http://www.w3.org/2004/02/skos/core#notation> "S.21121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States outside the euro area, nonfinancial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2112> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21122> <http://www.w3.org/2004/02/skos/core#notation> "S.21122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States outside the euro area, financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2112> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21123> <http://www.w3.org/2004/02/skos/core#notation> "S.21123" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States outside the euro area, general government"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2112> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21124> <http://www.w3.org/2004/02/skos/core#notation> "S.21124" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Member States outside the euro area, households"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2112> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.212> <http://www.w3.org/2004/02/skos/core#notation> "S.212" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Institutions and bodies of the European Union"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2121> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2122> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.21> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2121> <http://www.w3.org/2004/02/skos/core#notation> "S.2121" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "The European Central Bank (ECB)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.212> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2122> <http://www.w3.org/2004/02/skos/core#notation> "S.2122" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "European institutions and bodies, except the ECB"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.212> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22> <http://www.w3.org/2004/02/skos/core#notation> "S.22" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-member countries and international organisations non-resident in the European Union"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.221> , <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.222> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.221> <http://www.w3.org/2004/02/skos/core#notation> "S.221" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "International organisations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.222> <http://www.w3.org/2004/02/skos/core#notation> "S.222" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-member countries"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22211> <http://www.w3.org/2004/02/skos/core#notation> "S.22211" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-member countries, nonfinancial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22212> <http://www.w3.org/2004/02/skos/core#notation> "S.22212" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-member countries, financial corporations"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22213> <http://www.w3.org/2004/02/skos/core#notation> "S.22213" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-member countries, general government"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.22214> <http://www.w3.org/2004/02/skos/core#notation> "S.22214" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-member countries, households"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institutional Sectors"@en ;
+	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .

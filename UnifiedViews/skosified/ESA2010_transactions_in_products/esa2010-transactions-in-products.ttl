@@ -1,0 +1,168 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.1> <http://www.w3.org/2004/02/skos/core#notation> "P.1" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Output"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.11> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.12> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.13> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.11> <http://www.w3.org/2004/02/skos/core#notation> "P.11" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Market output"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.119> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.119> <http://www.w3.org/2004/02/skos/core#notation> "P.119" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial intermediation services indirectly measured (FISIM)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.11> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.12> <http://www.w3.org/2004/02/skos/core#notation> "P.12" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Output for own final use"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.13> <http://www.w3.org/2004/02/skos/core#notation> "P.13" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-market output"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.1> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.2> <http://www.w3.org/2004/02/skos/core#notation> "P.2" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Intermediate consumption"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.3> <http://www.w3.org/2004/02/skos/core#notation> "P.3" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Final consumption expenditure"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.31> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.32> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.31> <http://www.w3.org/2004/02/skos/core#notation> "P.31" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Individual consumption expenditure"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.3> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.32> <http://www.w3.org/2004/02/skos/core#notation> "P.32" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Collective consumption expenditure"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.3> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.4> <http://www.w3.org/2004/02/skos/core#notation> "P.4" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Actual final consumption"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.41> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.42> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.41> <http://www.w3.org/2004/02/skos/core#notation> "P.41" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Actual individual consumption"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.42> <http://www.w3.org/2004/02/skos/core#notation> "P.42" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Actual collective consumption"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.4> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5> <http://www.w3.org/2004/02/skos/core#notation> "P.5" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Gross capital formation/P.5n net capital formation"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.52> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.53> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51g> <http://www.w3.org/2004/02/skos/core#notation> "P.51g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Gross fixed capital formation"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.511> <http://www.w3.org/2004/02/skos/core#notation> "P.511" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Acquisitions less disposals of fixed assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5111> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5112> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5113> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5111> <http://www.w3.org/2004/02/skos/core#notation> "P.5111" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Acquisitions of new fixed assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.511> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5112> <http://www.w3.org/2004/02/skos/core#notation> "P.5112" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Acquisitions of existing fixed assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.511> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5113> <http://www.w3.org/2004/02/skos/core#notation> "P.5113" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Disposals of existing fixed assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.511> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.512> <http://www.w3.org/2004/02/skos/core#notation> "P.512" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Costs of ownership transfer on non-produced assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51c> <http://www.w3.org/2004/02/skos/core#notation> "P.51c" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Consumption of fixed capital (–)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51c1> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51c2> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51c1> <http://www.w3.org/2004/02/skos/core#notation> "P.51c1" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Consumption of fixed capital on gross operating surplus (–)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51c> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51c2> <http://www.w3.org/2004/02/skos/core#notation> "P.51c2" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Consumption of fixed capital on gross mixed income (–)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51c> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.51n> <http://www.w3.org/2004/02/skos/core#notation> "P.51n" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net fixed capital formation"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.52> <http://www.w3.org/2004/02/skos/core#notation> "P.52" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in inventories"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.53> <http://www.w3.org/2004/02/skos/core#notation> "P.53" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Acquisitions less disposals of valuables"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.5> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.6> <http://www.w3.org/2004/02/skos/core#notation> "P.6" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Exports of goods and services"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.61> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.62> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.61> <http://www.w3.org/2004/02/skos/core#notation> "P.61" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Exports of goods"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.6> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.62> <http://www.w3.org/2004/02/skos/core#notation> "P.62" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Exports of services"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.6> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.7> <http://www.w3.org/2004/02/skos/core#notation> "P.7" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Imports of goods and services"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.71> , <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.72> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.71> <http://www.w3.org/2004/02/skos/core#notation> "P.71" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Imports of goods"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.72> <http://www.w3.org/2004/02/skos/core#notation> "P.72" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Imports of services"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.7> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transactions in Products"@en ;
+	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
