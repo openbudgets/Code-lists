@@ -77,5 +77,5 @@
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.7> .
 
-<http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> <http://www.w3.org/2004/02/skos/core#prefLabel> "Other Changes in Assets"@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Other Changes in Assets"@en .

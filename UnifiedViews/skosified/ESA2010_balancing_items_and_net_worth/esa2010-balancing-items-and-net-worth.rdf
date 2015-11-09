@@ -151,8 +151,8 @@
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth">
-	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Classification of balancing items and net worth</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<rdfs:label xml:lang="en">Classification of balancing items and net worth</rdfs:label>
 </rdf:Description>
 
 </rdf:RDF>

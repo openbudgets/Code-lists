@@ -23712,5 +23712,5 @@
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/cpc/9900> .
 
-<http://data.openbudgets.eu/resource/codelist/cpc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central Product Classification"@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/cpc> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Central Product Classification"@en .

@@ -317,5 +317,5 @@
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets/AN.2> .
 
-<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets> <http://www.w3.org/2004/02/skos/core#prefLabel> "Non Financial Assets"@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/esa2010-non-financial-assets> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Non Financial Assets"@en .

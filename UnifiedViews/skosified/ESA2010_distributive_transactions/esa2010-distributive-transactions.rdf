@@ -642,6 +642,9 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.9r</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital transfers, receivable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91r"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92r"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99r"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9"/>
 </rdf:Description>
 
@@ -649,24 +652,30 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.91r</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital taxes, receivable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92r">
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.92r</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment grants, receivable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99r">
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.99r</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other capital transfers, receivable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p">
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.9p</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital transfers, payable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91p"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92p"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99p"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9"/>
 </rdf:Description>
 
@@ -674,23 +683,26 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.91p</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Capital taxes, payable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92p">
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.92p</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Investment grants, payable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99p">
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D.99p</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Other capital transfers, payable</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions">
-	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Distributive transactions </prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<rdfs:label xml:lang="en">Distributive transactions </rdfs:label>
 </rdf:Description>
 
 </rdf:RDF>

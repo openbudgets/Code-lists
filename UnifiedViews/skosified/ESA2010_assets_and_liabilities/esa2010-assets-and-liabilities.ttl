@@ -207,5 +207,5 @@
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> .
 
-<http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transactions in financial assets and liabilities "@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Transactions in financial assets and liabilities "@en .

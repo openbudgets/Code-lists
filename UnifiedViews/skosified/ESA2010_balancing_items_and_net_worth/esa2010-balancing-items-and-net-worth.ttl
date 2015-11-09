@@ -1,0 +1,105 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.1g> <http://www.w3.org/2004/02/skos/core#notation> "B.1g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Value added, gross/Gross domestic product"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.2g> <http://www.w3.org/2004/02/skos/core#notation> "B.2g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Operating surplus, gross"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.3g> <http://www.w3.org/2004/02/skos/core#notation> "B.3g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Mixed income, gross"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.4g> <http://www.w3.org/2004/02/skos/core#notation> "B.4g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Entrepreneurial income, gross"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.5g> <http://www.w3.org/2004/02/skos/core#notation> "B.5g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Balance of primary incomes, gross/National income, gross"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.6g> <http://www.w3.org/2004/02/skos/core#notation> "B.6g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Disposable income, gross"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.7g> <http://www.w3.org/2004/02/skos/core#notation> "B.7g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Adjusted disposable income, gross"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.8g> <http://www.w3.org/2004/02/skos/core#notation> "B.8g" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Saving, gross"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9> <http://www.w3.org/2004/02/skos/core#notation> "B.9" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net lending (+)/net borrowing (–)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9N> , <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9F> , <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.90> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9N> <http://www.w3.org/2004/02/skos/core#notation> "B.9N" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net lending (+)/net borrowing (–) of the non-financial accounts"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9F> <http://www.w3.org/2004/02/skos/core#notation> "B.9F" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net lending (+)/net borrowing (–) of the financial accounts"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.10> <http://www.w3.org/2004/02/skos/core#notation> "B.10" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in net worth"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.101> , <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.102> , <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.103> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.101> <http://www.w3.org/2004/02/skos/core#notation> "B.101" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in net worth due to saving and capital transfers (7)  (8)"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.10> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.102> <http://www.w3.org/2004/02/skos/core#notation> "B.102" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in net worth due to other changes in volume of assets"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.10> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.103> <http://www.w3.org/2004/02/skos/core#notation> "B.103" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in net worth due to nominal holding gains and losses"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.1031> , <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.1032> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.10> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.1031> <http://www.w3.org/2004/02/skos/core#notation> "B.1031" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in net worth due to neutral holding gains and losses"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.103> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.1032> <http://www.w3.org/2004/02/skos/core#notation> "B.1032" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in net worth due to real holding gains and losses"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.103> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.11> <http://www.w3.org/2004/02/skos/core#notation> "B.11" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "External balance of goods and services"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.12> <http://www.w3.org/2004/02/skos/core#notation> "B.12" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Current external balance"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.90> <http://www.w3.org/2004/02/skos/core#notation> "B.90" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Net worth"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/B.9> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth/BF.90> <http://www.w3.org/2004/02/skos/core#notation> "BF.90" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial net worth"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://data.openbudgets.eu/resource/codelist/esa2010-balancing-items-and-net-worth> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Classification of balancing items and net worth"@en .

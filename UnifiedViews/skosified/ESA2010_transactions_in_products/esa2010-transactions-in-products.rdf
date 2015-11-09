@@ -239,8 +239,8 @@
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products">
-	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Transactions in Products</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<rdfs:label xml:lang="en">Transactions in Products</rdfs:label>
 </rdf:Description>
 
 </rdf:RDF>

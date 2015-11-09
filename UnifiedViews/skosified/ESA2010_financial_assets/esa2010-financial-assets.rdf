@@ -304,8 +304,8 @@
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/esa2010-financial-assets">
-	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Financial Assets</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<rdfs:label xml:lang="en">Financial Assets</rdfs:label>
 </rdf:Description>
 
 </rdf:RDF>

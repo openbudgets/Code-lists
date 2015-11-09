@@ -29052,8 +29052,8 @@
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Belgo-Luxembourg Economic Union"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> .
 
-<http://data.openbudgets.eu/resource/codelist/cl-geo> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geographical Standard Code List"@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/cl-geo> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Geographical Standard Code List"@en .
 
 <http://data.openbudgets.eu/resource/codelist/cl-geo/GEO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/cl-geo> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/cl-geo/EUR> .

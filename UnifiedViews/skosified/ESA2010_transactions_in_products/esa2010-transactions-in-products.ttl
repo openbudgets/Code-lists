@@ -164,5 +164,5 @@
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products/P.7> .
 
-<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transactions in Products"@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/esa2010-transactions-in-products> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Transactions in Products"@en .

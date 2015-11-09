@@ -436,36 +436,44 @@
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r> <http://www.w3.org/2004/02/skos/core#notation> "D.9r" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital transfers, receivable"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91r> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92r> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99r> ;
 	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91r> <http://www.w3.org/2004/02/skos/core#notation> "D.91r" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital taxes, receivable"@en ;
-	a <http://www.w3.org/2004/02/skos/core#Concept> .
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92r> <http://www.w3.org/2004/02/skos/core#notation> "D.92r" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment grants, receivable"@en ;
-	a <http://www.w3.org/2004/02/skos/core#Concept> .
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99r> <http://www.w3.org/2004/02/skos/core#notation> "D.99r" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other capital transfers, receivable"@en ;
-	a <http://www.w3.org/2004/02/skos/core#Concept> .
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9r> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p> <http://www.w3.org/2004/02/skos/core#notation> "D.9p" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital transfers, payable"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91p> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92p> , <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99p> ;
 	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.91p> <http://www.w3.org/2004/02/skos/core#notation> "D.91p" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Capital taxes, payable"@en ;
-	a <http://www.w3.org/2004/02/skos/core#Concept> .
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.92p> <http://www.w3.org/2004/02/skos/core#notation> "D.92p" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment grants, payable"@en ;
-	a <http://www.w3.org/2004/02/skos/core#Concept> .
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.99p> <http://www.w3.org/2004/02/skos/core#notation> "D.99p" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other capital transfers, payable"@en ;
-	a <http://www.w3.org/2004/02/skos/core#Concept> .
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions/D.9p> .
 
-<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Distributive transactions "@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/esa2010-distributive-transactions> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Distributive transactions "@en .

@@ -208,6 +208,9 @@
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pension funds, foreign controlled"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> .
 
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.121 + S.122 + S.123> <http://www.w3.org/2004/02/skos/core#notation> "S.121 + S.122 + S.123" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Monetary financial institutions"@en ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors/S.13> <http://www.w3.org/2004/02/skos/core#notation> "S.13" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "General government"@en ;
@@ -461,5 +464,5 @@
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-member countries, households"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> .
 
-<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institutional Sectors"@en ;
-	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://data.openbudgets.eu/resource/codelist/esa2010-institutional-sectors> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Institutional Sectors"@en .
