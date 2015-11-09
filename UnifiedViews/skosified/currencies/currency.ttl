@@ -1,9 +1,18 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
 
 <http://data.openbudgets.eu/codelist/currency/AFN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afghani"@en ;
 	<http://www.w3.org/2004/02/skos/core#notation> "AFN" ;
 	<http://www.w3.org/2004/02/skos/core#note> "2"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> , <http://data.openbudgets.eu/ontology/Classes/Currency> ;
 	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/currency> .
+
+<http://data.openbudgets.eu/resource/codelist/currency> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	rdfs:label "Currencies"@en .
 
 <http://data.openbudgets.eu/codelist/currency/EUR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euro"@en ;
 	<http://www.w3.org/2004/02/skos/core#notation> "EUR" ;
