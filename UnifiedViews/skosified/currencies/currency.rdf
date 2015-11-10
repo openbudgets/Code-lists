@@ -13,6 +13,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/currency">
@@ -26,6 +27,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ALL">
@@ -34,6 +36,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DZD">
@@ -42,6 +45,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/USD">
@@ -50,6 +54,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AOA">
@@ -58,6 +63,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XCD">
@@ -66,6 +72,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NA">
@@ -74,6 +81,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ARS">
@@ -82,6 +90,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AMD">
@@ -90,6 +99,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AWG">
@@ -98,6 +108,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AUD">
@@ -106,6 +117,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AZN">
@@ -114,6 +126,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BSD">
@@ -122,6 +135,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BHD">
@@ -130,6 +144,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BDT">
@@ -138,6 +153,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BBD">
@@ -146,6 +162,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BYR">
@@ -154,6 +171,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BZD">
@@ -162,6 +180,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XOF">
@@ -170,6 +189,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BMD">
@@ -178,6 +198,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BTN">
@@ -186,6 +207,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/INR">
@@ -194,6 +216,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BOB">
@@ -202,6 +225,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BOV">
@@ -210,6 +234,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BAM">
@@ -218,6 +243,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BWP">
@@ -226,6 +252,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NOK">
@@ -234,6 +261,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BRL">
@@ -242,6 +270,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BND">
@@ -250,6 +279,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BGN">
@@ -258,6 +288,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BIF">
@@ -266,6 +297,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CVE">
@@ -274,6 +306,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KHR">
@@ -282,6 +315,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XAF">
@@ -290,6 +324,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CAD">
@@ -298,6 +333,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KYD">
@@ -306,6 +342,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CLF">
@@ -314,6 +351,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CLP">
@@ -322,6 +360,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CNY">
@@ -330,6 +369,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/COP">
@@ -338,6 +378,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/COU">
@@ -346,6 +387,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KMF">
@@ -354,6 +396,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CDF">
@@ -362,6 +405,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NZD">
@@ -370,6 +414,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CRC">
@@ -378,6 +423,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HRK">
@@ -386,6 +432,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CUC">
@@ -394,6 +441,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CUP">
@@ -402,6 +450,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ANG">
@@ -410,6 +459,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CZK">
@@ -418,6 +468,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DKK">
@@ -426,6 +477,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DJF">
@@ -434,6 +486,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DOP">
@@ -442,6 +495,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/EGP">
@@ -450,6 +504,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SVC">
@@ -458,6 +513,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ERN">
@@ -466,6 +522,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ETB">
@@ -474,6 +531,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/FKP">
@@ -482,6 +540,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/FJD">
@@ -490,6 +549,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XPF">
@@ -498,6 +558,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GMD">
@@ -506,6 +567,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GEL">
@@ -514,6 +576,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GHS">
@@ -522,6 +585,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GIP">
@@ -530,6 +594,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GTQ">
@@ -538,6 +603,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GBP">
@@ -546,6 +612,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GNF">
@@ -554,6 +621,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GYD">
@@ -562,6 +630,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HTG">
@@ -570,6 +639,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HNL">
@@ -578,6 +648,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HKD">
@@ -586,6 +657,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HUF">
@@ -594,6 +666,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ISK">
@@ -602,6 +675,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/IDR">
@@ -610,6 +684,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XDR">
@@ -618,6 +693,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/IRR">
@@ -626,6 +702,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/IQD">
@@ -634,6 +711,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ILS">
@@ -642,6 +720,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/JMD">
@@ -650,6 +729,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/JPY">
@@ -658,6 +738,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/JOD">
@@ -666,6 +747,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KZT">
@@ -674,6 +756,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KES">
@@ -682,6 +765,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KPW">
@@ -690,6 +774,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KRW">
@@ -698,6 +783,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KWD">
@@ -706,6 +792,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KGS">
@@ -714,6 +801,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LAK">
@@ -722,6 +810,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LBP">
@@ -730,6 +819,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LSL">
@@ -738,6 +828,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ZAR">
@@ -746,6 +837,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LRD">
@@ -754,6 +846,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LYD">
@@ -762,6 +855,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CHF">
@@ -770,6 +864,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MOP">
@@ -778,6 +873,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MKD">
@@ -786,6 +882,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MGA">
@@ -794,6 +891,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MWK">
@@ -802,6 +900,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MYR">
@@ -810,6 +909,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MVR">
@@ -818,6 +918,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MRO">
@@ -826,6 +927,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MUR">
@@ -834,6 +936,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XUA">
@@ -842,6 +945,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MXN">
@@ -850,6 +954,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MXV">
@@ -858,6 +963,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MDL">
@@ -866,6 +972,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MNT">
@@ -874,6 +981,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MAD">
@@ -882,6 +990,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MZN">
@@ -890,6 +999,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MMK">
@@ -898,6 +1008,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NAD">
@@ -906,6 +1017,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NPR">
@@ -914,6 +1026,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NIO">
@@ -922,6 +1035,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NGN">
@@ -930,6 +1044,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/OMR">
@@ -938,6 +1053,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PKR">
@@ -946,6 +1062,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PAB">
@@ -954,6 +1071,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PGK">
@@ -962,6 +1080,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PYG">
@@ -970,6 +1089,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PEN">
@@ -978,6 +1098,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PHP">
@@ -986,6 +1107,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PLN">
@@ -994,6 +1116,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/QAR">
@@ -1002,6 +1125,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RON">
@@ -1010,6 +1134,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RUB">
@@ -1018,6 +1143,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RWF">
@@ -1026,6 +1152,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SHP">
@@ -1034,6 +1161,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/WST">
@@ -1042,6 +1170,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/STD">
@@ -1050,6 +1179,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SAR">
@@ -1058,6 +1188,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RSD">
@@ -1066,6 +1197,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SCR">
@@ -1074,6 +1206,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SLL">
@@ -1082,6 +1215,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SGD">
@@ -1090,6 +1224,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XSU">
@@ -1098,6 +1233,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SBD">
@@ -1106,6 +1242,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SOS">
@@ -1114,6 +1251,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SSP">
@@ -1122,6 +1260,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LKR">
@@ -1130,6 +1269,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SDG">
@@ -1138,6 +1278,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SRD">
@@ -1146,6 +1287,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SZL">
@@ -1154,6 +1296,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SEK">
@@ -1162,6 +1305,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CHE">
@@ -1170,6 +1314,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CHW">
@@ -1178,6 +1323,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SYP">
@@ -1186,6 +1332,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TWD">
@@ -1194,6 +1341,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TJS">
@@ -1202,6 +1350,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TZS">
@@ -1210,6 +1359,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/THB">
@@ -1218,6 +1368,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TOP">
@@ -1226,6 +1377,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TTD">
@@ -1234,6 +1386,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TND">
@@ -1242,6 +1395,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TRY">
@@ -1250,6 +1404,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TMT">
@@ -1258,6 +1413,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UGX">
@@ -1266,6 +1422,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UAH">
@@ -1274,6 +1431,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AED">
@@ -1282,6 +1440,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/USN">
@@ -1290,6 +1449,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UYI">
@@ -1298,6 +1458,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UYU">
@@ -1306,6 +1467,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UZS">
@@ -1314,6 +1476,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/VUV">
@@ -1322,6 +1485,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/VEF">
@@ -1330,6 +1494,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/VND">
@@ -1338,6 +1503,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/YER">
@@ -1346,6 +1512,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ZMW">
@@ -1354,6 +1521,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ZWL">
@@ -1362,6 +1530,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBA">
@@ -1370,6 +1539,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBB">
@@ -1378,6 +1548,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBC">
@@ -1386,6 +1557,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBD">
@@ -1394,6 +1566,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XTS">
@@ -1402,6 +1575,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XXX">
@@ -1410,6 +1584,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XAU">
@@ -1418,6 +1593,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XPD">
@@ -1426,6 +1602,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XPT">
@@ -1434,6 +1611,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XAG">
@@ -1442,6 +1620,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
 </rdf:Description>
 
 </rdf:RDF>
