@@ -3025,8 +3025,7 @@
 	skos:prefLabel "Μεταφορές εν γένει"@el ;
 	skos:broader <http://data.openbudgets.eu/resource/codelist/kaeota/20.641> .
 
-<http://data.openbudgets.eu/resource/codelist/kaeota/20.641> skos:prefLabel "ΟΔΟΙΠΟΡΙΚΑ ΕΞΟΔΑ ΚΑΙ ΕΞΟΔΑ ΤΑΞΙΔΙΩΝ"@el ;
-	skos:narrower <http://data.openbudgets.eu/resource/codelist/kaeota/20.6422> .
+<http://data.openbudgets.eu/resource/codelist/kaeota/20.641> skos:narrower <http://data.openbudgets.eu/resource/codelist/kaeota/20.6422> .
 
 <http://data.openbudgets.eu/resource/codelist/kaeota/20.6422> a skos:Concept ;
 	skos:prefLabel "Οδοιπορικά έξοδα και αποζημίωση μετακινούμενων υπαλλήλων"@el ;
