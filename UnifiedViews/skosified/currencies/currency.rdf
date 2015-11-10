@@ -10,7 +10,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AFN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Afghani</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AFN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -24,7 +23,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/EUR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Euro</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EUR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -33,7 +31,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ALL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Lek</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -42,7 +39,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DZD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Algerian Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DZD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -51,7 +47,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/USD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">US Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -60,7 +55,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AOA">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kwanza</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AOA</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -69,7 +63,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XCD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">East Caribbean Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XCD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -78,7 +71,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NA">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">No universal currency</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NA</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">NA</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -87,7 +79,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ARS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Argentine Peso</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -96,7 +87,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AMD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Armenian Dram</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AMD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -105,7 +95,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AWG">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Aruban Florin</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AWG</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -114,7 +103,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AUD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Australian Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AUD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -123,7 +111,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AZN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Azerbaijanian Manat</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AZN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -132,7 +119,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BSD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bahamian Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BSD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -141,7 +127,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BHD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bahraini Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BHD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">3</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -150,7 +135,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BDT">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Taka</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BDT</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -159,7 +143,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BBD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Barbados Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BBD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -168,7 +151,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BYR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Belarussian Ruble</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BYR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -177,7 +159,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BZD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Belize Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BZD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -186,7 +167,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XOF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">CFA Franc BCEAO</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XOF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -195,7 +175,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BMD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bermudian Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BMD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -204,7 +183,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BTN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Ngultrum</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BTN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -213,7 +191,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/INR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Indian Rupee</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -222,7 +199,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BOB">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Boliviano</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOB</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -231,7 +207,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BOV">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mvdol</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOV</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -240,7 +215,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BAM">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Convertible Mark</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BAM</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -249,7 +223,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BWP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Pula</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BWP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -258,7 +231,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NOK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Norwegian Krone</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NOK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -267,7 +239,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BRL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Brazilian Real</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BRL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -276,7 +247,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BND">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Brunei Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BND</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -285,7 +255,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BGN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bulgarian Lev</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BGN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -294,7 +263,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/BIF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Burundi Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -303,7 +271,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CVE">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Cabo Verde Escudo</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CVE</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -312,7 +279,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KHR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Riel</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KHR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -321,7 +287,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XAF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">CFA Franc BEAC</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XAF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -330,7 +295,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CAD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Canadian Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -339,7 +303,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KYD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Cayman Islands Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KYD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -348,7 +311,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CLF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Unidad de Fomento</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CLF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">4</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -357,7 +319,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CLP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Chilean Peso</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CLP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -366,7 +327,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CNY">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Yuan Renminbi</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CNY</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -375,7 +335,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/COP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Colombian Peso</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -384,7 +343,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/COU">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Unidad de Valor Real</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COU</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -393,7 +351,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KMF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Comoro Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KMF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -402,7 +359,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CDF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Congolese Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CDF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -411,7 +367,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NZD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">New Zealand Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NZD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -420,7 +375,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CRC">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Costa Rican Colon</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CRC</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -429,7 +383,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HRK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kuna</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HRK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -438,7 +391,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CUC">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Peso Convertible</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CUC</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -447,7 +399,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CUP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Cuban Peso</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CUP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -456,7 +407,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ANG">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Netherlands Antillean Guilder</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ANG</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -465,7 +415,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CZK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Czech Koruna</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CZK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -474,7 +423,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DKK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Danish Krone</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DKK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -483,7 +431,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DJF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Djibouti Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DJF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -492,7 +439,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/DOP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dominican Peso</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -501,7 +447,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/EGP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Egyptian Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EGP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -510,7 +455,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SVC">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">El Salvador Colon</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SVC</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -519,7 +463,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ERN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Nakfa</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ERN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -528,7 +471,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ETB">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Ethiopian Birr</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ETB</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -537,7 +479,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/FKP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Falkland Islands Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FKP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -546,7 +487,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/FJD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Fiji Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FJD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -555,7 +495,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XPF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">CFP Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XPF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -564,7 +503,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GMD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dalasi</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GMD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -573,7 +511,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GEL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Lari</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GEL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -582,7 +519,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GHS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Ghana Cedi</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GHS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -591,7 +527,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GIP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Gibraltar Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GIP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -600,7 +535,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GTQ">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Quetzal</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GTQ</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -609,7 +543,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GBP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Pound Sterling</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GBP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -618,7 +551,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GNF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Guinea Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GNF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -627,7 +559,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/GYD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Guyana Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GYD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -636,7 +567,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HTG">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Gourde</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTG</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -645,7 +575,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HNL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Lempira</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HNL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -654,7 +583,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HKD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Hong Kong Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HKD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -663,7 +591,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/HUF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Forint</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HUF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -672,7 +599,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ISK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Iceland Krona</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -681,7 +607,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/IDR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Rupiah</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IDR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -690,7 +615,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XDR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">SDR (Special Drawing Right)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XDR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -699,7 +623,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/IRR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Iranian Rial</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IRR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -708,7 +631,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/IQD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Iraqi Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IQD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">3</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -717,7 +639,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ILS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">New Israeli Sheqel</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ILS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -726,7 +647,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/JMD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Jamaican Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JMD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -735,7 +655,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/JPY">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Yen</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPY</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -744,7 +663,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/JOD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Jordanian Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JOD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">3</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -753,7 +671,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KZT">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Tenge</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KZT</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -762,7 +679,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KES">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kenyan Shilling</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KES</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -771,7 +687,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KPW">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">North Korean Won</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KPW</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -780,7 +695,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KRW">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Won</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KRW</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -789,7 +703,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KWD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kuwaiti Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KWD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">3</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -798,7 +711,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/KGS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Som</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KGS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -807,7 +719,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LAK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kip</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LAK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -816,7 +727,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LBP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Lebanese Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LBP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -825,7 +735,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LSL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Loti</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LSL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -834,7 +743,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ZAR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Rand</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZAR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -843,7 +751,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LRD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Liberian Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LRD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -852,7 +759,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LYD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Libyan Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LYD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">3</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -861,7 +767,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CHF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Swiss Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -870,7 +775,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MOP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Pataca</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MOP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -879,7 +783,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MKD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Denar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MKD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -888,7 +791,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MGA">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Malagasy Ariary</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MGA</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -897,7 +799,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MWK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kwacha</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MWK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -906,7 +807,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MYR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Malaysian Ringgit</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MYR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -915,7 +815,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MVR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Rufiyaa</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MVR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -924,7 +823,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MRO">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Ouguiya</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MRO</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -933,7 +831,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MUR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mauritius Rupee</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MUR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -942,7 +839,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XUA">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">ADB Unit of Account</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XUA</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -951,7 +847,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MXN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mexican Peso</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MXN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -960,7 +855,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MXV">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mexican Unidad de Inversion (UDI)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MXV</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -969,7 +863,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MDL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Moldovan Leu</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MDL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -978,7 +871,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MNT">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Tugrik</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MNT</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -987,7 +879,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MAD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Moroccan Dirham</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MAD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -996,7 +887,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MZN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Mozambique Metical</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MZN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1005,7 +895,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/MMK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kyat</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MMK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1014,7 +903,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NAD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Namibia Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NAD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1023,7 +911,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NPR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Nepalese Rupee</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NPR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1032,7 +919,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NIO">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Cordoba Oro</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NIO</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1041,7 +927,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/NGN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Naira</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NGN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1050,7 +935,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/OMR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Rial Omani</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">3</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1059,7 +943,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PKR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Pakistan Rupee</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PKR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1068,7 +951,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PAB">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Balboa</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PAB</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1077,7 +959,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PGK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Kina</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PGK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1086,7 +967,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PYG">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Guarani</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PYG</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1095,7 +975,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PEN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Nuevo Sol</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PEN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1104,7 +983,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PHP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Philippine Peso</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PHP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1113,7 +991,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/PLN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Zloty</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PLN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1122,7 +999,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/QAR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Qatari Rial</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QAR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1131,7 +1007,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RON">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Romanian Leu</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RON</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1140,7 +1015,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RUB">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Russian Ruble</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RUB</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1149,7 +1023,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RWF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Rwanda Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RWF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1158,7 +1031,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SHP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Saint Helena Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SHP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1167,7 +1039,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/WST">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Tala</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WST</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1176,7 +1047,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/STD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dobra</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">STD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1185,7 +1055,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SAR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Saudi Riyal</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1194,7 +1063,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/RSD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Serbian Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RSD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1203,7 +1071,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SCR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Seychelles Rupee</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SCR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1212,7 +1079,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SLL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Leone</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1221,7 +1087,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SGD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Singapore Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SGD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1230,7 +1095,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XSU">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Sucre</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XSU</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1239,7 +1103,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SBD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Solomon Islands Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SBD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1248,7 +1111,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SOS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Somali Shilling</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SOS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1257,7 +1119,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SSP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">South Sudanese Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SSP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1266,7 +1127,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/LKR">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Sri Lanka Rupee</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LKR</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1275,7 +1135,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SDG">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Sudanese Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1284,7 +1143,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SRD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Surinam Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1293,7 +1151,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SZL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Lilangeni</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SZL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1302,7 +1159,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SEK">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Swedish Krona</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEK</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1311,7 +1167,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CHE">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">WIR Euro</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHE</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1320,7 +1175,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/CHW">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">WIR Franc</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHW</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1329,7 +1183,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/SYP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Syrian Pound</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SYP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1338,7 +1191,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TWD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">New Taiwan Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TWD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1347,7 +1199,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TJS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Somoni</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TJS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1356,7 +1207,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TZS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Tanzanian Shilling</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TZS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1365,7 +1215,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/THB">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Baht</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THB</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1374,7 +1223,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TOP">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Pa?anga</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TOP</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1383,7 +1231,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TTD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Trinidad and Tobago Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TTD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1392,7 +1239,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TND">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Tunisian Dinar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TND</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">3</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1401,7 +1247,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TRY">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Turkish Lira</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TRY</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1410,7 +1255,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/TMT">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Turkmenistan New Manat</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TMT</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1419,7 +1263,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UGX">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Uganda Shilling</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UGX</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1428,7 +1271,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UAH">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Hryvnia</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UAH</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1437,7 +1279,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/AED">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">UAE Dirham</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AED</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1446,7 +1287,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/USN">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">US Dollar (Next day)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USN</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1455,7 +1295,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UYI">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Uruguay Peso en Unidades Indexadas (URUIURUI)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UYI</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1464,7 +1303,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UYU">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Peso Uruguayo</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UYU</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1473,7 +1311,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/UZS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Uzbekistan Sum</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UZS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1482,7 +1319,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/VUV">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Vatu</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VUV</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1491,7 +1327,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/VEF">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bolivar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VEF</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1500,7 +1335,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/VND">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dong</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VND</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">0</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1509,7 +1343,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/YER">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Yemeni Rial</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YER</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1518,7 +1351,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ZMW">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Zambian Kwacha</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZMW</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1527,7 +1359,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/ZWL">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Zimbabwe Dollar</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZWL</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">2</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1536,7 +1367,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBA">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bond Markets Unit European Composite Unit (EURCO)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBA</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1545,7 +1375,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBB">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bond Markets Unit European Monetary Unit (E.M.U.-6)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBB</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1554,7 +1383,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBC">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBC</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1563,7 +1391,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XBD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XBD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1572,7 +1399,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XTS">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Codes specifically reserved for testing purposes</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XTS</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1581,7 +1407,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XXX">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The codes assigned for transactions where no currency is involved</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XXX</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1590,7 +1415,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XAU">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Gold</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XAU</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1599,7 +1423,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XPD">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Palladium</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XPD</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1608,7 +1431,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XPT">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Platinum</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XPT</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
@@ -1617,7 +1439,6 @@
 <rdf:Description rdf:about="http://data.openbudgets.eu/codelist/currency/XAG">
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Silver</prefLabel>
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XAG</notation>
-	<note xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">N.A.</note>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdf:type rdf:resource="http://data.openbudgets.eu/ontology/Classes/Currency"/>
 	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/currency"/>
