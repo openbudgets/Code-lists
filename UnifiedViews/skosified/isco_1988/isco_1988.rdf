@@ -12,10 +12,10 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Legislators, senior officials and managers</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/11"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/12"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/13"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/11">
@@ -380,11 +380,11 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Professionals</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/21"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/22"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/23"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/24"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/21">
@@ -1090,11 +1090,11 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Technicians and associate professionals</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/31"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/32"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/33"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/34"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/31">
@@ -1944,9 +1944,9 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Clerks</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/41"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/42"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/41">
@@ -2240,9 +2240,9 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Service workers and shop and market sales workers</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/51"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/52"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/51">
@@ -2509,8 +2509,8 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Skilled agricultural and fishery workers</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/61"/>
 	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/61"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/61">
@@ -2679,11 +2679,11 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Craft and related trades workers</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/71"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/72"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/73"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/74"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/71">
@@ -3488,10 +3488,10 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Plant and machine operators and assemblers</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/81"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/82"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/83"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/81">
@@ -4333,10 +4333,10 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Elementary occupations</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/91"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/92"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/93"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/91">
@@ -4647,8 +4647,8 @@
 	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</notation>
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Armed forces</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/01"/>
 	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988"/>
+	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/01"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988/01">
@@ -4679,6 +4679,16 @@
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/isco_1988">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/1"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/2"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/3"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/4"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/5"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/6"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/7"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/8"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/9"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/isco_1988/0"/>
 	<rdfs:label xml:lang="en">International standard classification of occupations</rdfs:label>
 </rdf:Description>
 
