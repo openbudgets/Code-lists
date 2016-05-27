@@ -3521,7 +3521,16 @@
 	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014/7"/>
 	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014/8"/>
 	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014/9"/>
+	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014/missing"/>
 	<rdfs:label xml:lang="en">Numerical codes for the representation of Greek Municipalities Expenditure of fiscal year 2014</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014/missing">
+	<notation xmlns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">missing</notation>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="el">missing</prefLabel>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014"/>
 </rdf:Description>
 
 </rdf:RDF>
