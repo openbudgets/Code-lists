@@ -14,6 +14,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/0111"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/01"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/111">
@@ -26,6 +27,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1113"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1114"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/11"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/112">
@@ -36,6 +38,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1121"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1125"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/11"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121">
@@ -52,6 +55,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1217"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1219"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/12"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/122">
@@ -61,6 +65,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1221"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/12"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/123">
@@ -70,6 +75,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1231"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/12"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/125">
@@ -82,6 +88,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1253"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1259"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/12"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126">
@@ -99,6 +106,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1268"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1269"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/12"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/131">
@@ -108,6 +116,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1311"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/13"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/134">
@@ -117,6 +126,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1341"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/13"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/142">
@@ -126,6 +136,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1421"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/14"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313">
@@ -140,6 +151,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3135"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3136"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/31"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/315">
@@ -149,6 +161,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3151"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/31"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/322">
@@ -161,6 +174,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3225"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3229"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/32"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/323">
@@ -171,6 +185,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3231"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3232"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/32"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/324">
@@ -180,6 +195,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3241"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/32"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/411">
@@ -189,6 +205,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4111"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/41"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/412">
@@ -200,6 +217,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4123"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4124"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/41"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/413">
@@ -211,6 +229,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4132"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4134"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/41"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/421">
@@ -221,6 +240,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4211"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4212"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/42"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422">
@@ -238,6 +258,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4228"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4229"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/42"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/423">
@@ -247,6 +268,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4231"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/42"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/431">
@@ -256,6 +278,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4311"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/43"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/432">
@@ -266,6 +289,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4321"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4323"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/43"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/442">
@@ -276,6 +300,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4422"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4423"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/44"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/443">
@@ -285,6 +310,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4431"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/44"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/452">
@@ -295,6 +321,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4521"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4522"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/45"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/455">
@@ -304,6 +331,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4553"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/45"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/457">
@@ -313,6 +341,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4571"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/45"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/458">
@@ -322,6 +351,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4581"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/45"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/463">
@@ -331,6 +361,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4631"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/46"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/511">
@@ -340,6 +371,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5111"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/51"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/512">
@@ -349,6 +381,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5121"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/51"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/513">
@@ -359,6 +392,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5131"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5132"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/51"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/531">
@@ -369,6 +403,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5311"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5312"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/53"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/533">
@@ -379,6 +414,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5331"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5332"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/53"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/541">
@@ -388,6 +424,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5411"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/54"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/542">
@@ -401,6 +438,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5424"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5425"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/54"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/551">
@@ -410,6 +448,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5511"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/55"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/611">
@@ -420,6 +459,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6111"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6112"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/61"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612">
@@ -435,6 +475,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6128"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6129"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/61"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/615">
@@ -444,6 +485,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6152"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/61"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/622">
@@ -453,6 +495,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6221"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/62"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/623">
@@ -462,6 +505,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6231"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/62"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/631">
@@ -475,6 +519,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6314"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6315"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/63"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/641">
@@ -484,6 +529,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6411"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/64"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/642">
@@ -493,6 +539,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6421"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/64"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/711">
@@ -502,6 +549,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7111"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/71"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/712">
@@ -514,6 +562,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7123"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7128"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/71"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/716">
@@ -523,6 +572,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7161"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/71"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/722">
@@ -532,6 +582,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7221"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/72"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/723">
@@ -541,6 +592,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7231"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/72"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/731">
@@ -551,6 +603,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7311"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7312"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/73"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/751">
@@ -560,6 +613,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7511"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/75"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/911">
@@ -570,6 +624,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/9111"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/9112"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/91"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/01">
@@ -579,6 +634,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/011"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/0"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/11">
@@ -589,6 +645,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/111"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/112"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/12">
@@ -602,6 +659,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/125"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/13">
@@ -612,6 +670,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/131"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/134"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/14">
@@ -621,6 +680,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/142"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/31">
@@ -631,6 +691,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/315"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/32">
@@ -642,6 +703,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/323"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/324"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/41">
@@ -653,6 +715,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/412"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/413"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/42">
@@ -664,6 +727,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/423"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/43">
@@ -674,6 +738,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/431"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/432"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/44">
@@ -684,6 +749,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/442"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/443"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/45">
@@ -696,6 +762,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/457"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/458"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/46">
@@ -705,6 +772,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/463"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/51">
@@ -716,6 +784,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/512"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/513"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/53">
@@ -726,6 +795,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/531"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/533"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/54">
@@ -736,6 +806,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/541"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/542"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/55">
@@ -745,6 +816,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/551"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/61">
@@ -756,6 +828,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/615"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/62">
@@ -766,6 +839,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/622"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/623"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/63">
@@ -775,6 +849,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/631"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/64">
@@ -785,6 +860,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/641"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/642"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/71">
@@ -796,6 +872,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/712"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/716"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/72">
@@ -806,6 +883,7 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/722"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/723"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/73">
@@ -815,6 +893,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/731"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/75">
@@ -824,6 +903,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/751"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/91">
@@ -833,6 +913,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/911"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/9"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/0">
@@ -841,7 +922,8 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Deuda Pública</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/01"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1">
@@ -853,7 +935,8 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/12"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/13"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/14"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3">
@@ -863,7 +946,8 @@
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/31"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/32"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4">
@@ -877,7 +961,8 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/44"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/45"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/46"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5">
@@ -889,7 +974,8 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/53"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/54"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/55"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6">
@@ -901,7 +987,8 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/62"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/63"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/64"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7">
@@ -913,7 +1000,8 @@
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/72"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/73"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/75"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/9">
@@ -922,7 +1010,8 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Transferencias a otras Administraciones Públicas</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<narrower xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/91"/>
-	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013"/>
+	<topConceptOf xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/0111">
@@ -931,6 +1020,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Amortización y Gastos Financieros de la Deuda</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/011"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1111">
@@ -939,6 +1029,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Cortes de Aragón (Actividad Legislativa)</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/111"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1112">
@@ -947,6 +1038,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Actuaciones del Justicia de Aragón</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/111"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1113">
@@ -955,6 +1047,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Aljafería</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/111"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1114">
@@ -963,6 +1056,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Actuaciones de la Cámara de Cuentas de Aragón</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/111"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1121">
@@ -971,6 +1065,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Presidencia y Órganos de la Presidencia</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/112"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1125">
@@ -979,6 +1074,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Consejo Consultivo de Aragón</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/112"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1211">
@@ -987,6 +1083,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Presidencia y Justicia</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1212">
@@ -995,6 +1092,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Centrales, Edificios e Instalaciones</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1213">
@@ -1003,6 +1101,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios de Seguridad y Protección Civil</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1214">
@@ -1011,6 +1110,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Ordenación Administrativa</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1215">
@@ -1019,6 +1119,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios de Interior</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1216">
@@ -1027,6 +1128,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Comunidades Aragonesas del Exterior</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1217">
@@ -1035,6 +1137,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Relaciones Institucionales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1219">
@@ -1043,6 +1146,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Unidad de la Policía Nacional adscrita a la Comunidad Autónoma</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/121"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1221">
@@ -1051,6 +1155,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Dirección y Administración de la Función Pública</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/122"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1231">
@@ -1059,6 +1164,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Selección, Formación y Perfeccionamiento del Personal</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/123"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1251">
@@ -1067,6 +1173,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Apoyo a la Administración Local</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/125"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1252">
@@ -1075,6 +1182,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Política Territorial</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/125"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1253">
@@ -1083,6 +1191,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Estrategias Territoriales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/125"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1259">
@@ -1091,6 +1200,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Cooperación con la Policía Local</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/125"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1261">
@@ -1099,6 +1209,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios de Coordinación Administrativa en Huesca</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1262">
@@ -1107,6 +1218,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios de Coordinación Administrativa en Teruel</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1263">
@@ -1115,6 +1227,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Jurídicos</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1264">
@@ -1123,6 +1236,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Información Ciudadana y Documentación Administrativa</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1265">
@@ -1131,6 +1245,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Telemáticos</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1266">
@@ -1139,6 +1254,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Televisión y Radio Autonómicas</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1267">
@@ -1147,6 +1263,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Actuaciones Relativas al Desarrollo Estatutario</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1268">
@@ -1155,6 +1272,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Información y Participación Ciudadana</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1269">
@@ -1163,6 +1281,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Política Territorial e Interior</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/126"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1311">
@@ -1171,6 +1290,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Actuaciones de Relaciones Exteriores</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/131"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1341">
@@ -1179,6 +1299,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Cooperación al Desarrollo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/134"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1421">
@@ -1187,6 +1308,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios de Administración de Justicia</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/142"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3131">
@@ -1195,6 +1317,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Prestaciones Asistenciales y Servicios Sociales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3132">
@@ -1203,6 +1326,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión y Desarrollo de los Servicios Sociales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3133">
@@ -1211,6 +1335,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Política Integral de Apoyo a la Familia</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3134">
@@ -1219,6 +1344,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Atención a la dependencia</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3135">
@@ -1227,6 +1353,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Acción Social en Favor del Personal</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3136">
@@ -1234,6 +1361,7 @@
 	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fondo Inc. Soc.y Ay Fam U</prefLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/313"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3151">
@@ -1242,6 +1370,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Relaciones Laborales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/315"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3221">
@@ -1250,6 +1379,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fomento del Empleo. Instituto Aragonés de Empleo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/322"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3222">
@@ -1258,6 +1388,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fomento del Empleo. Escuelas Taller</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/322"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3225">
@@ -1266,6 +1397,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fomento del Empleo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/322"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3229">
@@ -1274,6 +1406,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Consejo Económico y Social de Aragón</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/322"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3231">
@@ -1282,6 +1415,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Promoción de la Juventud</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/323"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3232">
@@ -1290,6 +1424,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Promoción de la Mujer</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/323"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/3241">
@@ -1298,6 +1433,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Apoyo a la Inmigración</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/324"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4111">
@@ -1306,6 +1442,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Sanidad, Bienestar Social y Familia</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/411"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4121">
@@ -1314,6 +1451,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Asistencia Sanitaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/412"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4123">
@@ -1322,6 +1460,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Asistencia Sanitaria Medio Rural (Consorcio Aragonés Sanitario de Alta Resolución)</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/412"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4124">
@@ -1330,6 +1469,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Producción de componentes sanguíneos y de tejidos para uso sanitario</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/412"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4131">
@@ -1338,6 +1478,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Protección y Promoción de la Salud</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/413"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4132">
@@ -1346,6 +1487,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios de Atención al Usuario</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/413"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4134">
@@ -1354,6 +1496,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Salud Pública</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/413"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4211">
@@ -1362,6 +1505,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Educación, Universidad, Cultura y Deporte</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/421"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4212">
@@ -1370,6 +1514,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión de Personal</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/421"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4221">
@@ -1378,6 +1523,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Educación Infantil y Primaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4222">
@@ -1386,6 +1532,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Educación Secundaria y Formación Profesional</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4223">
@@ -1394,6 +1541,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Educación Especial</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4224">
@@ -1402,6 +1550,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Enseńanzas Artísticas</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4225">
@@ -1410,6 +1559,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Educación Permanente</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4226">
@@ -1418,6 +1568,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Plan Aragonés de Formación Profesional</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4227">
@@ -1426,6 +1577,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Formación del Profesorado</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4228">
@@ -1434,6 +1586,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Educación Universitaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4229">
@@ -1442,6 +1595,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Evaluación de la calidad de la Enseńanza Superior</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/422"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4231">
@@ -1450,6 +1604,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Planificación y Programas Educativos</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/423"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4311">
@@ -1458,6 +1613,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Promoción y Administración de Viviendas</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/431"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4321">
@@ -1466,6 +1622,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Urbanismo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/432"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4323">
@@ -1474,6 +1631,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Arquitectura y Rehabilitación</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/432"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4422">
@@ -1482,6 +1640,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Protección y Mejora del Medio Ambiente</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/442"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4423">
@@ -1490,6 +1649,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión Ambiental</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/442"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4431">
@@ -1498,6 +1658,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Control del Consumo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/443"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4521">
@@ -1506,6 +1667,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Archivos y Museos</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/452"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4522">
@@ -1514,6 +1676,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión de Bibliotecas</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/452"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4553">
@@ -1522,6 +1685,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Promoción y Acción Cultural</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/455"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4571">
@@ -1530,6 +1694,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fomento y apoyo a la Actividad Deportiva</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/457"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4581">
@@ -1538,6 +1703,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Protección y Difusión del Patrimonio Cultural</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/458"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/4631">
@@ -1546,6 +1712,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Elecciones Institucionales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/463"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5111">
@@ -1554,6 +1721,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Obras Públicas, Urbanismo, Vivienda y Transportes</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/511"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5121">
@@ -1562,6 +1730,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión e Infraestructura de Recursos Hidráulicos</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/512"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5131">
@@ -1570,6 +1739,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Carreteras</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/513"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5132">
@@ -1578,6 +1748,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Transportes</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/513"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5311">
@@ -1586,6 +1757,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Mejora de Estructuras Agrarias y Desarrollo Rural</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/531"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5312">
@@ -1594,6 +1766,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Desarrollo Sostenible en el Medio Rural</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/531"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5331">
@@ -1602,6 +1775,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Protección y mejora del Medio Natural</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/533"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5332">
@@ -1610,6 +1784,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Conservación de la Biodiversidad y Desarrollo Sostenible</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/533"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5411">
@@ -1618,6 +1793,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Industria e Innovación</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/541"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5421">
@@ -1626,6 +1802,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Investigación Agroalimentaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/542"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5422">
@@ -1634,6 +1811,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Investigación y Tecnología Aplicada a la Industria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/542"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5423">
@@ -1642,6 +1820,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Investigación, Desarrollo e Innovación Tecnológica</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/542"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5424">
@@ -1650,6 +1829,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Investigación y Desarrollo para la Sociedad de la Información</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/542"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5425">
@@ -1658,6 +1838,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Investigación y Desarrollo en el Área de la Salud</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/542"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/5511">
@@ -1666,6 +1847,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Elaboración y Difusión Estadística</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/551"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6111">
@@ -1674,6 +1856,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Hacienda y Administración Pública</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/611"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6112">
@@ -1682,6 +1865,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Economía y Empleo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/611"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6121">
@@ -1690,6 +1874,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Planificación y Dirección Presupuestaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6122">
@@ -1698,6 +1883,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Promoción y Desarrollo Económico</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6123">
@@ -1706,6 +1892,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Plan Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6124">
@@ -1714,6 +1901,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Corporación Empresarial Pública de Aragón</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6126">
@@ -1722,6 +1910,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Apoyo al Desarrollo Económico y Social</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6128">
@@ -1730,6 +1919,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fondo de Gastos de Personal</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6129">
@@ -1738,6 +1928,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fondo de Contingencia de Ejecución Presupuestaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/612"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6152">
@@ -1746,6 +1937,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Actuaciones relativas a Programas Europeos</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/615"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6221">
@@ -1754,6 +1946,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Ordenación y Promoción Comercial</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/622"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6231">
@@ -1762,6 +1955,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Comercio Exterior y Relaciones Económicas Internacionales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/623"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6311">
@@ -1770,6 +1964,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión e Inspección de Tributos</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/631"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6312">
@@ -1778,6 +1973,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Control Interno y Contabilidad</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/631"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6313">
@@ -1786,6 +1982,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión del Patrimonio</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/631"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6314">
@@ -1794,6 +1991,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Gestión de Tesorería</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/631"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6315">
@@ -1802,6 +2000,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Estudios Económicos y Regulación</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/631"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6411">
@@ -1810,6 +2009,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Junta Consultiva de Contratación Administrativa y Registros</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/641"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/6421">
@@ -1818,6 +2018,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Actuaciones en materia de Defensa de Competencia</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/642"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7111">
@@ -1826,6 +2027,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Servicios Generales de Agricultura, Ganadería y Medio Ambiente</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/711"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7121">
@@ -1834,6 +2036,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Desarrollo Agroalimentario y Fomento Asociativo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/712"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7122">
@@ -1842,6 +2045,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Coordinación y Gestión de Servicios Agroambientales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/712"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7123">
@@ -1850,6 +2054,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Producción Agraria y Gestión de Ayudas</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/712"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7128">
@@ -1858,6 +2063,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Política Agraria Comunitaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/712"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7161">
@@ -1866,6 +2072,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Calidad y Seguridad Alimentaria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/716"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7221">
@@ -1874,6 +2081,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Actuaciones Administrativas sobre Industria</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/722"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7231">
@@ -1882,6 +2090,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fomento Industrial</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/723"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7311">
@@ -1890,6 +2099,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Fomento y Gestión Energética</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/731"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7312">
@@ -1898,6 +2108,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Apoyo a la Minería</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/731"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/7511">
@@ -1906,6 +2117,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Ordenación, Promoción y Fomento del Turismo</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/751"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/9111">
@@ -1914,6 +2126,7 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Transferencias a Administraciones Comarcales</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/911"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/9112">
@@ -1922,9 +2135,10 @@
 	<altLabel xmlns="http://www.w3.org/2004/02/skos/core#" xml:lang="es">Cohesión Comarcal</altLabel>
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<broader xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/911"/>
+	<inScheme xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013"/>
 </rdf:Description>
 
-<rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estractura_funcional_aragon_2013">
+<rdf:Description rdf:about="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
 	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/0"/>
 	<hasTopConcept xmlns="http://www.w3.org/2004/02/skos/core#" rdf:resource="http://data.openbudgets.eu/resource/codelist/estructura_funcional_aragon_2013/1"/>
