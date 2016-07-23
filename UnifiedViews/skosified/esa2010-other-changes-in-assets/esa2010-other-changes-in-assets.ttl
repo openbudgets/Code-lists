@@ -1,81 +1,96 @@
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.1–5> <http://www.w3.org/2004/02/skos/core#notation> "K.1–5" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Total changes in volume"@en ;
-	a <http://www.w3.org/2004/02/skos/core#Concept> .
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.1> <http://www.w3.org/2004/02/skos/core#notation> "K.1" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Economic appearance of assets"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.2> <http://www.w3.org/2004/02/skos/core#notation> "K.2" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Economic disappearance of non-produced assets"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.21> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.22> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.21> <http://www.w3.org/2004/02/skos/core#notation> "K.21" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Depletion of natural resources"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.2> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.2> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.22> <http://www.w3.org/2004/02/skos/core#notation> "K.22" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other economic disappearance of non-produced assets"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.2> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.2> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.3> <http://www.w3.org/2004/02/skos/core#notation> "K.3" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophic losses"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.4> <http://www.w3.org/2004/02/skos/core#notation> "K.4" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Uncompensated seizures"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.5> <http://www.w3.org/2004/02/skos/core#notation> "K.5" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other changes in volume n.e.c."@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.6> <http://www.w3.org/2004/02/skos/core#notation> "K.6" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in classification"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.61> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.62> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.61> <http://www.w3.org/2004/02/skos/core#notation> "K.61" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in sector classification and structure"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.62> <http://www.w3.org/2004/02/skos/core#notation> "K.62" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Changes in classification of assets and liabilities"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.7> <http://www.w3.org/2004/02/skos/core#notation> "K.7" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Nominal holding gains and losses"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.71> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.72> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.71> <http://www.w3.org/2004/02/skos/core#notation> "K.71" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Neutral holding gains and losses"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.7> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.7> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.72> <http://www.w3.org/2004/02/skos/core#notation> "K.72" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Real holding gains and losses"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.7> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.7> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.1> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.2> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.3> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.4> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.5> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.6> , <http://data.openbudgets.eu/resource/codelist/esa2010-other-changes-in-assets/K.7> ;
 	rdfs:label "Other Changes in Assets"@en .

@@ -1,211 +1,250 @@
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.1> <http://www.w3.org/2004/02/skos/core#notation> "F.1" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Monetary gold and SDRs"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.11> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.12> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.11> <http://www.w3.org/2004/02/skos/core#notation> "F.11" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Monetary gold"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.1> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.1> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.12> <http://www.w3.org/2004/02/skos/core#notation> "F.12" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "SDRs"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.1> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.1> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> <http://www.w3.org/2004/02/skos/core#notation> "F.2" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Currency and deposits"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.21> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.22> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.29> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.21> <http://www.w3.org/2004/02/skos/core#notation> "F.21" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Currency"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.22> <http://www.w3.org/2004/02/skos/core#notation> "F.22" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Transferable deposits"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.221> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.229> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.221> <http://www.w3.org/2004/02/skos/core#notation> "F.221" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Inter-bank positions"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.22> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.22> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.229> <http://www.w3.org/2004/02/skos/core#notation> "F.229" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other transferable deposits"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.22> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.22> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.29> <http://www.w3.org/2004/02/skos/core#notation> "F.29" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other deposits"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.3> <http://www.w3.org/2004/02/skos/core#notation> "F.3" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Debt securities"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.31> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.32> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.31> <http://www.w3.org/2004/02/skos/core#notation> "F.31" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Short-term debt securities"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.3> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.3> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.32> <http://www.w3.org/2004/02/skos/core#notation> "F.32" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Long-term debt securities"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.3> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.3> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.4> <http://www.w3.org/2004/02/skos/core#notation> "F.4" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Loans"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.41> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.42> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.41> <http://www.w3.org/2004/02/skos/core#notation> "F.41" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Short-term loans"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.4> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.4> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.42> <http://www.w3.org/2004/02/skos/core#notation> "F.42" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Long-term loans"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.4> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.4> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.5> <http://www.w3.org/2004/02/skos/core#notation> "F.5" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Equity and investment fund shares/units"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.52> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> <http://www.w3.org/2004/02/skos/core#notation> "F.51" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Equity"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.511> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.512> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.519> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.5> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.5> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.511> <http://www.w3.org/2004/02/skos/core#notation> "F.511" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Listed shares"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.512> <http://www.w3.org/2004/02/skos/core#notation> "F.512" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Unlisted shares"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.519> <http://www.w3.org/2004/02/skos/core#notation> "F.519" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other equity"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.51> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.52> <http://www.w3.org/2004/02/skos/core#notation> "F.52" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Investment fund shares/units"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.521> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.522> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.5> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.5> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.521> <http://www.w3.org/2004/02/skos/core#notation> "F.521" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Money Market Fund shares/units"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.52> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.52> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.522> <http://www.w3.org/2004/02/skos/core#notation> "F.522" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-MMF investment fund shares/units"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.52> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.52> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> <http://www.w3.org/2004/02/skos/core#notation> "F.6" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Insurance, pension and standardised guarantee schemes"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.61> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.62> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.63> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.64> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.65> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.66> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.61> <http://www.w3.org/2004/02/skos/core#notation> "F.61" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Non-life insurance technical reserves"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.62> <http://www.w3.org/2004/02/skos/core#notation> "F.62" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Life insurance and annuity entitlements"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.63> <http://www.w3.org/2004/02/skos/core#notation> "F.63" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Pension entitlements"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.64> <http://www.w3.org/2004/02/skos/core#notation> "F.64" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Claims of pension funds on pension managers"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.65> <http://www.w3.org/2004/02/skos/core#notation> "F.65" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Entitlements to non-pension benefits"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.66> <http://www.w3.org/2004/02/skos/core#notation> "F.66" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Provisions for calls under standardised guarantees"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.7> <http://www.w3.org/2004/02/skos/core#notation> "F.7" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial derivatives and employee stock options"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.71> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.72> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.71> <http://www.w3.org/2004/02/skos/core#notation> "F.71" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Financial derivatives"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.711> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.712> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.7> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.7> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.711> <http://www.w3.org/2004/02/skos/core#notation> "F.711" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Options"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.71> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.71> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.712> <http://www.w3.org/2004/02/skos/core#notation> "F.712" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Forwards"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.71> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.71> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.72> <http://www.w3.org/2004/02/skos/core#notation> "F.72" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Employee stock options"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.7> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.7> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> <http://www.w3.org/2004/02/skos/core#notation> "F.8" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other accounts receivable/payable"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.81> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.89> ;
-	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
+	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.81> <http://www.w3.org/2004/02/skos/core#notation> "F.81" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Trade credits and advances"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.89> <http://www.w3.org/2004/02/skos/core#notation> "F.89" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Other accounts receivable/payable, excluding trade credits and advances"@en ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
-	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> .
+	<http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> .
 
 <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	<http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.1> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.2> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.3> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.4> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.5> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.6> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.7> , <http://data.openbudgets.eu/resource/codelist/esa2010-assets-and-liabilities/F.8> ;
 	rdfs:label "Transactions in financial assets and liabilities "@en .
