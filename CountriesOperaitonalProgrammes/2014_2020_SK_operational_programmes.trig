@@ -1,0 +1,474 @@
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Iniciatíva na podporu zamestnanosti mladých ľudí"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrácia marginalizovaných rómskych komunít"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Sociálne začlenenie"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-7> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-7>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001-7" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technická pomoc"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-6> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technická vybavenosť v obciach s prítomnosťou marginalizovaných rómskych komunít"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Vzdelávanie"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Zamestnanosť"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05SFOP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Posilnené inštitucionálne kapacity a efektívna VS"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05SFOP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technická pomoc"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05SFOP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Zefektívnený súdny systém a zvýšená vymáhateľnosť práva"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-6> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Cestná infraštruktúra (mimo TEN-T CORE)"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Cestná infraštruktúra (TEN-T CORE)"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-7> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-7>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-7" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Informačná spoločnosť"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Infraštruktúra vodnej dopravy (TEN-T CORE)"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-8> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-8>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-8" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technická pomoc"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Verejná osobná doprava"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Železničná infraštruktúra (mimo TEN-T CORE)"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Železničná infraštruktúra (TEN-T CORE) a obnova mobilných prostriedkov"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-2> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP002-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Adaptácia na nepriaznivé dôsledky zmeny klímy so zameraním na ochranu pred povodňami"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-4> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP002-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energeticky efektívne nízkouhlíkové hospodárstvo vo všetkých sektoroch"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-3> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP002-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Podpora riadenia rizík, riadenia mimoriadnych udalostí a odolnosti proti mimoriadnym udalostiam ovplyvneným zmenou klímy"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-5> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP002-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technická pomoc"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-1> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP002-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Udržateľné využívanie prírodných zdrojov prostredníctvom rozvoja environmentálnej infraštruktúry"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Podpora výskumu, vývoja a inovácií"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Podpora výskumu, vývoja a inovácií v Bratislavskom kraji"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Posilnenie konkurencieschopnosti a rastu MSP"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP001-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Rozvoj konkurencieschopných MSP v Bratislavskom kraji"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP001-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technická pomoc"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-1> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP002-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Bezpečná a ekologická doprava v regiónoch"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-2> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP002-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Ľahší prístup k efektívnym a kvalitnejším verejným službám"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-5> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP002-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Miestny rozvoj vedený komunitou"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-3> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP002-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Mobilizácia kreatívneho potenciálu v regiónoch"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-6> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP002-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technická pomoc"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-4> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP002-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Zlepšenie kvality života v regiónoch s dôrazom na životné prostredie"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFTA001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Riadenie,  kontrola a audit EŠIF"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFTA001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Systémová a technická  podpora"@sk ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and Innovation"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP001> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05SFOP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme Effective Public Administration"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05SFOP001> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFTA001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technical Assistance"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFTA001> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16RFOP002" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrated Regional Operational Programme"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16RFOP002> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK05M0OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme Human Resources"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK05M0OP001> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrated Infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP001> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SK16M1OP002" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Quality of Environment"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/sk-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/sk-operational-programme/2014SK16M1OP002> ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the operational programme of SK 2014-2020"@en .

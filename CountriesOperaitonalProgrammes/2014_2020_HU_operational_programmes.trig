@@ -1,0 +1,529 @@
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-1-> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-1->
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M2OP001-1." ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Együttműködő társadalom"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-3-> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-3->
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M2OP001-3." ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Gyarapodó tudástőke"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-4-> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-4->
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M2OP001-4." ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Infrastrukturális beruházások a gyarapodó tudástőke érdekében"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-2-> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-2->
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M2OP001-2." ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-5-> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-5->
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M2OP001-5." ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M3OP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "A szolgáltatási szemlélet és az etikus működés megerősítése a közszolgálatban"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M3OP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Az adminisztratív terhek csökkentése"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M3OP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Az ESZA, ERFA, KA finanszírozású operatív programok végrehajtásához kapcsolódó technikai segítségnyújtás"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energia"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Foglalkoztatás"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Infokommunikációs fejlesztések"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Kis és középvállalkozások versenyképességének javítása"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Kutatás, technológiai fejlesztés és innováció"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-8> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-8>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-8" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Pénzügyi eszközök"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-7> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-7>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-7" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Turizmus"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-6> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Versenyképes munkaerő"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "A KLÍMAVÁLTOZÁS HATÁSAIHOZ VALÓ ALKALMAZKODÁS"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP001-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ENERGIAHATÉKONYSÁG NÖVELÉSE, MEGÚJULÓ ENERGIAFORRÁSOK ALKALMAZÁSA"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "HULLADÉKGAZDÁLKODÁSSAL ÉS KÁRMENTESÍTÉSSEL KAPCSOLATOS FEJLESZTÉSEK"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "TELEPÜLÉSI VÍZELLÁTÁS, SZENNYVÍZ-ELVEZETÉS ÉS –TISZTÍTÁS, SZENNYVÍZKEZELÉS FEJLESZTÉSE"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP001-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "TERMÉSZETVÉDELMI ÉS ÉLŐVILÁGVÉDELMI FEJLESZTÉSEK"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-3> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP003-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-1> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP003-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nemzetközi (TEN-T) közúti elérhetőség javítása"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-2> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP003-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-4> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP003-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "TEN-T hálózat közúti elérhetőségének javítása"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "A HELYI KÖZÖSSÉGI SZOLGÁLTATÁSOK FEJLESZTÉSE ÉS A TÁRSADALMI EGYÜTTMŰKÖDÉS ERŐSÍTÉSE"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ALACSONY SZÉNDIOXID KIBOCSÁTÁSÚ GAZDASÁGRA VALÓ ÁTTÉRÉS KIEMELTEN A VÁROSI TERÜLETEKEN PRIORITÁSI TENGELY"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-6> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "FENNTARTHATÓ VÁROSFEJLESZTÉS A MEGYEI JOGÚ VÁROSOKBAN"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-7> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-7>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001-7" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "KÖZÖSSÉGI SZINTEN IRÁNYÍTOTT VÁROSI HELYI FEJLESZTÉSEK (CLLD) PRIORITÁSI TENGELY"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "MEGYEI ÉS HELYI EMBERI ERŐFORRÁS FEJLESZTÉSEK, FOGLALKOZTATÁS-ÖSZTÖNZÉS ÉS TÁRSADALMI EGYÜTTMŰKÖDÉS"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "TÉRSÉGI GAZDASÁGI KÖRNYEZET FEJLESZTÉSE A FOGLALKOZTATÁS ELŐSEGÍTÉSÉRE"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "VÁLLALKOZÁSBARÁT, NÉPESSÉGMEGTARTÓ TELEPÜLÉSFEJLESZTÉS"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-5> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Az energiahatékonyság, az intelligens energiahasználat és a megújuló energiák felhasználásának támogatása"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-8> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-8>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-8" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Foglalkoztathatóságot szolgáló programok"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-3> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Infokommunikációs fejlesztések"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-9> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-9>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-9" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Közigazgatás- és közszolgáltatásfejlesztés"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-2> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Kutatás, fejlesztés és technológiai innováció"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-7> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-7>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-7" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Társadalmi hozzáférést bővítő és humánerőforrás fejlesztést támogató programok"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-6> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Települési környezet- és közszolgáltatás-fejlesztés"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-4> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Turisztikai és természetvédelmi fejlesztések"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-1> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Vállalkozások versenyképességének javítása"@hu ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP003" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrated Transport OP"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP003> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Territorial and settlement development OP"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP001> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M2OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Human Resources Development Operational Programme"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M2OP002" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Competitive Central-Hungary OP"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M2OP002> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU05M3OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Public Administration and Civil Service Development OP"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M3OP001> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M1OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Environmental and Energy Efficiency OP"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M1OP001> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014HU16M0OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Economic Development and Innovation Operational Programme"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/hu-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU16M0OP001> ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the operational programme of HU 2014-2020"@en .

@@ -1,0 +1,367 @@
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-7> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-7> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001-AP 7" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Asistență Tehnică"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-5> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001-AP 5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Dezvoltare locală plasată sub responsabilitatea comunității"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-6> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001-AP 6" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Educație și competențe"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-2> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001-AP 2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Îmbunătăţirea situaţiei tinerilor din categoria NEETs"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-4> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001-AP 4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Incluziunea socială și combaterea sărăciei"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-1> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001-AP 1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Inițiativa „Locuri de munca pentru tineri”"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-3> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001-AP-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001-AP 3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Locuri de muncă pentru toți"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05SFOP001-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Administrație publică și sistem judiciar accesibile și transparente"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05SFOP001-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Administrație publică și sistem judiciar eficiente"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05SFOP001-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Asistență tehnică"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP7> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP7> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP7" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Creşterea eficienţei energetice la nivelul sistemului centralizat de termoficare în oraşele selectate"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP3> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Dezvoltarea infrastructurii de mediu în condiţii de management eficient al resurselor"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP2> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Dezvoltarea unui sistem de transport multimodal, de calitate, durabil şi eficient"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP1> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Îmbunătăţirea mobilităţii prin dezvoltarea reţelei TEN-T și a metroului"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP5> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promovarea adaptării la schimbările climatice, prevenirea şi gestionarea riscurilor"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP6> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP6" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promovarea energiei curate şi eficienţei energetice în vederea susținerii unei economii cu emisii scăzute de carbon"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP4> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Protecţia mediului prin măsuri de conservare a biodiversităţii, monitorizarea calităţii aerului şi decontaminare a siturilor poluate istoric"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP8> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001-AP8> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001-AP8" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sisteme inteligente şi sustenabile de transport al energiei electrice  şi  gazelor naturale"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001-AP1> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001-AP1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP001-AP1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Cercetare, dezvoltare tehnologica si inovare (CDI) in sprijinul competitivitatii economice si dezvoltarii afacerilor"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001-AP2> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001-AP2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP001-AP2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Tehnologia informatiei si comunicatiilor (TIC) pentru o economie digitala competitiva"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP12> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP12> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP12" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Asistență tehnică"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP8> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP8> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP8" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Dezvoltarea infrastructurii de sănătate şi sociale"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP7> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP7> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP7" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Diversificarea economiilor locale prin dezvoltarea durabilă a turismului"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP11> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP11> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP11" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Extinderea geografică a sistemului de înregistrare a proprietăţilor în cadastru şi cartea funciară"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP2> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Îmbunătăţirea competitivităţii întreprinderilor mici şi mijlocii"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP10> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP10> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP10" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Îmbunătățirea infrastructurii educaționale"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP6> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP6" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Îmbunătățirea infrastructurii rutiere de importanță regională"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP5> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Îmbunătățirea mediului urban și conservarea, protecția și valorificarea durabilă a  patrimoniului cultural"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP1> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promovarea transferului tehnologic"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP4> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprijinirea dezvoltării urbane durabile"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP9> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP9> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP9" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprijinirea regenerării economice și sociale a comunităților defavorizate  din mediul urban"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP3> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002-AP3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002-AP3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprijinirea tranziției catre o economie cu emisii scăzute de carbon"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001-AP-3> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001-AP-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFTA001-AP 3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Creșterea eficienței și eficacității resurselor umane implicate în sistemul de coordonare, gestionare şi control al FESI în România"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001-AP-1> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001-AP-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFTA001-AP 1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Întărirea capacității beneficiarilor de a pregăti și implementa proiecte finanțate din FESI și diseminarea informațiilor privind aceste fonduri"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001-AP-2> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001-AP-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFTA001-AP 2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprijin pentru coordonarea, gestionarea și controlul FESI"@ro ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP002" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional Operational Programme"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP002> .
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05M9OP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme Human Capital"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05M9OP001> .
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFTA001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Technical Assistance Operational Programme"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFTA001> .
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16RFOP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Competitiveness Operational Programme"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16RFOP001> .
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO16M1OP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Large Infrastructure Operational Programme"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO16M1OP001> .
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014RO05SFOP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme Administrative Capacity"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/ro-operational-programme/2014RO05SFOP001> .
+ 
+<http://data.openbudgets.eu/resource/codelist/ro-operational-programme> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	 <http://www.w3.org/2000/01/rdf-schema#label> "Code list of the operational programme of RO 2014-2020"@en .

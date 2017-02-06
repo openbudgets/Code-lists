@@ -1,0 +1,2003 @@
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP001-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP001-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP001-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP001-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP002-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse A: Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP002-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse B: Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP002-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse C: Investitionen in Bildung, Ausbildung, und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP002-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse D: Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP003-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse A: Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP003-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse B: Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP003-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse C: Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP003-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse D: Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP004-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP004-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP004-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP004-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP005-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung der Armut und jeglicher Art von Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP005-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäfti-gung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP005-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP005-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP006-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP006-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP006-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-E> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-E>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP006-E" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Soziale Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP006-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP007-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP007-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP007-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-TH> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007-TH>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP007-TH" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP008-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP008-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008-TH> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008-TH>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP008-TH" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP009-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP009-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP009-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP009-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP010-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP010-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Eingliederung und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP010-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP010-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP011-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP011-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP011-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP011-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP012-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP012-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP012-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP012-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP013-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP013-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP013-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investition in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP013-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP014-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP014-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP014-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP014-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse D - Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP015-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP015-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP015-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP015-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP016-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der sozialen Inklusion und Bekämpfung von Armut und jeglicher Diskriminierung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP016-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung nachhaltiger und hochwertiger Beschäftigung und Unterstützung der Mobilität der Arbeitskräfte"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP016-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung für Kompetenzen und lebenslanges Lernen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP016-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-8> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-8>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-8" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Armutsbekämpfung durch aktive Eingliederung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-6> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Beschäftigung durch Gleichstellung und regionale Ansätze zur Fachkräftesicherung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-7> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-7>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-7" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung von Beschäftigungs- und regionalen Sozialdienstleistungsinnovationen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-9> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-9>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-9" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investitionen in Bildung, Ausbildung und Berufsbildung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nachhaltige und umweltgerechte Entwicklung von Flächen und Landschaften"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Reduzierung der CO2-Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe - EFRE"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-10> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001-10>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001-10" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe - ESF"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP001-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Forschung, technologische Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP001-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP001-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Verringerung der CO2-Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP002-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Hochwasserschutz"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP002-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Klimaschutz"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP002-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nachhaltige Entwicklung funktionaler Räume"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP002-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP002-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von Forschung, technologischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-6> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP002-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP003-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Innovationen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP003-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nachhaltige Stadtentwicklung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP003-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Produktivität der Wirtschaft"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP003-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Reduzierung von CO2-Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP003-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP004-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Bestrebungen zur Verringerung der CO2-Emissionen in allen Branchen der Wirtschaft"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP004-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrierte Entwicklung von städtischen und ländlichen Räumen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP004-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung der Wettbewerbsfähigkeit kleiner und mittlerer Unternehmen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP004-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von angewandter Forschung, Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP004-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP005-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Diversifizierung und Modernisierung der Wirtschaftsstruktur"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP005-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung CO2-effizienter Wirtschafts- und Stadtstrukturen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-TH> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-TH>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP005-TH" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse für technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP005-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stabilisierung benachteiligter Stadtteile durch integrierte Entwicklungsansätze"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP005-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung eines spezialisierten, unternehmensorientierten Innovationssystems"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP006-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Reduzierung von CO2-Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP006-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von Forschung, Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP006-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP007-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Bestrebungen zur Verringerung der CO2-Emissionen in allen Branchen der Wirtschaft"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP007-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nachhaltige Stadtentwicklung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP007-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von Forschung, technischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP007-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Steigerung der Wettbewerbsfähigkeit von kleinen und mittleren Unternehmen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-TH> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007-TH>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP007-TH" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP008-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der integrierten nachhaltigen Stadtentwicklung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP008-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Verringerung von CO2-Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP008-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP008-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung von Forschung, Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP008-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP009-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse 1: Stärkung von Forschung, technologischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP009-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse 2: Steigerung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP009-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse 3: Förderung der Bestrebungen zur Verringerung der CO2 -Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP009-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prioritätsachse 4: Nachhaltige Stadt- und Quartiersentwicklung / Prävention"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP009-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP010-PA 3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Bestrebungen zur Verringerung der CO2-Emissionen in allen Branchen der Wirtschaft"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP010-PA 2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP010-PA 1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von Forschung, technologischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010-PA-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP010-PA 4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP011-PA C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Bestrebungen zur Verringerung der CO2-Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-E> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-E>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP011-PA E" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung des Natur- und Kulturerbes"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP011-PA D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrierte nachhaltige Stadtentwicklung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP011-PA B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Steigerung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-TH> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-TH>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP011-PA TH" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011-PA-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP011-PA A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Unterstützung von Forschung, technologischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-C> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-C>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP012-C" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Verringerung der CO2-Emissionen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-E> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-E>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP012-E" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nachhaltige Stadtentwicklung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-D> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-D>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP012-D" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Risikoprävention"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-B> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-B>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP012-B" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-A> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-A>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP012-A" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von Forschung, technologischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-F> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012-F>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP012-F" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Erhalt und Schutz der Umwelt sowie Förderung der Ressourceneffizienz"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Anpassung an den Klimawandel sowie der Risikoprävention und des Risikomanagements"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Bestrebungen zur Verringerung der CO2-Emissionen in allen Branchen der Wirtschaft"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung der Wettbewerbsfähigkeit von KMU"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von Forschung, technologischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-7> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-7>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013-7" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-6> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Territoriale Dimension zur Entwicklung endogener Potentiale"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP014-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energiewende - Aufbau umweltgerechter Wirtschafts- und Infrastrukturen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP014-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Entwicklung einer wettbewerbsfähigen und nachhaltigen Wirtschaftsstruktur"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP014-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nachhaltige Nutzung bestehender Ressourcen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP014-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung der regionalen Innovationspotenziale"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP014-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-4> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-4>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP015-4" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Bezeichnung der Prioritätsachse   Risikomanagement und –prävention, Umweltschutz und Förderung der nachhaltigen Nutzung der Ressourcen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-3> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-3>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP015-3" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Förderung der Bestrebung zur Verringerung der CO2- Emissionen in allen Bereichen der Wirtschaft"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-5> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-5>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP015-5" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Nachhaltige Stadtentwicklung"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-2> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP015-2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung der Wettbewerbsfähigkeit der Unternehmen"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-1> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-1>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP015-1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Stärkung von Forschung, technologischer Entwicklung und Innovation"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-6> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015-6>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP015-6" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technische Hilfe"@de ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP013" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Sachsen-Anhalt ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP013> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP007" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Hamburg 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP007> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP005" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Bremen  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP005> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP004" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Bayern 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP004> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP016" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Bremen 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP016> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP010" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Nordrhein-Westfalen 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP010> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP009" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Mecklenburg-Vorpommern 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP009> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP014" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Thüringen 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP014> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP002" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Bayern ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP002> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP007" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Hessen  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP007> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP004" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Brandenburg  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP004> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP008" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Hessen 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP008> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP006" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Brandenburg 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP006> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP005" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Berlin 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP005> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Schleswig-Holstein ESF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP001> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP015" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Thüringen ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP015> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP013" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Sachsen-Anhalt 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP013> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP003" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Berlin  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP003> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP010" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Rheinland-Pfalz  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP010> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16M2OP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Niedersachsen ERDF/ESF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16M2OP001> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP009" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Nordrhein-Westfalen  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP009> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP015" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Rheinland-Pfalz 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP015> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP012" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Sachsen 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP012> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP006" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Hamburg  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP006> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Baden-Württemberg ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP001> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP012" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Sachsen ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP012> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP002" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Federal Germany 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP002> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP008" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Mecklenburg-Vorpommern  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP008> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP003" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Baden-Württemberg 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP003> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP011" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Saarland  ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP011> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE05SFOP011" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF Saarland 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE05SFOP011> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014DE16RFOP014" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "OP Schleswig-Holstein ERDF 2014-2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/de-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/de-operational-programme/2014DE16RFOP014> ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the operational programme of DE 2014-2020"@en .

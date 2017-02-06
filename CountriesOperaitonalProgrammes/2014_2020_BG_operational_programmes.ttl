@@ -1,0 +1,402 @@
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M2OP001-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "НАУЧНИ ИЗСЛЕДВАНИЯ И ТЕХНОЛОГИЧНО РАЗВИТИЕ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M2OP001-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ОБРАЗОВАНИЕ И УЧЕНЕ ПРЕЗ ЦЕЛИЯ ЖИВОТ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M2OP001-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ОБРАЗОВАТЕЛНА СРЕДА ЗА АКТИВНО СОЦИАЛНО ПРИОБЩАВАНЕ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M2OP001-4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ТЕХНИЧЕСКА ПОМОЩ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО3> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M9OP001-ПО3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "МОДЕРНИЗАЦИЯ НА ИНСТИТУЦИИТЕ В СФЕРАТА НА СОЦИАЛНОТО ВКЛЮЧВАНЕ, ЗДРАВЕОПАЗВАНЕТО, РАВНИТЕ ВЪЗМОЖНОСТИ И НЕДИСКРИМИНАЦИЯТА И УСЛОВИЯТА НА ТРУД"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО2> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M9OP001-ПО2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "НАМАЛЯВАНЕ НА БЕДНОСТТА И НАСЪРЧАВАНЕ НА СОЦИАЛНОТО ВКЛЮЧВАНЕ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО1> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M9OP001-ПО1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ПОДОБРЯВАНЕ ДОСТЪПА ДО ЗАЕТОСТ И КАЧЕСТВОТО НА РАБОТНИТЕ МЕСТА"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО5> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M9OP001-ПО5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ТЕХНИЧЕСКА ПОМОЩ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО4> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001-ПО4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M9OP001-ПО4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ТРАНСНАЦИОНАЛНО СЪТРУДНИЧЕСТВО"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05SFOP001-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "АДМИНИСТРАТИВНО ОБСЛУЖВАНЕ И Е-УПРАВЛЕНИЕ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05SFOP001-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ЕФЕКТИВНО И ПРОФЕСИОНАЛНО УПРАВЛЕНИЕ В ПАРТНЬОРСТВО С ГРАЖДАНСКОТО ОБЩЕСТВО И БИЗНЕСА"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05SFOP001-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ПРОЗРАЧНА И ЕФЕКТИВНА СЪДЕБНА СИСТЕМА"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05SFOP001-5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ТЕХНИЧЕСКА ПОМОЩ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05SFOP001-4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "ТЕХНИЧЕСКА ПОМОЩ ЗА УПРАВЛЕНИЕТО НА ЕСИФ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP001-4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "„Иновации в управлението и услугите - внедряване на модернизирана инфраструктура за управление на трафика, подобряване на безопасността и сигурността на транспорта”"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP001-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "„Подобряване на интермодалността при превоза на пътници и товари и развитие на устойчив градски транспорт”"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP001-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "„Развитие на железопътната инфраструктура по „основната”  Трансевропейска транспортна мрежа”"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP001-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "„Развитие на пътната инфраструктура по „основната” и разширената Трансевропейска транспортна мрежа”"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP001-5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "„Техническа помощ”"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-1> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP002-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Води"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-3> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP002-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Натура 2000 и биоразнообразие"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-2> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP002-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Отпадъци"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-5> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP002-5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Подобряване качеството на атмосферния въздух"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-4> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP002-4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Превенция и управление на риска от наводнения и свлачища"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-6> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002-6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP002-6" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Техническа помощ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Подкрепа за енергийна ефективност в опорни центрове в периферните райони"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-6> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-6" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Регионален туризъм"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Регионална здравна инфраструктура"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Регионална образователна инфраструктура"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-7> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-7> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-7" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Регионална пътна инфраструктура"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Регионална социална инфраструктура"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-8> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-8> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-8" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Техническа помощ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Устойчиво и интегрирано градско развитие"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-3> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP002-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Енергийна и ресурсна ефективност"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-2> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP002-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Предприемачество и капацитет за растеж на МСП"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-4> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP002-4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Премахване на пречките в областта на сигурността на доставките на газ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-5> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP002-5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Техническа помощ"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-1> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP002-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Технологично развитие и иновации"@bg ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational programme “Regions in Growth”"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP001> .
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05SFOP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme Good Governance"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05SFOP001> .
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M2OP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme Science and Education for Smart Growth"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M2OP001> .
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP002" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational programme “Environment”"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP002> .
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16RFOP002" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational programme “Innovations and Competitiveness”"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16RFOP002> .
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG05M9OP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme Human Resources Development"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG05M9OP001> .
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014BG16M1OP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational programme “Transport and transport infrastructure”"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/bg-operational-programme/2014BG16M1OP001> .
+ 
+<http://data.openbudgets.eu/resource/codelist/bg-operational-programme> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	 <http://www.w3.org/2000/01/rdf-schema#label> "Code list of the operational programme of BG 2014-2020"@en .

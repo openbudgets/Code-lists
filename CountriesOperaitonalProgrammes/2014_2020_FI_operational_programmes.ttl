@@ -1,0 +1,110 @@
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI05M2OP001-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Delaktighet och kompetens"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI05M2OP001-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Entreprenörskap och innovation"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI05M2OP001-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Tekniskt stöd"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-4> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001-4" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Koulutus, ammattitaito ja elinikäinen oppiminen (ESR)"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-1> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001-1" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Pk-yritystoiminnan kilpailukyky (EAKR)"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-5> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001-5" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sosiaalinen osallisuus ja köyhyyden torjunta (ESR)"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-6> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001-6" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Tekninen tuki EAKR"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-7> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-7> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001-7" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Tekninen tuki ESR"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-3> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001-3" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Työllisyys ja työvoiman liikkuvuus (ESR)"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-2> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001-2" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Uusimman tiedon ja osaamisen tuottaminen ja hyödyntäminen (EAKR)"@fi ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI05M2OP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Entrepreneurship and skills, Åland Structural Fund Programme 2014-2020"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI05M2OP001> .
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+	 <http://www.w3.org/2004/02/skos/core#notation> "2014FI16M2OP001" ;
+	 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sustainable growth and jobs 2014-2020 - Structural Funds Programme of Finland"@en ;
+	 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> ;
+	 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/fi-operational-programme/2014FI16M2OP001> .
+ 
+<http://data.openbudgets.eu/resource/codelist/fi-operational-programme> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	 <http://www.w3.org/2000/01/rdf-schema#label> "Code list of the operational programme of FI 2014-2020"@en .

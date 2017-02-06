@@ -1,0 +1,166 @@
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-06> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-06>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-06" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Boljše stanje okolja in biotske raznovrstnosti"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-03> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-03>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-03" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Dinamično in konkurenčno podjetništvo za zeleno gospodarsko rast"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-07> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-07>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-07" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Izgradnja infrastrukture in ukrepi za spodbujanje trajnostne mobilnosti"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-01> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-01>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-01" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Mednarodna konkurenčnost raziskav, inovacij in tehnološkega razvoja v skladu s pametno specializacijo za večjo konkurenčnosti in ozelenitev gospodarstva"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-02> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-02>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-02" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Povečanje dostopnosti do informacijsko komunikacijskih tehnologij ter njihove uporabe in kakovosti"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-11> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-11>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-11" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Pravna država, izboljšanje institucionalnih zmogljivosti, učinkovita javna uprava,podpora razvoju NVO ter krepitev zmogljivosti  socialnih partnerjev"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-05> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-05>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-05" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Prilagajanje na podnebne spremembe"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-09> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-09>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-09" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Socialna vključenost in zmanjševanje tveganja revščine"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-08> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-08>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-08" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Spodbujanje zaposlovanja in transnacionalna mobilnost delovne sile"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-13> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-13>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-13" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Tehnična pomoč - ESRR"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-14> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-14>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-14" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Tehnična pomoč - ESS"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-12> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-12>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-12" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Tehnična pomoč - KS"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-04> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-04>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-04" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Trajnostna raba in proizvodnja energije in pametna omrežja"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-10> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001-10>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001-10" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Znanje, spretnosti in vseživljenjsko učenje za boljšo zaposljivost"@sl ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2014SI16MAOP001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme for the Implementation of the EU Cohesion Policy in the period 2014 – 2020"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme> .
+
+<http://data.openbudgets.eu/resource/codelist/si-operational-programme>
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/si-operational-programme/2014SI16MAOP001> ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the operational programme of SI 2014-2020"@en .
