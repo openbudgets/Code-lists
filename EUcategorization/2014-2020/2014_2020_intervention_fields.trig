@@ -1,0 +1,1154 @@
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/123>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "123" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Information and communication"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/122>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "122" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Evaluation and studies"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/121>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "121" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Preparation, implementation, monitoring and inspection"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/9360dbce-5958-4503-a22a-0e769cbb36ed>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "VIII Technical assistance"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "9360dbce-5958-4503-a22a-0e769cbb36ed" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/121> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/122> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/123> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/120>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "120" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Capacity building for all stakeholders delivering education, lifelong learning, training and employment and social policies, including through sectoral and territorial pacts to mobilise for reform at the national, regional and local levels"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/119>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "119" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investment in institutional capacity and in the efficiency of public administrations and public services at the national, regional and local levels with a view to reforms, better regulation and good governance"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/958f3b80-5e7e-4e0e-9a3a-2e72e917f74a>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "VII ENHANCING INSTITUTIONAL CAPACITY OF PUBLIC AUTHORITIES AND STAKEHOLDERS AND EFFICIENT PUBLIC ADMINISTRATION"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "958f3b80-5e7e-4e0e-9a3a-2e72e917f74a" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/119> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/120> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/118>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "118" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Improving the labour market relevance of education and training systems, facilitating the transition from education to work, and strengthening vocational education and training systems and their quality, including through mechanisms for skills anticipation, adaptation of curricula and the establishment and development of work-based learning systems, including dual learning systems and apprenticeship schemes"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/117>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "117" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Enhancing equal access to lifelong learning for all age groups in formal, non-formal and informal settings, upgrading the knowledge, skills and competences of the workforce, and promoting flexible learning pathways including through career guidance and validation of acquired competences"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/116>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "116" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Improving the quality and efficiency of, and access to, tertiary and equivalent education with a view to increasing participation and attainment levels, especially for disadvantaged groups"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/115>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "115" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Reducing and preventing early school-leaving and promoting equal access to good quality early-childhood, primary and secondary education including formal, non-formal and informal learning pathways for reintegrating into education and training"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/f9a2856f-14f3-427f-bd68-04d511f2d64e>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "VI INVESTING IN EDUCATION, TRAINING AND VOCATIONAL TRAINING FOR SKILLS AND LIFELONG LEARNING"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "f9a2856f-14f3-427f-bd68-04d511f2d64e" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/115> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/116> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/117> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/118> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/114>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "114" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Community-led local development strategies"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/113>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "113" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promoting social entrepreneurship and vocational integration in social enterprises and the social and solidarity economy in order to facilitate access to employment"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/112>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "112" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Enhancing access to affordable, sustainable and high-quality services, including health care and social services of general interest"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/111>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "111" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Combating all forms of discrimination and promoting equal opportunities"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/110>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "110" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Socio-economic integration of marginalised communities such as the Roma"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/109>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "109" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Active inclusion, including with a view to promoting equal opportunities and active participation, and improving employability"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/38c6fa25-0b47-4bb6-b507-7b6d553d3f63>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "V PROMOTING SOCIAL INCLUSION, COMBATING POVERTY AND ANY DISCRIMINATION"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "38c6fa25-0b47-4bb6-b507-7b6d553d3f63" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/109> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/110> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/111> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/112> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/113> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/114> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/108>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "108" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Modernisation of labour market institutions,  such as public and private employment services, and improving the matching of labour market needs, including throughactions that enhance transnational labour mobility as well as through mobility schemes and better cooperation between institutions and relevant stakeholders"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/107>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "107" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Active and healthy ageing"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/106>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "106" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Adaptation of workers, enterprises and entrepreneurs to change"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/105>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "105" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Equality between men and women in all areas, including in access to employment, career progression,  reconciliation of work and private life and  promotion of equal pay for equal work"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/104>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "104" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Self-employment, entrepreneurship and business creation including innovative micro, small and medium sized enterprises"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/103>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "103" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Sustainable integration into the labour market of young people, in particular those not in employment, education or training, including young people at risk of social exclusion and young people from marginalised communities, including through the implementation of the Youth Guarantee"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/102>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "102" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Access to employment for job-seekers and inactive people, including the long-term unemployed and people far from the labour market, also through local employment initiatives and support for labour mobility"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/9a9e3255-c605-4330-aba7-22a043d5016f>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "IV PROMOTING SUSTAINABLE AND QUALITY EMPLOYMENT AND SUPPORTING LABOUR MOBILITY"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "9a9e3255-c605-4330-aba7-22a043d5016f" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/102> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/103> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/104> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/105> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/106> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/107> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/108> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/101>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "101" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Cross-financing under the ERDF (support to ESF-type actions necessary for the satisfactory implementation of the ERDF part of the operation and directly linked to it)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/100>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "100" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Outermost regions: support to compensate additional costs due to climate conditions and relief difficulties"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/099>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "099" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Outermost regions: specific action to compensate additional costs due to size market factors"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/098>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "098" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Outermost regions: compensation of any additional costs due to accessibility deficit and territorial fragmentation"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/097>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "097" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Community-led local development initiatives in urban and rural areas"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/096>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "096" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Institutional capacity of public administrations and public services related to implementation of the ERDF or actions supporting ESF institutional capacity initiatives"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/af32461b-0458-488a-9ef4-ad96c50a9616>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "af32461b-0458-488a-9ef4-ad96c50a9616" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/096> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/097> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/098> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/099> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/100> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/101> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/095>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "095" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of public cultural and heritage services"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/094>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "094" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Protection, development and promotion of public cultural and heritage assets"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/093>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "093" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of public tourism services"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/092>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "092" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Protection, development and promotion of public tourism assets"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/091>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "091" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of the tourism potential of natural areas"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/090>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "090" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Cycle tracks and footpaths"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/089>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "089" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Rehabilitation of industrial sites and contaminated land"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/088>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "088" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Risk prevention and management of non-climate related natural risks (i.e. earthquakes) and risks linked to human activities (e.g. technological accidents), including awareness raising, civil protection and disaster management systems and infrastructures"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/087>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "087" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Adaptation to climate change measures and prevention and management of climate related risks e.g. erosion, fires, flooding, storms and drought, including awareness raising, civil protection and disaster management systems and infrastructures"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/086>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "086" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Protection, restoration and sustainable use of Natura 2000 sites"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/085>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "085" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Protection and enhancement of biodiversity, nature protection and green infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/084>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "084" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrated pollution prevention and control (IPPC)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/083>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "083" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Air quality measures"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/2962974d-8574-4a2b-a32d-4cb6071dca99>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Environment"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2962974d-8574-4a2b-a32d-4cb6071dca99" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/083> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/084> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/085> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/086> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/087> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/088> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/089> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/090> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/091> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/092> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/093> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/094> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/095> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/082>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "082" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ICT Services and applications for SMEs (including e-Commerce, e-Business and networked business processes), living labs, web entrepreneurs and ICT start-ups)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/081>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "081" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ICT solutions addressing the healthy active ageing challenge and e-Health services and applications (including e-Care and ambient assisted living)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/080>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "080" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "e-Inclusion, e-Accessibility, e-Learning and e-Education services and applications, digital literacy"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/079>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "079" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Access to public sector information (including  open data e-Culture, digital libraries, e-Content and e-Tourism)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/078>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "078" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "e-Government services and applications (including e-Procurement, ICT measures supporting the reform of public administration, cyber-security, trust and privacy measures, e-Justice and e-Democracy)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/f42babb6-5023-479b-80dc-0f0bb5b9ded8>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Information and communication technology (ICT) — demand stimulation, applications and services"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "f42babb6-5023-479b-80dc-0f0bb5b9ded8" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/078> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/079> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/080> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/081> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/082> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/077>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "077" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of cultural and creative services in or for SMEs"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/076>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "076" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of cultural and creative assets in SMEs"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/075>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "075" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of tourism services in or for SMEs"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/074>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "074" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of tourism assets in SMEs"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/073>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "073" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Support to social enterprises (SMEs)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/072>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "072" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Business infrastructure for SMEs (including industrial parks and sites)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/071>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "071" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development and promotion of enterprises specialised in providing services contributing to the low carbon economy and to resilience to climate change (including support to such services)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/070>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "070" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promotion of energy efficiency in large enterprises"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/069>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "069" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Support to environmentally-friendly production processes and resource efficiency in SMEs"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/068>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "068" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energy efficiency and demonstration projects in SMEs and supporting measures"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/067>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "067" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "SME business development, support to entrepreneurship and incubation (including support to spin offs and spin outs)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/066>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "066" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Advanced support services for SMEs and groups of SMEs (including management, marketing and design services)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/2b5c1cc3-7473-41cd-90a2-84290e014cb2>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Business development"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2b5c1cc3-7473-41cd-90a2-84290e014cb2" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/066> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/067> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/068> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/069> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/070> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/071> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/072> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/073> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/074> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/075> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/076> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/077> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/065>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "065" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation processes, technology transfer and cooperation in enterprises focusing on the low carbon economy and to resilience to climate change"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/064>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "064" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation processes in SMEs (including voucher schemes, process, design, service and social innovation)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "064" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation processes in SMEs (including voucher schemes, process, design, service and social innovation)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/063>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "063" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Cluster support and business networks primarily benefiting SMEs"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/062>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "062" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technology transfer and university-enterprise cooperation primarily benefiting SMEs"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/061>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "061" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation activities in private research centres including networking"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/060>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "060" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation activities in public research centres and centres of competence including networking"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/059>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "059" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation infrastructure (private, including science parks)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/058>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "058" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation infrastructure (public)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/057>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "057" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investment in infrastructure, capacities and equipment in large companies directly linked to research and innovation activities"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/056>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "056" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investment in infrastructure, capacities and equipment in SMEs directly linked to research and innovation activities"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/4a1d4cdb-7725-49d4-b2da-a8e9f90c449f>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and development and innovation"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "4a1d4cdb-7725-49d4-b2da-a8e9f90c449f" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/056> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/057> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/058> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/059> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/060> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/061> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/062> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/063> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/064> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/064> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/065> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/07f68889-b85d-4e77-8b02-6bd232f79bf6>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "IV Development of endogenous potential"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "07f68889-b85d-4e77-8b02-6bd232f79bf6" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/4a1d4cdb-7725-49d4-b2da-a8e9f90c449f> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/2b5c1cc3-7473-41cd-90a2-84290e014cb2> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/f42babb6-5023-479b-80dc-0f0bb5b9ded8> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/2962974d-8574-4a2b-a32d-4cb6071dca99> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/af32461b-0458-488a-9ef4-ad96c50a9616> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/055>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "055" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other social infrastructure contributing to regional and local development"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/054>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "054" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Housing infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/053>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "053" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Health infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/052>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "052" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Infrastructure for early childhood education and care"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/051>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "051" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Education infrastructure for school education (primary and general secondary education)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/050>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "050" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Education infrastructure for vocational education and training and adult learning"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/049>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "049" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Education infrastructure for tertiary education"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/412e1e87-64db-4fb8-81db-b239f40a5bff>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "III Social, health and education infrastructure and related investment"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "412e1e87-64db-4fb8-81db-b239f40a5bff" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/049> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/050> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/051> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/052> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/053> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/054> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/055> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/048>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "048" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ICT: Other types of ICT infrastructure/large-scale computer resources/equipment (including e-infrastructure, data centres and sensors"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/047>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "047" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ICT: Very high-speed broadband network (access/local loop"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/046>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "046" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ICT: High-speed broadband network (access/local loop"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/045>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "045" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ICT: Backbone/backhaul network"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/4b1b6297-367b-46fb-a0b5-ea4c67bc8886>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Information and communication technology (ICT) infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "4b1b6297-367b-46fb-a0b5-ea4c67bc8886" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/045> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/046> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/047> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/048> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/044>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "044" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Intelligent transport systems (including the introduction of demand management, tolling systems, IT monitoring control and information systems)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/043>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "043" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Clean urban transport infrastructure and promotion (including equipment and rolling stock)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/f6448a87-a1d3-46f6-a938-cf16ce6c8e07>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Sustainable transport"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "f6448a87-a1d3-46f6-a938-cf16ce6c8e07" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/043> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/044> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/042>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "042" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Inland waterways and ports (regional and local)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/041>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "041" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Inland waterways and ports (TEN-T)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/040>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "040" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other seaports"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/039>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "039" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Seaports (TEN-T)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/038>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "038" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other airports1"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/037>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "037" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Airports (TEN-T)[1]"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/036>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "036" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Multimodal transport"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/035>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "035" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Multimodal transport (TEN-T)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/034>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "034" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other reconstructed or improved road (motorway, national, regional or local)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/033>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "033" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "TEN-T reconstructed or improved road"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/032>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "032" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Local access roads (new build)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/031>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "031" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other national and regional roads (new build)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/030>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "030" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Secondary road links to TEN-T road network and nodes (new build)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/029>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "029" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "TEN-T motorways and roads — comprehensive network (new build)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/028>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "028" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "TEN-T motorways and roads — core network (new build)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/027>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "027" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Mobile rail assets"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/026>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "026" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other Railways"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/025>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "025" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Railways (TEN-T comprehensive)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/024>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "024" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Railways (TEN-T Core)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/2fd5fc3f-b72d-4d3e-bb02-72fbc8db8018>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Transport infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "2fd5fc3f-b72d-4d3e-bb02-72fbc8db8018" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/024> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/025> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/026> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/027> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/028> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/029> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/030> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/031> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/032> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/033> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/034> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/035> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/036> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/037> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/038> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/039> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/040> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/041> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/042> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/023>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "023" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Environmental measures aimed at reducing and / or avoiding greenhouse gas emissions (including treatment and storage of methane gas and composting)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/022>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "022" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Waste water treatment"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/021>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "021" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Water management and drinking water conservation (including river basin management, water supply, specific climate change adaptation measures, district and consumer metering, charging systems and leak reduction)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/020>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "020" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Provision of water for human consumption (extraction, treatment, storage and distribution infrastructure)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/019>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "019" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Commercial, industrial or hazardous waste management"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/018>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "018" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Household waste management, (including mechanical biological treatment, thermal treatment, incineration and landfill measures)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/017>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "017" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Household waste management,  (including minimisation, sorting, recycling measures)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/8ca8dae9-9031-41c3-ba23-003d0ad5e71c>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Environmental infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "8ca8dae9-9031-41c3-ba23-003d0ad5e71c" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/017> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/018> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/019> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/020> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/021> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/022> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/023> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/016>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "016" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "High efficiency co-generation and district heating"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/015>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "015" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Intelligent Energy Distribution Systems at medium and low voltage levels (including smart grids and ICT systems)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/014>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "014" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energy efficiency renovation of existing housing stock, demonstration projects and supporting measures"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/013>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "013" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energy efficiency renovation of public infrastructure, demonstration projects and supporting measures"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/012>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "012" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other renewable energy (including hydroelectric, geothermal and marine energy) and renewable energy integration (including storage, power to gas and renewable hydrogen infrastructure)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/011>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "011" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renewable energy: biomass"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/010>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "010" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renewable energy: solar"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/009>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "009" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renewable energy: wind"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/008>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "008" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Natural gas (TEN-E)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/007>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "007" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Natural gas"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/006>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "006" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Electricity (TEN-E storage and transmission)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/005>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "005" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Electricity (storage and transmission)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/028e0f19-637d-4f68-a3a7-2bb90c47e4ac>
+        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energy infrastructure"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "028e0f19-637d-4f68-a3a7-2bb90c47e4ac" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/005> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/006> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/007> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/008> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/009> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/010> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/011> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/012> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/013> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/014> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/015> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/016> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/9eb65038-35a1-404e-b438-1b9a0057d6d9>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "II Infrastructure providing basic services and related investment"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "9eb65038-35a1-404e-b438-1b9a0057d6d9" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/028e0f19-637d-4f68-a3a7-2bb90c47e4ac> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/8ca8dae9-9031-41c3-ba23-003d0ad5e71c> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/2fd5fc3f-b72d-4d3e-bb02-72fbc8db8018> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/f6448a87-a1d3-46f6-a938-cf16ce6c8e07> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/4b1b6297-367b-46fb-a0b5-ea4c67bc8886> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/004>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "004" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Productive investment linked to the cooperation between large enterprises and SMEs for developing information and communication technology(‘ICT’) products and services, e-commerce and enhancing demand for ICT"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/003>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "003" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Productive investment in large enterprises linked to the low-carbon economy"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/002>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "002" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Research and innovation processes in large enterprises"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/001>
+        <http://www.w3.org/2004/02/skos/core#note>  "3" ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "001" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Generic productive investment in small and medium –sized enterprises (‘SMEs’)"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields/b1c84dc6-a480-4b53-aa83-725f1d341873>
+        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>  "I Productive investment"@en ;
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#notation>  "b1c84dc6-a480-4b53-aa83-725f1d341873" ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/intervention_fields> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/001> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/002> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/003> ;
+        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/004> .
+
+<http://data.openbudgets.eu/resource/codelist/intervention_fields>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the EU intervention fields 2014-2020"@en ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/b1c84dc6-a480-4b53-aa83-725f1d341873> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/9eb65038-35a1-404e-b438-1b9a0057d6d9> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/412e1e87-64db-4fb8-81db-b239f40a5bff> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/07f68889-b85d-4e77-8b02-6bd232f79bf6> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/9a9e3255-c605-4330-aba7-22a043d5016f> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/38c6fa25-0b47-4bb6-b507-7b6d553d3f63> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/f9a2856f-14f3-427f-bd68-04d511f2d64e> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/958f3b80-5e7e-4e0e-9a3a-2e72e917f74a> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/intervention_fields/9360dbce-5958-4503-a22a-0e769cbb36ed> .
