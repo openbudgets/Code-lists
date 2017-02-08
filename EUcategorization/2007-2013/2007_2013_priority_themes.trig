@@ -1,811 +1,641 @@
-<http://data.openbudgets.eu/resource/codelist/priority_themes/01>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "01" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "R&TD activities in research centres"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/02>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "02" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "R&TD infrastructure and centres of competence in a specific technology"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/03>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "03" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technology transfer and improvement of cooperation networks ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/04>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "04" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Assistance to R&TD, particularly in SMEs (including access to R&TD services in research centres)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/05>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "05" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Advanced support services for firms and groups of firms"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/06>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "06" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Assistance to SMEs for the promotion of environmentally-friendly products and production processes (...)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/07>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "07" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Investment in firms directly linked to research and innovation (...)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/08>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "08" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other investment in firms"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/09>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "09" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other measures to stimulate research and innovation and entrepreneurship in SMEs"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/10>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "10" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Telephone infrastructures (including broadband networks)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/11>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "11" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Information and communication technologies (...)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/12>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "12" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Information and communication technologies (TEN-ICT)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/13>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "13" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Services and applications for citizens (e-health, e-government, e-learning, e-inclusion, etc.)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/14>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "14" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Services and applications for SMEs (e-commerce, education and training, networking, etc.)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/15>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "15" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other measures for improving access to and efficient use of ICT by SMEs"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/16>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "16" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Railways"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/17>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "17" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Railways (TEN-T)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/18>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "18" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Mobile rail assets"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/19>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "19" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Mobile rail assets (TEN-T)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/20>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "20" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Motorways"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/21>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "21" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Motorways (TEN-T)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/22>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "22" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "National roads"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/23>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "23" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Regional/local roads"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/24>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "24" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Cycle tracks"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/25>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "25" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Urban transport"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/26>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "26" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Multimodal transport"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/27>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "27" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Multimodal transport (TEN-T)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/28>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "28" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Intelligent transport systems"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/29>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "29" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Airports"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/30>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "30" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Ports"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/31>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "31" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Inland waterways (regional and local)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/32>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "32" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Inland waterways (TEN-T)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/33>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "33" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Electricity"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/34>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "34" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Electricity (TEN-E)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/35>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "35" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Natural gas"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/36>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "36" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Natural gas (TEN-E)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/37>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "37" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Petroleum products"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/38>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "38" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Petroleum products (TEN-E)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/39>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "39" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renewable energy: wind"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/40>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "40" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renewable energy: solar"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/41>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "41" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renewable energy: biomass"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/42>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "42" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renewable energy: hydroelectric, geothermal and other"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/43>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "43" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energy efficiency, co-generation, energy management"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/44>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "44" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Management of household and industrial waste"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/45>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "45" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Management and distribution of water (drink water)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/46>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "46" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Water treatment (waste water)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/47>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "47" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Air quality"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/48>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "48" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrated prevention and pollution control"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/49>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "49" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Mitigation and adaption to climate change"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/50>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "50" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Rehabilitation of industrial sites and contaminated land"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/51>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "51" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promotion of biodiversity and nature protection (including Natura 2000)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/52>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "52" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promotion of clean urban transport"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/53>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "53" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Risk prevention (...)"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/54>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "54" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other measures to preserve the environment and prevent risks"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/55>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "55" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promotion of natural assets"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/56>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "56" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Protection and development of natural heritage"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/57>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "57" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other assistance to improve tourist services"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/58>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "58" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Protection and preservation of the cultural heritage"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/59>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "59" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development of cultural infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/60>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "60" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other assistance to improve cultural services"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/61>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "61" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Integrated projects for urban and rural regeneration"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/62>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "62" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development of life-long learning systems and strategies in firms"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/63>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "63" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Design and dissemination of innovative and more productive ways of organising work"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/64>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "64" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Development of special services for employment, training and support in connection with restructuring of sectors ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/65>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "65" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Modernisation and strengthening labour market institutions"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/66>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "66" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Implementing active and preventive measures on the labour market"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/67>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "67" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Measures encouraging active ageing and prolonging working lives"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/68>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "68" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Support for self-employment and business start-up"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/69>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "69" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Measures to improve access to employment and increase sustainable participation and progress of women ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/70>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "70" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Specific action to increase migrants' participation in employment ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/71>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "71" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Pathways to integration and re-entry into employment for disadvantaged people ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/72>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "72" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Design, introduction and implementing of reforms in education and training systems ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/73>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "73" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Measures to increase participation in education and training throughut the life-cycle ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/74>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "74" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Developing human potential in the field of research and innovation, in particular through post-graduate studies ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/75>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "75" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Education infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/76>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "76" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Health infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/77>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "77" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Childcare infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/78>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "78" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Housing infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/79>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "79" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other social infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/80>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "80" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promoting the partnerships, pacts and initiatives through the networking of relevant stakeholders"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/81>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "81" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Mechanisms for improving good policy and programme design, monitoring and evaluation ..."@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/82>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "82" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Compensation of any additional costs due to accessibility deficit and territorial fragmentation"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/83>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "83" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Specific action addressed to compensate additional costs due to size market factors"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/84>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "84" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Support to compensate additional costs due to climate conditions and relief difficulties"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/85>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "85" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Preparation, implementation, monitoring and inspection"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/86>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "86" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Evaluation and studies"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/42a29002-163e-4410-b920-611bc5f0c543>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Innovation & RTD"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/01> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/02> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/03> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/04> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/06> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/07> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/09> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/74> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/e68db50b-fc65-430b-a86b-2edf2fc3a0f1>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "IT services and infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/10> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/11> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/12> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/13> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/14> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/15> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/adb366bf-f9b5-4133-8607-92a38f92a795>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other SME and Business support"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/05> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/08> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/68> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/2e543228-938f-463d-9b50-0fcdd3a5de3a>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energy"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/33> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/34> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/35> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/36> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/37> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/38> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/39> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/40> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/41> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/42> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/43> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/ee4e8a2a-0b3f-4054-b4a1-78d661ff24de>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Environment"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/44> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/45> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/46> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/47> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/48> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/49> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/50> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/51> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/53> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/54> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/55> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/56> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/9bb52888-e06e-4520-b504-7e0172a6e1ef>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Culture, heritage and tourism"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/24> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/57> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/58> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/59> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/60> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/03a7864d-e549-4d59-b31a-35c71459e6ce>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Urban and territorial dimension"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/61> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/82> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/83> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/84> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/86fde192-0d5b-4628-ae93-de55973258f9>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Rail"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/16> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/17> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/18> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/19> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/015f7e06-3833-456e-ae34-e7bd896539a8>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Road"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/20> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/21> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/22> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/23> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/4341b97c-eb58-4621-957d-a8069a7240b8>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Other transport"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/25> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/26> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/27> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/28> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/29> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/30> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/31> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/32> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/52> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/51221d72-c553-460e-b385-5eb1b4349338>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Labour market"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/63> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/64> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/65> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/66> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/67> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/69> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/1a6d76cf-4f4e-4a5e-a45d-64e5fb9b10ec>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Social Inclusion"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/70> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/71> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/807c10fc-bb80-4e3b-8c54-dcc89eae318b>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Social infrastructure"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/75> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/76> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/77> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/78> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/79> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/f7db728c-29fa-4f66-b2c9-c3ccad43d1cc>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Human capital"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/62> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/72> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/73> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes/ead90151-c685-4963-b0b0-56a9e2ce58af>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Capacity Building"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/80> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/81> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/85> ;
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/priority_themes/86> .
-
-<http://data.openbudgets.eu/resource/codelist/priority_themes>
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the EU priority themes 2007-2013"@en ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/ead90151-c685-4963-b0b0-56a9e2ce58af> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/f7db728c-29fa-4f66-b2c9-c3ccad43d1cc> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/807c10fc-bb80-4e3b-8c54-dcc89eae318b> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/1a6d76cf-4f4e-4a5e-a45d-64e5fb9b10ec> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/51221d72-c553-460e-b385-5eb1b4349338> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/4341b97c-eb58-4621-957d-a8069a7240b8> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/015f7e06-3833-456e-ae34-e7bd896539a8> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/86fde192-0d5b-4628-ae93-de55973258f9> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/03a7864d-e549-4d59-b31a-35c71459e6ce> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/9bb52888-e06e-4520-b504-7e0172a6e1ef> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/ee4e8a2a-0b3f-4054-b4a1-78d661ff24de> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/2e543228-938f-463d-9b50-0fcdd3a5de3a> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/adb366bf-f9b5-4133-8607-92a38f92a795> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/e68db50b-fc65-430b-a86b-2edf2fc3a0f1> ;
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/priority_themes/42a29002-163e-4410-b920-611bc5f0c543> .
+<http://data.openbudgets.eu/resource/codelist/priority_themes> {
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/01> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "01" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "R&TD activities in research centres"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/02> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "02" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "R&TD infrastructure and centres of competence in a specific technology"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/03> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "03" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Technology transfer and improvement of cooperation networks ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/04> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "04" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Assistance to R&TD, particularly in SMEs (including access to R&TD services in research centres)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/05> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "05" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Advanced support services for firms and groups of firms"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/06> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "06" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Assistance to SMEs for the promotion of environmentally-friendly products and production processes (...)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/07> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "07" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Investment in firms directly linked to research and innovation (...)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/08> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "08" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other investment in firms"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/09> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "09" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other measures to stimulate research and innovation and entrepreneurship in SMEs"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/10> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "10" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Telephone infrastructures (including broadband networks)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/11> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "11" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Information and communication technologies (...)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/12> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "12" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Information and communication technologies (TEN-ICT)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/13> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "13" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Services and applications for citizens (e-health, e-government, e-learning, e-inclusion, etc.)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/14> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "14" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Services and applications for SMEs (e-commerce, education and training, networking, etc.)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/15> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "15" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other measures for improving access to and efficient use of ICT by SMEs"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/16> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "16" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Railways"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/17> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "17" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Railways (TEN-T)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/18> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "18" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Mobile rail assets"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/19> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "19" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Mobile rail assets (TEN-T)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/20> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "20" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Motorways"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/21> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "21" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Motorways (TEN-T)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/22> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "22" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "National roads"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/23> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "23" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional/local roads"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/24> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "24" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Cycle tracks"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/25> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "25" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Urban transport"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/26> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "26" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Multimodal transport"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/27> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "27" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Multimodal transport (TEN-T)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/28> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "28" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Intelligent transport systems"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/29> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "29" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Airports"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/30> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "30" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Ports"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/31> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "31" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Inland waterways (regional and local)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/32> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "32" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Inland waterways (TEN-T)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/33> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "33" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Electricity"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/34> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "34" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Electricity (TEN-E)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/35> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "35" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural gas"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/36> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "36" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural gas (TEN-E)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/37> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "37" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum products"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/38> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "38" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum products (TEN-E)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/39> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "39" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Renewable energy: wind"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/40> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "40" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Renewable energy: solar"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/41> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "41" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Renewable energy: biomass"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/42> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "42" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Renewable energy: hydroelectric, geothermal and other"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/43> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "43" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Energy efficiency, co-generation, energy management"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/44> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "44" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Management of household and industrial waste"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/45> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "45" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Management and distribution of water (drink water)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/46> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "46" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Water treatment (waste water)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/47> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "47" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Air quality"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/48> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "48" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Integrated prevention and pollution control"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/49> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "49" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Mitigation and adaption to climate change"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/50> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "50" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Rehabilitation of industrial sites and contaminated land"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/51> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "51" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promotion of biodiversity and nature protection (including Natura 2000)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/52> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "52" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promotion of clean urban transport"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/53> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "53" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Risk prevention (...)"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/54> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "54" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other measures to preserve the environment and prevent risks"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/55> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "55" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promotion of natural assets"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/56> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "56" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Protection and development of natural heritage"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/57> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "57" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other assistance to improve tourist services"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/58> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "58" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Protection and preservation of the cultural heritage"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/59> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "59" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Development of cultural infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/60> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "60" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other assistance to improve cultural services"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/61> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "61" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Integrated projects for urban and rural regeneration"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/62> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "62" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Development of life-long learning systems and strategies in firms"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/63> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "63" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Design and dissemination of innovative and more productive ways of organising work"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/64> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "64" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Development of special services for employment, training and support in connection with restructuring of sectors ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/65> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "65" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Modernisation and strengthening labour market institutions"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/66> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "66" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Implementing active and preventive measures on the labour market"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/67> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "67" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Measures encouraging active ageing and prolonging working lives"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/68> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "68" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Support for self-employment and business start-up"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/69> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "69" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Measures to improve access to employment and increase sustainable participation and progress of women ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/70> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "70" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Specific action to increase migrants' participation in employment ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/71> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "71" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Pathways to integration and re-entry into employment for disadvantaged people ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/72> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "72" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Design, introduction and implementing of reforms in education and training systems ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/73> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "73" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Measures to increase participation in education and training throughut the life-cycle ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/74> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "74" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Developing human potential in the field of research and innovation, in particular through post-graduate studies ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/75> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "75" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Education infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/76> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "76" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Health infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/77> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "77" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Childcare infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/78> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "78" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Housing infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/79> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "79" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other social infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/80> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "80" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promoting the partnerships, pacts and initiatives through the networking of relevant stakeholders"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/81> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "81" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechanisms for improving good policy and programme design, monitoring and evaluation ..."@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/82> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "82" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Compensation of any additional costs due to accessibility deficit and territorial fragmentation"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/83> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "83" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Specific action addressed to compensate additional costs due to size market factors"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/84> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "84" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Support to compensate additional costs due to climate conditions and relief difficulties"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/85> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "85" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Preparation, implementation, monitoring and inspection"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/86> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "86" ; 
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Evaluation and studies"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> . 
+		 
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/9c93dd2f-6391-4589-a3f4-a0ab897daae2> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Innovation & RTD"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/01>, <http://data.openbudgets.eu/resource/codelist/priority_themes/02>, <http://data.openbudgets.eu/resource/codelist/priority_themes/03>, <http://data.openbudgets.eu/resource/codelist/priority_themes/04>, <http://data.openbudgets.eu/resource/codelist/priority_themes/06>, <http://data.openbudgets.eu/resource/codelist/priority_themes/07>, <http://data.openbudgets.eu/resource/codelist/priority_themes/09>, <http://data.openbudgets.eu/resource/codelist/priority_themes/74> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/c466c086-0a27-4710-afd0-2b125d81756e> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "IT services and infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/10>, <http://data.openbudgets.eu/resource/codelist/priority_themes/11>, <http://data.openbudgets.eu/resource/codelist/priority_themes/12>, <http://data.openbudgets.eu/resource/codelist/priority_themes/13>, <http://data.openbudgets.eu/resource/codelist/priority_themes/14>, <http://data.openbudgets.eu/resource/codelist/priority_themes/15> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/c23adbce-d9cc-43f7-b75d-ab2eebec4281> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other SME and Business support"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/05>, <http://data.openbudgets.eu/resource/codelist/priority_themes/08>, <http://data.openbudgets.eu/resource/codelist/priority_themes/68> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/e259b0c9-eee1-4125-8d38-9f9e69c3e89f> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Energy"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/33>, <http://data.openbudgets.eu/resource/codelist/priority_themes/34>, <http://data.openbudgets.eu/resource/codelist/priority_themes/35>, <http://data.openbudgets.eu/resource/codelist/priority_themes/36>, <http://data.openbudgets.eu/resource/codelist/priority_themes/37>, <http://data.openbudgets.eu/resource/codelist/priority_themes/38>, <http://data.openbudgets.eu/resource/codelist/priority_themes/39>, <http://data.openbudgets.eu/resource/codelist/priority_themes/40>, <http://data.openbudgets.eu/resource/codelist/priority_themes/41>, <http://data.openbudgets.eu/resource/codelist/priority_themes/42>, <http://data.openbudgets.eu/resource/codelist/priority_themes/43> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/6fe3a996-3987-4570-b23c-007c3a4982c6> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Environment"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/44>, <http://data.openbudgets.eu/resource/codelist/priority_themes/45>, <http://data.openbudgets.eu/resource/codelist/priority_themes/46>, <http://data.openbudgets.eu/resource/codelist/priority_themes/47>, <http://data.openbudgets.eu/resource/codelist/priority_themes/48>, <http://data.openbudgets.eu/resource/codelist/priority_themes/49>, <http://data.openbudgets.eu/resource/codelist/priority_themes/50>, <http://data.openbudgets.eu/resource/codelist/priority_themes/51>, <http://data.openbudgets.eu/resource/codelist/priority_themes/53>, <http://data.openbudgets.eu/resource/codelist/priority_themes/54>, <http://data.openbudgets.eu/resource/codelist/priority_themes/55>, <http://data.openbudgets.eu/resource/codelist/priority_themes/56> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/cd992329-4619-4703-9ee8-546f89a7a24d> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Culture, heritage and tourism"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/24>, <http://data.openbudgets.eu/resource/codelist/priority_themes/57>, <http://data.openbudgets.eu/resource/codelist/priority_themes/58>, <http://data.openbudgets.eu/resource/codelist/priority_themes/59>, <http://data.openbudgets.eu/resource/codelist/priority_themes/60> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/ed67d848-9a71-45b9-ae4d-2ac11453e73a> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Urban and territorial dimension"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/61>, <http://data.openbudgets.eu/resource/codelist/priority_themes/82>, <http://data.openbudgets.eu/resource/codelist/priority_themes/83>, <http://data.openbudgets.eu/resource/codelist/priority_themes/84> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/453c478e-108a-48e2-b0ea-361f8a91bd9c> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Rail"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/16>, <http://data.openbudgets.eu/resource/codelist/priority_themes/17>, <http://data.openbudgets.eu/resource/codelist/priority_themes/18>, <http://data.openbudgets.eu/resource/codelist/priority_themes/19> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/acafa556-be43-4865-a1ac-396fbe147ce2> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Road"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/20>, <http://data.openbudgets.eu/resource/codelist/priority_themes/21>, <http://data.openbudgets.eu/resource/codelist/priority_themes/22>, <http://data.openbudgets.eu/resource/codelist/priority_themes/23> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/5e02f4af-f231-4193-ae42-b3beaa4e7d0e> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Other transport"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/25>, <http://data.openbudgets.eu/resource/codelist/priority_themes/26>, <http://data.openbudgets.eu/resource/codelist/priority_themes/27>, <http://data.openbudgets.eu/resource/codelist/priority_themes/28>, <http://data.openbudgets.eu/resource/codelist/priority_themes/29>, <http://data.openbudgets.eu/resource/codelist/priority_themes/30>, <http://data.openbudgets.eu/resource/codelist/priority_themes/31>, <http://data.openbudgets.eu/resource/codelist/priority_themes/32>, <http://data.openbudgets.eu/resource/codelist/priority_themes/52> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/c50c550b-150c-410b-b3b9-e878e8e48661> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Labour market"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/63>, <http://data.openbudgets.eu/resource/codelist/priority_themes/64>, <http://data.openbudgets.eu/resource/codelist/priority_themes/65>, <http://data.openbudgets.eu/resource/codelist/priority_themes/66>, <http://data.openbudgets.eu/resource/codelist/priority_themes/67>, <http://data.openbudgets.eu/resource/codelist/priority_themes/69> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/e68d1dc0-c6ab-424b-b21a-7e6e1f9e1a07> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Social Inclusion"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/70>, <http://data.openbudgets.eu/resource/codelist/priority_themes/71> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/9e59a52e-f42b-4dbd-b668-96202ac7ca78> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Social infrastructure"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/75>, <http://data.openbudgets.eu/resource/codelist/priority_themes/76>, <http://data.openbudgets.eu/resource/codelist/priority_themes/77>, <http://data.openbudgets.eu/resource/codelist/priority_themes/78>, <http://data.openbudgets.eu/resource/codelist/priority_themes/79> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/8edb3f9a-f9eb-4ca6-93fb-bf0535ab9112> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Human capital"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/62>, <http://data.openbudgets.eu/resource/codelist/priority_themes/72>, <http://data.openbudgets.eu/resource/codelist/priority_themes/73> .
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes/8628341c-ebba-4ec2-a9a0-76a6143c8337> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Capacity Building"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/priority_themes> ;
+		 <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/priority_themes/80>, <http://data.openbudgets.eu/resource/codelist/priority_themes/81>, <http://data.openbudgets.eu/resource/codelist/priority_themes/85>, <http://data.openbudgets.eu/resource/codelist/priority_themes/86> . 
+
+	<http://data.openbudgets.eu/resource/codelist/priority_themes> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+		 <http://www.w3.org/2000/01/rdf-schema#label> "Code list of the EU priority themes 2007-2013"@en;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/8628341c-ebba-4ec2-a9a0-76a6143c8337> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/8edb3f9a-f9eb-4ca6-93fb-bf0535ab9112> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/9e59a52e-f42b-4dbd-b668-96202ac7ca78> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/e68d1dc0-c6ab-424b-b21a-7e6e1f9e1a07> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/c50c550b-150c-410b-b3b9-e878e8e48661> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/5e02f4af-f231-4193-ae42-b3beaa4e7d0e> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/acafa556-be43-4865-a1ac-396fbe147ce2> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/453c478e-108a-48e2-b0ea-361f8a91bd9c> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/ed67d848-9a71-45b9-ae4d-2ac11453e73a> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/cd992329-4619-4703-9ee8-546f89a7a24d> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/6fe3a996-3987-4570-b23c-007c3a4982c6> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/e259b0c9-eee1-4125-8d38-9f9e69c3e89f> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/c23adbce-d9cc-43f7-b75d-ab2eebec4281> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/c466c086-0a27-4710-afd0-2b125d81756e> ;
+		 <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/priority_themes/9c93dd2f-6391-4589-a3f4-a0ab897daae2> .
+}

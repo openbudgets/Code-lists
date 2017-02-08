@@ -1,166 +1,140 @@
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-6> .
+<http://data.openbudgets.eu/resource/codelist/ee-operational-programme> {
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-6>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-6" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Energiatõhusus."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-6> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-12> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-6" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Energiatõhusus."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-12>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-12" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Haldusvõimekus."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-12> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-11> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-12> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-12" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Haldusvõimekus."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-11>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-11" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "IKT teenuste taristu."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-11> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-9> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-11> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-11" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "IKT teenuste taristu."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-9>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-9" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Jätkusuutlik linnapiirkondade areng."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-9> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-10> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-9> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-9" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Jätkusuutlik linnapiirkondade areng."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-10>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-10" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Jätkusuutlik transport."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-10> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-4> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-10> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-10" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Jätkusuutlik transport."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-4>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-4" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Kasvuvõimeline ettevõtlus ja seda toetav teadus- ja arendustegevus."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-4> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-8> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-4" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasvuvõimeline ettevõtlus ja seda toetav teadus- ja arendustegevus."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-8>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-8" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Roheline infrastruktuur ja hädaolukordadeks valmisoleku suurendamine."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-8> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-2> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-8> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-8" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Roheline infrastruktuur ja hädaolukordadeks valmisoleku suurendamine."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-2>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-2" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Sotsiaalse kaasatuse suurendamine."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-2> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-13> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-2" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Sotsiaalse kaasatuse suurendamine."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-13>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-13" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Tehniline abi (ERF)"@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-13> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-14> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-13> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-13" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Tehniline abi (ERF)"@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-14>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-14" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Tehnilise abi prioriteetne suund  (ÜF)"@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-14> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-3> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-14> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-14" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Tehnilise abi prioriteetne suund  (ÜF)"@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-3>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-3" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Tööturule juurdepääsu parandamine ja tööturult väljalangemise ennetamine."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-3> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-1> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-3" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Tööturule juurdepääsu parandamine ja tööturult väljalangemise ennetamine."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-1>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Ühiskonna vajadustele vastav haridus ja hea ettevalmistus osalemaks tööturul."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-1> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-5> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Ühiskonna vajadustele vastav haridus ja hea ettevalmistus osalemaks tööturul."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-5>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-5" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Väikese ja keskmise suurusega ettevõtete arendamine ja piirkondade konkurentsivõime tugevdamine."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-5> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-7> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-5" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Väikese ja keskmise suurusega ettevõtete arendamine ja piirkondade konkurentsivõime tugevdamine."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-7>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001-7" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Veekaitse."@et ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-7> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014EE16M3OP001" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme for Cohesion Policy Funding 2014-2020"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001-7> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001-7" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Veekaitse."@et ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/ee-operational-programme>
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the operational programme of EE 2014-2020"@en .
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014EE16M3OP001" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme for Cohesion Policy Funding 2014-2020"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme> .
+
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/ee-operational-programme/2014EE16M3OP001> .
+ 
+	<http://data.openbudgets.eu/resource/codelist/ee-operational-programme> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+		 <http://www.w3.org/2000/01/rdf-schema#label> "Code list of the operational programme of EE 2014-2020"@en .
+}

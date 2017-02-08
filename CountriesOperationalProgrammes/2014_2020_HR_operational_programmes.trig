@@ -1,188 +1,157 @@
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-3> .
+<http://data.openbudgets.eu/resource/codelist/hr-operational-programme> {
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-3>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR05M9OP001-3" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Education and lifelong learning"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-3> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-4> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR05M9OP001-3" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Education and lifelong learning"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-4>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR05M9OP001-4" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Good governance"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-4> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-1> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR05M9OP001-4" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Good governance"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-1>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR05M9OP001-1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "High employment and labour mobility"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-1> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-2> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR05M9OP001-1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "High employment and labour mobility"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-2>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR05M9OP001-2" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Social inclusion"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-2> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-5> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR05M9OP001-2" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Social inclusion"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-5>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR05M9OP001-5" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technical Assistance"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-5> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-3> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR05M9OP001-5" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Technical Assistance"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-3>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-3" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Business Competitiveness"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-3> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-5> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-3" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Business Competitiveness"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-5>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-5" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Climate Change and Risk Management"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-5> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-7> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-5" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Climate Change and Risk Management"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-7>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-7" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Connectivity and Mobility"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-7> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-9> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-7> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-7" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Connectivity and Mobility"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-9>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-9" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Education, Skills and Lifelong Learning"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-9> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-6> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-9> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-9" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Education, Skills and Lifelong Learning"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-6>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-6" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Environmental Protection and Sustainability of Resources"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-6> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-4> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-6> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-6" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Environmental Protection and Sustainability of Resources"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-4>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-4" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promoting Energy Efficiency and Renewable Energy Sources"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-4> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-8> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-4" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promoting Energy Efficiency and Renewable Energy Sources"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-8>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-8" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Social Inclusion and Health"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-8> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-1> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-8> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-8" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Social Inclusion and Health"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-1>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Strengthening the Economy through Application of Research and Innovation"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-1> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-10> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Strengthening the Economy through Application of Research and Innovation"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-10>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-10" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Technical Assistance"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-10> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-2> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-10> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-10" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Technical Assistance"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-2>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001-2" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Use of Information and Communication Technologies"@hr ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-2> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR05M9OP001" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "ESF Operational Programme Efficient Human Resources 2014-2020"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001-2" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Use of Information and Communication Technologies"@hr ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme>
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR05M9OP001" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "ESF Operational Programme Efficient Human Resources 2014-2020"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014HR16M1OP001" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Competitiveness and Cohesion OP"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR05M9OP001> .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014HR16M1OP001" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Competitiveness and Cohesion OP"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/hr-operational-programme>
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the operational programme of HR 2014-2020"@en .
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/hr-operational-programme/2014HR16M1OP001> .
+ 
+	<http://data.openbudgets.eu/resource/codelist/hr-operational-programme> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+		 <http://www.w3.org/2000/01/rdf-schema#label> "Code list of the operational programme of HR 2014-2020"@en .
+}

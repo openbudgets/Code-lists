@@ -1,100 +1,85 @@
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP4> .
+<http://data.openbudgets.eu/resource/codelist/lu-operational-programme> {
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP4>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU05SFOP001-AP4" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Assistance technique"@lb ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP4> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP3> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU05SFOP001-AP4" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Assistance technique"@lb ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP3>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU05SFOP001-AP3" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Promouvoir l’acquisition de nouvelles compétences."@lb ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP3> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP2> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU05SFOP001-AP3" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Promouvoir l’acquisition de nouvelles compétences."@lb ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP2>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU05SFOP001-AP2" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renforcer l’inclusion sociale."@lb ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP2> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP1> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU05SFOP001-AP2" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Renforcer l’inclusion sociale."@lb ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP1>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU05SFOP001-AP1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Soutenir l’intégration professionnelle durable."@lb ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP1> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-3> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001-AP1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU05SFOP001-AP1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Soutenir l’intégration professionnelle durable."@lb ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-3>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU16RFOP001-3" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Gestion, communication et mise en œuvre du PO"@lb ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-3> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-1> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU16RFOP001-3" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Gestion, communication et mise en œuvre du PO"@lb ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-1>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU16RFOP001-1" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Renforcer la recherche, le développement technologique et l'innovation"@lb ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-1> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001>
-        <http://www.w3.org/2004/02/skos/core#narrower>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-2> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU16RFOP001-1" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Renforcer la recherche, le développement technologique et l'innovation"@lb ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-2>
-        <http://www.w3.org/2004/02/skos/core#note>  "2" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU16RFOP001-2" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Soutenir la transition vers une économie à faible émission de carbone dans l'ensemble des secteurs"@lb ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#broader>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-2> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU05SFOP001" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ESF 2014-2020"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU16RFOP001-2" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Soutenir la transition vers une économie à faible émission de carbone dans l'ensemble des secteurs"@lb ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme>
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU05SFOP001" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme ESF 2014-2020"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001>
-        <http://www.w3.org/2004/02/skos/core#note>  "1" ;
-        <http://www.w3.org/2004/02/skos/core#notation>  "2014LU16RFOP001" ;
-        <http://www.w3.org/2004/02/skos/core#prefLabel>  "Operational Programme ERDF Luxembourg 2014-2020"@en ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#Concept> ;
-        <http://www.w3.org/2004/02/skos/core#inScheme>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> ;
-        <http://www.w3.org/2004/02/skos/core#topConceptOf>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU05SFOP001> .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> <http://www.w3.org/2004/02/skos/core#note> "1" ;
+		 <http://www.w3.org/2004/02/skos/core#notation> "2014LU16RFOP001" ;
+		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Programme ERDF Luxembourg 2014-2020"@en ;
+		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
+		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> ;
+		 <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme> .
 
-<http://data.openbudgets.eu/resource/codelist/lu-operational-programme>
-        <http://www.w3.org/2004/02/skos/core#hasTopConcept>  <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> ;
-        <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-        <http://www.w3.org/2000/01/rdf-schema#label>  "Code list of the operational programme of LU 2014-2020"@en .
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://data.openbudgets.eu/resource/codelist/lu-operational-programme/2014LU16RFOP001> .
+ 
+	<http://data.openbudgets.eu/resource/codelist/lu-operational-programme> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+		 <http://www.w3.org/2000/01/rdf-schema#label> "Code list of the operational programme of LU 2014-2020"@en .
+}
