@@ -4,7 +4,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix sesame: <http://www.openrdf.org/schema/sesame#> .
 @prefix fn: <http://www.w3.org/2005/xpath-functions#> .
-
+<http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014> {
 <http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014/6> <http://www.w3.org/2004/02/skos/core#notation> "6" ;
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "ΕΞΟΔΑ ΧΡΗΣΗΣ"@el ;
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
@@ -2457,3 +2457,4 @@
 	a <http://www.w3.org/2004/02/skos/core#Concept> ;
 	<http://www.w3.org/2004/02/skos/core#topConceptOf> <http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014> ;
 	<http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/kae-ota-exodwn-2014> .
+}
