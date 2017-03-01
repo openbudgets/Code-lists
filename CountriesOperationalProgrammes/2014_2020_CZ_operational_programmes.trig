@@ -306,9 +306,9 @@
 		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/cz-operational-programme/2014CZ16RFOP002> ;
 		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/cz-operational-programme> .
 
-	<http://data.openbudgets.eu/resource/codelist/cz-operational-programme/2014CZ16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/cz-operational-programme/2014CZ16RFOP002-5-> .
+	<http://data.openbudgets.eu/resource/codelist/cz-operational-programme/2014CZ16RFOP002> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/cz-operational-programme/2014CZ16RFOP002-5> .
 
-	<http://data.openbudgets.eu/resource/codelist/cz-operational-programme/2014CZ16RFOP002-5-> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	<http://data.openbudgets.eu/resource/codelist/cz-operational-programme/2014CZ16RFOP002-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
 		 <http://www.w3.org/2004/02/skos/core#notation> "2014CZ16RFOP002-5." ;
 		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Technická pomoc"@cs ;
 		 a <http://www.w3.org/2004/02/skos/core#Concept> ;

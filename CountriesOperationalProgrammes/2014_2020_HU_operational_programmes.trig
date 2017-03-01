@@ -1,44 +1,44 @@
 <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> {
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-1-> .
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-1> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-1-> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-1> <http://www.w3.org/2004/02/skos/core#note> "2" ;
 		 <http://www.w3.org/2004/02/skos/core#notation> "2014HU05M2OP001-1." ;
 		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Együttműködő társadalom"@hu ;
 		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
 		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
 		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-3-> .
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-3> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-3-> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-3> <http://www.w3.org/2004/02/skos/core#note> "2" ;
 		 <http://www.w3.org/2004/02/skos/core#notation> "2014HU05M2OP001-3." ;
 		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Gyarapodó tudástőke"@hu ;
 		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
 		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
 		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-4-> .
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-4> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-4-> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-4> <http://www.w3.org/2004/02/skos/core#note> "2" ;
 		 <http://www.w3.org/2004/02/skos/core#notation> "2014HU05M2OP001-4." ;
 		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Infrastrukturális beruházások a gyarapodó tudástőke érdekében"@hu ;
 		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
 		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
 		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-2-> .
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-2> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-2-> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-2> <http://www.w3.org/2004/02/skos/core#note> "2" ;
 		 <http://www.w3.org/2004/02/skos/core#notation> "2014HU05M2OP001-2." ;
 		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében"@hu ;
 		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
 		 <http://www.w3.org/2004/02/skos/core#broader> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> ;
 		 <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-5-> .
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001> <http://www.w3.org/2004/02/skos/core#narrower> <http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-5> .
 
-	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-5-> <http://www.w3.org/2004/02/skos/core#note> "2" ;
+	<http://data.openbudgets.eu/resource/codelist/hu-operational-programme/2014HU05M2OP001-5> <http://www.w3.org/2004/02/skos/core#note> "2" ;
 		 <http://www.w3.org/2004/02/skos/core#notation> "2014HU05M2OP001-5." ;
 		 <http://www.w3.org/2004/02/skos/core#prefLabel> "Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések"@hu ;
 		 a <http://www.w3.org/2004/02/skos/core#Concept> ;
